@@ -1,2 +1,5 @@
-# amharic-qa
-The first Amharic Open Domain Question Answering Dataset
+# AmQA: Amharic Question Answering Dataset![image](https://user-images.githubusercontent.com/4354740/149789054-af05ba79-b03e-47d2-a5df-08fe24651822.png)
+
+## Abstract
+To get as concise information as possible for a natural language question, a plethora of Question Answering (QA) approaches has been proposed. To measure the performance of QA models, as well as to push its development enormous standard QA datasets have been introduced in different languages - except for Amharic. Amharic, the official language of Ethiopia, next to Arabic is the second most spoken Semitic language in the world. Hence, to put the Amharic language in the map of open domain QA datasets, we present the Amharic QA (AmQA) dataset. The dataset contains 378 documents and 2651 question answer pairs. The documents are crawled from Amharic Wikipedia and the web, whereas the question answer pairs are formulated by crowdsourcing. We describe the types of questions and answers in the dataset via an in-depth data analysis. We provide F-score and exact match baseline values using an XLM-R-based. We hope AmQA can serve as a valuable resource for research and evaluation in Amharic QA and thus QA can become a language technology for All.
+
