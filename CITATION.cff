@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'AmQA: Amharic Question Answering Dataset'
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Tilahun
+    family-names: Abedissa
+    email: tilahun.abedissa@aau.edu.et
+    affiliation: Addis Ababa University
+  - given-names: Ricardo
+    family-names: Usbeck
+    email: ricardo.usbeck@uni-hamburg.de
+    affiliation: Universität Hamburg
+    orcid: 'https://orcid.org/0000-0002-0191-7211'
+  - given-names: Yaregal
+    family-names: Assabie
+    email: yaregal.assabie@aau.edu.et
+    affiliation: Addis Ababa University
