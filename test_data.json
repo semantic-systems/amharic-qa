@@ -1,0 +1,5108 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በላሊበላ ስንት ውቅር አብያተ ክርስቲያናት አሉ?",
+              "id": 272819,
+              "answers": [
+                {
+                  "answer_id": 270463,
+                  "document_id": 266719,
+                  "question_id": 272819,
+                  "text": "11",
+                  "answer_start": 290,
+                  "answer_end": 292,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከላሊበላ አስራ አንዱ ውቅር አብያተ ክርስቲያናት ግዙፉ የትኛው ነው?",
+              "id": 272822,
+              "answers": [
+                {
+                  "answer_id": 270466,
+                  "document_id": 266719,
+                  "question_id": 272822,
+                  "text": "ቤተ መድሃኔ ዓለም",
+                  "answer_start": 372,
+                  "answer_end": 383,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከላሊበላ አስራ አንዱ ውቅር አብያተ ክርስቲያናት ቤተ ጊዮርጊስ ምን ዓይነት ቅርፅ አለው?",
+              "id": 272821,
+              "answers": [
+                {
+                  "answer_id": 270465,
+                  "document_id": 266719,
+                  "question_id": 272821,
+                  "text": "መስቀል",
+                  "answer_start": 340,
+                  "answer_end": 344,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከላሊበላ አስራ አንዱ ውቅር አብያተ ክርስቲያናት የመስቀል ቅርጽ ያለው የትኛው ነው?",
+              "id": 272820,
+              "answers": [
+                {
+                  "answer_id": 270464,
+                  "document_id": 266719,
+                  "question_id": 272820,
+                  "text": "ቤተ ጊዮርጊስ",
+                  "answer_start": 327,
+                  "answer_end": 335,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በላሊበላ የጌታ ልደት ቀን በልዩ ሁኔታ የሚዘመረው ቤዛ ኵሉ የተሰኘው ዝማሬ የሚቀርበው በየትኛው ቤተ መቅደስ ነው?",
+              "id": 272831,
+              "answers": [
+                {
+                  "answer_id": 270475,
+                  "document_id": 266719,
+                  "question_id": 272831,
+                  "text": "በቤተ ማርያም",
+                  "answer_start": 546,
+                  "answer_end": 554,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በላሊበላ የጌታ ልደት ቀን በቤተ ማርያም የሚቀርበው ልዩ ዝማሬ ምን ይባላል?",
+              "id": 272836,
+              "answers": [
+                {
+                  "answer_id": 270480,
+                  "document_id": 266719,
+                  "question_id": 272836,
+                  "text": "ቤዛ ኩሉ",
+                  "answer_start": 465,
+                  "answer_end": 470,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ንጉሡ ላሊበላ የሚለውን ስም ያገኘው፣ ሲወለድ በንቦች ስለተከበበ ነው። ላል ማለት ማር ማለት ሲሆን፤ ላሊበላ ማለትም -ላል ይበላል (ማር ይበላል) ማለት አንደሆነ ይነግራል።  ውቅር ቤተክርስቲያናቱን ንጉሡ ጠርቦ የስራቸው ከመላእክት እገዛ ጋር እንደሆነ በኢትዮጵያ ኦርቶዶክስ እምነት ተከታዮች ይነግራል። በ16ኛው ከፍለ ዘመን አውሮፓዊ ተጓዥ ላሊበላን ተመልክቶ «ያየሁትን ብናግር ማንም እንደኔ ካላየ በፍጹም አያምነኝም» ሲል ተናግሮ ነበር። በላሊበላ 11 ውቅር ዐብያተ ክርስቲያናት ያሉ ሲሆን ከነዚህም ውስጥ ቤተ ጊዮርጊስ (ባለ መስቀል ቅርፁ) ሲታይ ውሃልኩን የጠበቀ ይመስላል። ቤተ መድሃኔ ዓለም የተባለው ደግሞ ከሁሉም ትልቁ ነው። ላሊበላ (ዳግማዊ ኢየሩሳሌም) የገና በዓል ታህሳስ 29 በልዩ ሁኔታ ና ድምቀት ይከበራል፣ \"ቤዛ ኩሉ\" ተብሎ የሚጠራው በነግህ የሚደረገው ዝማሬ በዚሁ በዓል የሚታይ ልዩ ና ታላቅ ትዕይንት ነው።የሚደረገውም ከቅዳሴ በኋላ በቤተ ማርያም ሲሆን ከታች ባለ ነጭ ካባ ካህናት ከላይ ደግሞ ባለጥቁር ካብ ካህናት በቅዱስ ያሬድ ዜማ ቤዛ ኩሉ እያሉ ይዘምራሉ። 11ዱ የቅዱስ ላሊበላ ፍልፍል አብያተ ክርስቲያናት ቤተ መድሃኔ ዓለም፣ ቤተ ማርያም፣ ቤተ ደናግል፣ ቤተ መስቀል፣ ቤተ ደብረሲና፣ ቤተ ጎለጎታ፣ ቤተ አማኑኤል፣ ቤተ አባ ሊባኖስ፣ ቤተ መርቆሬዎስ፣ ቤተ ገብርኤል ወሩፋኤል፣ ቤተ ጊዮርጊስ ናቸው።",
+          "document_id": 266719
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "አዲስ አበባ የሚለውን ስም ለከተማዋ የሰጡት ማናቸው?",
+              "id": 207503,
+              "answers": [
+                {
+                  "answer_id": 261237,
+                  "document_id": 266689,
+                  "question_id": 207503,
+                  "text": "እቴጌ ጣይቱ",
+                  "answer_start": 28,
+                  "answer_end": 35,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "እቴጌ ጣይቱ አዲስ አበባ የሚለውን ስም ለከተማዋ የሰጡት መች ነበር?",
+              "id": 207504,
+              "answers": [
+                {
+                  "answer_id": 261238,
+                  "document_id": 266689,
+                  "question_id": 207504,
+                  "text": "ኅዳር ፲፬ ቀን ፲፰፻፸፱ (1879) ዓ.ም.",
+                  "answer_start": 36,
+                  "answer_end": 63,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አዲስ አበባ የኢትዮጵያ ምንድን ናት?",
+              "id": 207505,
+              "answers": [
+                {
+                  "answer_id": 261239,
+                  "document_id": 266689,
+                  "question_id": 207505,
+                  "text": "ዋና ከተማ",
+                  "answer_start": 191,
+                  "answer_end": 197,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአፍሪካ ሕብረት መቀመጫ መዲና ማናት?",
+              "id": 207506,
+              "answers": [
+                {
+                  "answer_id": 261240,
+                  "document_id": 266689,
+                  "question_id": 207506,
+                  "text": "አዲስ አበባ",
+                  "answer_start": 167,
+                  "answer_end": 174,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የኢትዮጵያ ዋና መዲና ማናት?",
+              "id": 207507,
+              "answers": [
+                {
+                  "answer_id": 261241,
+                  "document_id": 266689,
+                  "question_id": 207507,
+                  "text": "አዲስ አበባ",
+                  "answer_start": 8,
+                  "answer_end": 15,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ ከባህር ጠለል 2500 ሜትር ከፍታ የምትገኝ እንዲሁም በሀገሪቱ ትልቋ ከተማ ማን ትባላለች?",
+              "id": 207510,
+              "answers": [
+                {
+                  "answer_id": 261244,
+                  "document_id": 266689,
+                  "question_id": 207510,
+                  "text": "አዲስ አበባ",
+                  "answer_start": 167,
+                  "answer_end": 174,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አዲስ አበባ ከተማ ከባህር ጠለል በምን ያህል ከፍታ ትገኛለች?",
+              "id": 207511,
+              "answers": [
+                {
+                  "answer_id": 261245,
+                  "document_id": 266689,
+                  "question_id": 207511,
+                  "text": "በ2500 ሜትር",
+                  "answer_start": 426,
+                  "answer_end": 435,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አዲስ አበባ የተቆረቆረችው ማን በመረጠው ቦታ ነው?",
+              "id": 207512,
+              "answers": [
+                {
+                  "answer_id": 261246,
+                  "document_id": 266689,
+                  "question_id": 207512,
+                  "text": "እቴጌ ጣይቱ",
+                  "answer_start": 517,
+                  "answer_end": 524,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አዲስ አበባ የተመሰረተችው በማን ነው?",
+              "id": 207513,
+              "answers": [
+                {
+                  "answer_id": 261247,
+                  "document_id": 266689,
+                  "question_id": 207513,
+                  "text": "በዳግማዊ ምኒልክ",
+                  "answer_start": 560,
+                  "answer_end": 570,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አዲስ አበባ የተመሰረተችው መች ነው?",
+              "id": 207514,
+              "answers": [
+                {
+                  "answer_id": 261248,
+                  "document_id": 266689,
+                  "question_id": 207514,
+                  "text": "በ፲፰፻፸፰ (1878) ዓ.ም.",
+                  "answer_start": 571,
+                  "answer_end": 589,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዳግማዊ ምኒልክ አዲስ አበባን መች መሰረቷት?",
+              "id": 207515,
+              "answers": [
+                {
+                  "answer_id": 261249,
+                  "document_id": 266689,
+                  "question_id": 207515,
+                  "text": "በ፲፰፻፸፰ (1878) ዓ.ም.",
+                  "answer_start": 571,
+                  "answer_end": 589,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአዲስ አበባ ዩኒቨርሲቲ መገኛ ከተማ ማናት?",
+              "id": 207516,
+              "answers": [
+                {
+                  "answer_id": 261250,
+                  "document_id": 266689,
+                  "question_id": 207516,
+                  "text": "አዲስ አበባ",
+                  "answer_start": 8,
+                  "answer_end": 15,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአዲስ አበባ ዩኒቨርሲቲ የመጀመሪያ ስም ማን ነበር?",
+              "id": 207517,
+              "answers": [
+                {
+                  "answer_id": 261251,
+                  "document_id": 266689,
+                  "question_id": 207517,
+                  "text": "ቀዳማዊ ኃይለ ሥላሴ ዩኒቨርሲቲ",
+                  "answer_start": 738,
+                  "answer_end": 757,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቀዳማዊ ኃይለ ሥላሴ ዩኒቨርሲቲ አሁን ምን በመባል ይጠራል?",
+              "id": 207518,
+              "answers": [
+                {
+                  "answer_id": 261252,
+                  "document_id": 266689,
+                  "question_id": 207518,
+                  "text": "የአዲስ አበባ ዩኒቨርሲቲ",
+                  "answer_start": 683,
+                  "answer_end": 698,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአዲስ አበባ ዩኒቨርሲቲ መስራች ማናቸው?",
+              "id": 207519,
+              "answers": [
+                {
+                  "answer_id": 261253,
+                  "document_id": 266689,
+                  "question_id": 207519,
+                  "text": "ቀዳማዊ ኃይለ ሥላሴ",
+                  "answer_start": 738,
+                  "answer_end": 750,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በዳግማዊ ምኒልክ በ፲፰፻፸፰ (1878) ዓ.ም. እቴጌ ጣይቱ በመረጡት ቦታ የተቆረቆረችው ከተማ ማን ትባላለች?",
+              "id": 207520,
+              "answers": [
+                {
+                  "answer_id": 261254,
+                  "document_id": 266689,
+                  "question_id": 207520,
+                  "text": "አዲስ አበባ",
+                  "answer_start": 8,
+                  "answer_end": 15,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "አዲስ አበባ አዲስ አበባ ተብላ የተሠየመችው እቴጌ ጣይቱ ኅዳር ፲፬ ቀን ፲፰፻፸፱ (1879) ዓ.ም. ፍልውሃ ፊን-ፊን ወደሚልበት መስክ ወርደው ሳሉ ከዚህ በፊት አይተዋት የማያውቋት አንዲት ልዩ አበባ አይተ ስለማረከቻቸው ቦታውን ‹‹አዲስ አበባ!›› አሉ ይባላል። አዲስ አበባ (ኣዲስ ኣበባ) ኢትዮጵያ ዋና ከተማ ስትሆን በተጨማሪ የአፍሪካ ሕብረት መቀመጫ እንዲሁም የብዙ የተባበሩት መንግሥታት ድርጅት ቅርንጫፎችና  ሌሎችም  የዓለም የዲፕሎማቲክ (የሰላማዊ ግንኙነት) ልዑካን መሰብሰቢያ ከተማ ናት። ራስ-ገዝ አስተዳደር  ስላላት የከተማና የክልል ማዕረግ ይዛ ትገኛለች። አብዛኞቹን የሀገሩ ቋንቋዎች የሚናገሩ ክርስቲያኖች እና ሙስሊሞች የሚኖሩባት ከተማ ናት። ከባሕር ጠለል በ2500 ሜትር ከፍታ ላይ የምትገኘው ከተማ በግምት 2,757,729 በላይ ሕዝብ የሚኖርባት በመሆኗ የሀገሪቱ አንደኛ ትልቅ ከተማ ናት። ከተማዋ እቴጌ ጣይቱ በመረጡት ቦታ ማለትም በፍል ውሐ አካባቢ ላይ በባላቸው በዳግማዊ ምኒልክ በ፲፰፻፸፰ (1878) ዓ.ም. ተቆረቆረች። የሕዝቧ ብዛት በያመቱ 8% (ስምንት በመቶ) እየጨመረ አሁን አምስት ሚሊዮን እንደሚደርስ ይገመታል። ከእንጦጦ ጋራ ግርጌ ያለችው መዲና የአዲስ አበባ ዩኒቨርሲቲ መገኛ ሆናለች።  ይህም በመስራቹ የቀድሞው ንጉሠ-ነገሥት ስም ቀዳማዊ ኃይለ ሥላሴ ዩኒቨርሲቲ ይባል ነበር።",
+          "document_id": 266689
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ቶማስ ጄፈርሰን የአሜሪካ ስንተኛ ፕሬዝደንት ናቸው?",
+              "id": 207493,
+              "answers": [
+                {
+                  "answer_id": 261227,
+                  "document_id": 266688,
+                  "question_id": 207493,
+                  "text": "3ኛ",
+                  "answer_start": 110,
+                  "answer_end": 112,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቶማስ ጄፈርሰን መቼ ተወለዱ?",
+              "id": 207494,
+              "answers": [
+                {
+                  "answer_id": 261228,
+                  "document_id": 266688,
+                  "question_id": 207494,
+                  "text": "ሚያዝያ 7 ቀን 1735",
+                  "answer_start": 21,
+                  "answer_end": 35,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቶማስ ጄፈርሰን መቼ ሞቱ?",
+              "id": 207495,
+              "answers": [
+                {
+                  "answer_id": 261229,
+                  "document_id": 266688,
+                  "question_id": 207495,
+                  "text": "ሰኔ 28 ቀን 1818 ዓ.ም.",
+                  "answer_start": 38,
+                  "answer_end": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቶማስ ጄፈርሰን ከመቼ እስከ መቼ የአሜሪካ ፕሬዝዳንት ሆነው ሰሩ?",
+              "id": 207496,
+              "answers": [
+                {
+                  "answer_id": 261230,
+                  "document_id": 266688,
+                  "question_id": 207496,
+                  "text": "ከየካቲት 26 ቀን 1793 እስከ የካቲት 25 ቀን 1801 ዓ.ም.",
+                  "answer_start": 58,
+                  "answer_end": 99,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቶማስ ጄፈርሰን ያቋቋሙት ዩኒቨርሲቲ ምን ይባላል?",
+              "id": 207497,
+              "answers": [
+                {
+                  "answer_id": 261231,
+                  "document_id": 266688,
+                  "question_id": 207497,
+                  "text": "ዩኒቨርሲቲ ኦፍ ቨርጂኚያ",
+                  "answer_start": 125,
+                  "answer_end": 140,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የቨርጂኒያ ዩኒቨርሲቲ መስራች ማነው?",
+              "id": 207498,
+              "answers": [
+                {
+                  "answer_id": 261232,
+                  "document_id": 266688,
+                  "question_id": 207498,
+                  "text": "ቶማስ ጄፈርሰን",
+                  "answer_start": 10,
+                  "answer_end": 19,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የቶማስ ጄፈርሰን ወላጅ አባት ማነው?",
+              "id": 207499,
+              "answers": [
+                {
+                  "answer_id": 261233,
+                  "document_id": 266688,
+                  "question_id": 207499,
+                  "text": "ፒተር ጄፈርስን",
+                  "answer_start": 176,
+                  "answer_end": 185,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የቶማስ ጄፈርሰን ወላጅ እናት ማናት?",
+              "id": 207500,
+              "answers": [
+                {
+                  "answer_id": 261234,
+                  "document_id": 266688,
+                  "question_id": 207500,
+                  "text": "ጄን ራንዶልፍ",
+                  "answer_start": 194,
+                  "answer_end": 202,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቶማስ ጄፈርሰን በሚሲሲፒ ወንዝ አቅራቢያ ቦታ የገዙት ከማን ነው?",
+              "id": 207501,
+              "answers": [
+                {
+                  "answer_id": 261235,
+                  "document_id": 266688,
+                  "question_id": 207501,
+                  "text": "ከናፖሌዎን",
+                  "answer_start": 307,
+                  "answer_end": 313,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቶማስ ጄፈርሰን ከእንግሊዝ ንጉሥ የአሜሪካንን ነጻነት አዋጅ ያወጁት መች ነበር?",
+              "id": 207502,
+              "answers": [
+                {
+                  "answer_id": 261236,
+                  "document_id": 266688,
+                  "question_id": 207502,
+                  "text": "በ1768 ዓ.ም.",
+                  "answer_start": 227,
+                  "answer_end": 237,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ቶማስ ጄፈርሰን ቶማስ ጄፈርሰን (ሚያዝያ 7 ቀን 1735 ~ ሰኔ 28 ቀን 1818 ዓ.ም.) ከየካቲት 26 ቀን 1793 እስከ የካቲት 25 ቀን 1801 ዓ.ም. ድረስ የአሜሪካ 3ኛ ፕሬዝዳንት ነበሩ። ዩኒቨርሲቲ ኦፍ ቨርጂኚያን ያቋቋሙት ጄፈርሰንም ነበሩ። ቶማስ ጄፈርሰን ከአባቱ ከፒተር ጄፈርስን እና ከእናቱ ጄን ራንዶልፍ ተወለዱ። ቶማስ በአሜሪካ አብዮት ጊዜ በ1768 ዓ.ም. ከእንግሊዝ ንጉሥ የአሜሪካ ነጻነት ዐዋጅ ጻፉ። በኋላ ፕሬዚዳንት ሲሆኑ የመርከብ ሃያላት ወደ አልጀርስ ላኩ፣ ከናፖሌዎን ደግሞ ሰፊ መሬት በሚሲሲፒ ወንዝ አቅራቢያ (የሉዊዚያና አቅራቢያ የተባለው) ገዝተው ነበር። ይህ ድርጊት የአሜሪካ ስፋት በሁለት እጅ አስፋፋ።",
+          "document_id": 266688
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በሀገራችን ታሪክ የመጀመሪያው ሕገ መንግሥት ለሕዝብ ተወካዮች ምክር ቤት የቀረበው መቼ ነበር?",
+              "id": 134920,
+              "answers": [
+                {
+                  "answer_id": 200618,
+                  "document_id": 266664,
+                  "question_id": 134920,
+                  "text": "ጥቅምት ፳፫ ቀን ፲፱፻፳፬ ዓ.ም.",
+                  "answer_start": 74,
+                  "answer_end": 95,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣልያን ፋሺስት ጦር ኢትዮጵያን በ፲፱፻፳፰ ሲወር ንጉሠ ነገሥት ቀዳማዊ ኃይለ ሥላሴ ለተባበሩት መንግሥታት አባል ሀገራት አቤቱታ ያቀረቡት የት ነበር?",
+              "id": 134936,
+              "answers": [
+                {
+                  "answer_id": 200634,
+                  "document_id": 266664,
+                  "question_id": 134936,
+                  "text": "ጄኔቭ ስዊስ",
+                  "answer_start": 420,
+                  "answer_end": 427,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በሀገራችን ታሪክ የመጀመሪያው ሕገ መንግሥት እንዲዘጋጅ የተደረገው በማን ነበር?",
+              "id": 134923,
+              "answers": [
+                {
+                  "answer_id": 200621,
+                  "document_id": 266664,
+                  "question_id": 134923,
+                  "text": "ዓጼ ኃይለ ሥላሴ",
+                  "answer_start": 0,
+                  "answer_end": 10,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣልያን ፋሺስት ጦር ኢትዮጵያን በ፲፱፻፳፰ ሲወር ንጉሠ ነገሥት የነበሩት ማን ናቸው?",
+              "id": 134935,
+              "answers": [
+                {
+                  "answer_id": 200633,
+                  "document_id": 266664,
+                  "question_id": 134935,
+                  "text": "ዓጼ ኃይለ ሥላሴ",
+                  "answer_start": 0,
+                  "answer_end": 10,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣልያን ፋሺስት ጦር ከኢትዮጵያ ተሸንፎ ከወጣ በኋላ ቀዳማዊ ኃይለ ሥላሴ ወደ ሀገራቸው ከስደት የተመለሱት መቼ ነበር?",
+              "id": 134937,
+              "answers": [
+                {
+                  "answer_id": 200635,
+                  "document_id": 266664,
+                  "question_id": 134937,
+                  "text": "በ፲፱፻፴፫ ዓ.ም.",
+                  "answer_start": 603,
+                  "answer_end": 614,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣልያን ፋሺስት ጦር ኢትዮጵያን በመውረሩ ምክንያት  ቀዳማዊ ኃይለ ሥላሴ በስደት ስንት ዓመት ቆዩ?",
+              "id": 134938,
+              "answers": [
+                {
+                  "answer_id": 200636,
+                  "document_id": 266664,
+                  "question_id": 134938,
+                  "text": "አምስት ዓመት",
+                  "answer_start": 678,
+                  "answer_end": 686,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የቀዳማዊ ኃይለ ሥላሴ ንጉሣዊ አስተዳደር የሥልጣን ዘመን ሲያከትም ሥልጣኑን የያዘው መንግሥት ርዕዮቱ ምን ነበር?",
+              "id": 134946,
+              "answers": [
+                {
+                  "answer_id": 200645,
+                  "document_id": 266664,
+                  "question_id": 134946,
+                  "text": "ማርክሲስት",
+                  "answer_start": 927,
+                  "answer_end": 933,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጣልያን ፋሺስት ወረራ ጊዜ ቀዳማዊ ኃይለ ሥላሴ ወዴት ሀገር ነበር የተሰደዱት?",
+              "id": 134941,
+              "answers": [
+                {
+                  "answer_id": 200639,
+                  "document_id": 266664,
+                  "question_id": 134941,
+                  "text": "እንግሊዝ",
+                  "answer_start": 394,
+                  "answer_end": 399,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቀዳማዊ ኃይለ ሥላሴ በማን ታሰሩ?",
+              "id": 134947,
+              "answers": [
+                {
+                  "answer_id": 200646,
+                  "document_id": 266664,
+                  "question_id": 134947,
+                  "text": "በማርክሲስት አብዮት ደርግ",
+                  "answer_start": 926,
+                  "answer_end": 942,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቀዳማዊ ኃይለ ሥላሴ መቼ ታሰሩ?",
+              "id": 134948,
+              "answers": [
+                {
+                  "answer_id": 200647,
+                  "document_id": 266664,
+                  "question_id": 134948,
+                  "text": "በ፲፱፻፷፯ ዓ.ም.",
+                  "answer_start": 914,
+                  "answer_end": 925,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጃንሆይ ኃይለ ሥላሴ የትውልድ መጠሪያ ስም ማን ይባላል?",
+              "id": 134949,
+              "answers": [
+                {
+                  "answer_id": 200648,
+                  "document_id": 266664,
+                  "question_id": 134949,
+                  "text": "ልጅ ተፈሪ መኮንን",
+                  "answer_start": 1092,
+                  "answer_end": 1103,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአጼ ኃይለ ሥላሴ የመንግስት ስማቸው ማን ይባላል?",
+              "id": 134950,
+              "answers": [
+                {
+                  "answer_id": 200649,
+                  "document_id": 266664,
+                  "question_id": 134950,
+                  "text": "ግርማዊ ቀዳማዊ ዓፄ ኃይለ ሥላሴ ንጉሠ ነገሥት ዘኢትዮጵያ",
+                  "answer_start": 1119,
+                  "answer_end": 1155,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ዓጼ ኃይለ ሥላሴ ዘውድ እንደጫኑ የአገሪቱን የመጀመሪያ ሕገ-መንግሥት እንዲዘጋጅ አዝዘው በዘውዱ አንደኛ ዓመት በዓል ጥቅምት ፳፫ ቀን ፲፱፻፳፬ ዓ.ም. በአዲሱ ምክር ቤት (ፓርላማ) ለሕዝብ ቀረበ። ከዚህም በላይ ብዙ የቴክኖዎሎጂ ስራዎችና መሻሻያዎች ወደ ኢትዮጵያ ከውጭ አገር አስገቡ። በ፲፱፻፳፰ ዓ.ም. የሙሶሊኒ ፋሺስት ሠራዊት ኢትዮጵያን በወረረ ጊዜ ጃንሆይ ሕዝባቸውን ወራሪውን በሙሉ ለመቃወም እንዳስነሡና የከተት ዐዋጆቻቸው በታሪክ ገጾች ይዘገባሉ። በዐዋጅ መሠረት የዘመቻው ጊዜ እስቲያልቅ ድረስ ለሚታግሉ ነጋዶች ከቀረጥ አስተስርየት ሰጣቸው። እራሳቸው በቆራጥነት ከታገሉ በኋላ የጠላቱ ጦር ኅይል ግን በመጨረሻ ወደ እንግሊዝ አገር ለጊዜው አሰደዳቸው። ወደ ጄኔቭ ስዊስ ወደ ዓለም መንግሥታት ማኅበር ሄደው ስለ ጣልያኖች የዓለምን እርዳታ በመጠየቅ ተናገሩ። የዓለም መንግሥታት ግን ብዙ አላደረጉም። በ፲፱፻፴፪ ዓ.ም. ግን አውሮፓ ሁሉ በሁለተኛው የዓለም ጦርነት ተያዘ። የእንግሊዝ ሠራዊቶች ለኢትዮጵያ አርበኞች እርዳታ በመስጠት ጣልያኖች ተሸንፈው በ፲፱፻፴፫ ዓ.ም. ኢትዮጵያን ተዉ። ዓፄ ኃይለ ሥላሴ አዲስ አበባን እንደገና የገቡበት ቀን ከወጡበት ቀን በልኩ ዕለት አምስት ዓመት በኋላ ነበረ። ከዚህ በኋላ በ1948 ዓ.ም. ተሻሽሎ የወጣ የኢትዮጵያ ሕገ መንግሥት የሕዝቦችን መብቶችና ተከፋይነት በመንግሥት አስፋፍቶ ሁለቱ ምክር ቤቶች እንደመረጡ አደረገ። በ፲፱፻፶፭ ዓ.ም. ግርማዊነታቸው የአፍሪካ አንድነት ድርጅት በአዲስ አበባ እንዲመሠረት ብዙ ድጋፍ ሰጡ። በ፲፱፻፶፰ ዓ.ም. ወደ ካሪቢያን ጉብኝት አድርገው የጃማይካ ራስታዎች ተገኛኙ። በ፲፱፻፷፯ ዓ.ም. በማርክሲስት አብዮት ደርግ ሥልጣን ያዙና እሳቸው በእሥር ቤት ታሰሩ። በሚከተለው ዓመት ከተፈጥሮ ጠንቅ እንደ አረፉ አሉ ፤ ሆኖም ለምን እንደ ሞቱ ስለሚለው ጥያቄ ትንሽ ክርክር አለ። ብዙ ራስታዎች ደግሞ አሁን እንደሚኖሩ ይላሉ። የዓፄ ኃይለ ሥላሴ የትውልድ ስም ልጅ ተፈሪ መኮንን ነው። ስመ-መንግሥታቸው ግርማዊ ቀዳማዊ ዓፄ ኃይለ ሥላሴ ንጉሠ ነገሥት ዘኢትዮጵያ ነበር። ሞዓ አንበሣ ዘእምነገደ ይሁዳ ሥዩመ እግዚአብሔር ንጉሠ ነገሥት ዘኢትዮጵያ የሚለው የሰሎሞናዊ ሥረወ-መንግሥት ነገሥታት መጠሪያም በንጉሠ-ነገሥቱ አርማ እና ሌሎች ይፋዊ ጽሑፎች ላይ ከመደበኛው ማዕረግ ጋር ይጠቀስ ነበር። ጃንሆይ ፣ ታላቁ መሪ እና አባ ጠቅል በመባልም ይታወቁ ነበር።",
+          "document_id": 266664
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ዋዝንቢት ባለ ስንት አጽቄ ነፍሳት ነው?",
+              "id": 134982,
+              "answers": [
+                {
+                  "answer_id": 200681,
+                  "document_id": 266667,
+                  "question_id": 134982,
+                  "text": "የሦስት",
+                  "answer_start": 12,
+                  "answer_end": 16,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዋዝንቢት ከምን ወገን የሚመደብ ነፍሳት ነው?",
+              "id": 134983,
+              "answers": [
+                {
+                  "answer_id": 200682,
+                  "document_id": 266667,
+                  "question_id": 134983,
+                  "text": "የፌንጣና የአንበጣ ዘመድ",
+                  "answer_start": 30,
+                  "answer_end": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የዋዝንቢት ነፍሳት መለያው ምንድን ነው?",
+              "id": 134984,
+              "answers": [
+                {
+                  "answer_id": 200683,
+                  "document_id": 266667,
+                  "question_id": 134984,
+                  "text": "በሚያሰማው ድምጽ",
+                  "answer_start": 99,
+                  "answer_end": 109,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዋዝንቢት ድምጽ የሚወያወጣው እንዴት ነው?",
+              "id": 134985,
+              "answers": [
+                {
+                  "answer_id": 200684,
+                  "document_id": 266667,
+                  "question_id": 134985,
+                  "text": "ክንፎቹን በማፋተግ ",
+                  "answer_start": 200,
+                  "answer_end": 212,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዋዝንቢት ለምን ተግባር ድምጽ ሊያወጣ ይችላል?",
+              "id": 134986,
+              "answers": [
+                {
+                  "answer_id": 200685,
+                  "document_id": 266667,
+                  "question_id": 134986,
+                  "text": "የጥሪ ዘፈንና የመርቢያ ዘፈን",
+                  "answer_start": 279,
+                  "answer_end": 297,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዋዝንቢት የጥሪ ዘፈን ድምጽ ለምን ተግባር ሊያወጣ ይችላል?",
+              "id": 134987,
+              "answers": [
+                {
+                  "answer_id": 200686,
+                  "document_id": 266667,
+                  "question_id": 134987,
+                  "text": "አንስት ዋዝንቢ ለመሳብ",
+                  "answer_start": 315,
+                  "answer_end": 329,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የሴቷ ዋዝንቢት እንቁላል መጣያ አካል ቅርጹ ምን ዓይነት ነው?",
+              "id": 134988,
+              "answers": [
+                {
+                  "answer_id": 200687,
+                  "document_id": 266667,
+                  "question_id": 134988,
+                  "text": "መርፌ",
+                  "answer_start": 425,
+                  "answer_end": 428,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በዓለማችን ምን ያህል የዋዝንቢት ዝርያዎች አሉ?",
+              "id": 134989,
+              "answers": [
+                {
+                  "answer_id": 200688,
+                  "document_id": 266667,
+                  "question_id": 134989,
+                  "text": "900 ",
+                  "answer_start": 463,
+                  "answer_end": 467,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዋዝንቢት የሚንቀሳቀሰው በየትኛው ክፍለ ቀን ነው?",
+              "id": 134990,
+              "answers": [
+                {
+                  "answer_id": 200689,
+                  "document_id": 266667,
+                  "question_id": 134990,
+                  "text": "ሌሊት ",
+                  "answer_start": 548,
+                  "answer_end": 552,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ዋዝንቢት ዋዝንቢት የሦስት አጽቄ አይነት ነው። የፌንጣና የአንበጣ ዘመድ ነው። ሁለንተናው ትንሽ ለጥ ይላል፤ ረጃጅም አንቴኖችም አሉት። ዋዝንቢት የሚታወቀው በሚያሰማው ድምጽ ነው። ድምጽ ማውጣትና ማሰማት የሚችለው  አውራው ዋዝንቢት ብቻ ነው። የተባዕቱ ዋዝንቢት ክንፍ እንደ \"ሚዶና ሞረድ\" የሚመስል ፍርግርግ ነው። ክንፎቹን በማፋተግ ድምጽ ይፈጥራል፤ የድምጹ ቅላፄ እንደየ ዋዝንቢቱ ወገን ይለያያል። ሁለት ዓይነት የዋዝንቢት ዘፈኖች አሉ፤ የጥሪ ዘፈንና የመርቢያ ዘፈን ናቸው። የጥሪ ዘፈን ዓላማ አንስት ዋዝንቢ ለመሳብ  ሲሆን ረጅምና ከፍተኛ ድምፅ ነው። ለመራባት ሲባል የሚዘፈነው ድምፅ አንስቲቱ እንስቲቱን ለማቅረብ ስለሆነ ቀስ ያለና ለስላሳ ነው። አንስት ዋዝንቢት መርፌ የሚመስል ረጅም የዕንቁላል መጣያ አላት። በምድር ላይ 900 የሚያሕሉ የዋዝንቢት ዝርያዎች ይገኛሉ። አንዳንድ ዝርያ ሣርና ተክል ብቻ ሲበላ፣ ሌሎች ዝርዮች ደግሞ ነፍሳት ያድናሉ። ዋዝንቢት ሌሊት የሚነቃ ፍጥረት ነው። ብዙ ጊዜ ከፌንጣ ጋር ይመሳሰላል፣ በተለይ የመዝለያ እግሮቹ ከፊንጣ እግሮች አይለዩም። በ1963 ዓ.ም. ዶ/ር ዊሊያም ከይድ ምርመራ አድርጎ አንዲት ተባይ ዝንብ ደግሞ በተባዕቱ ዘፈን እንደምትሳብ፤ ዕጯንም እንድታስቀምጥበት ቦታውን ለማወቅ እንደሚጠቅማት አገኘ። የመርባትን ድምጽ በመጠቀም የአስተናጋጇን ቦታ ለምታገኝ የተፈጥሮ ጠላት ይህች መጀመርያ ምሳሌ ሆነች። ከዚያ በኋላ ብዙ የዋዝንቢት ወገኖች ይህችን ተባይ ዝንብ ሲሸክሙ በምድር ላይ ተገኝተዋል። በእስያ በተላይም በቻይና ዋዝንቢት ዝነኛ ለማዳ እንስሳ ሆኖ መያዙ እንደ መልካም እድል ይቈጠራል። የተያዘ ዋዝንቢት ሁሉ ማናቸውም አትክልት ወይም ሥጋ ቢሰጥ ይበላል። በአንዳንድ ባሕል ደግሞ ዋዝንቢት እንደ ምግብ ሊበላ ይችላል።",
+          "document_id": 266667
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ብርቱካን በምን የአየር ጸባይ ይበቅላል?",
+              "id": 135157,
+              "answers": [
+                {
+                  "answer_id": 200857,
+                  "document_id": 266669,
+                  "question_id": 135157,
+                  "text": "ሙቅ አየር በሚገኝበት",
+                  "answer_start": 15,
+                  "answer_end": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የብርቱካን ልጣጭ ለምን ይጠቅማል?",
+              "id": 135160,
+              "answers": [
+                {
+                  "answer_id": 200860,
+                  "document_id": 266669,
+                  "question_id": 135160,
+                  "text": "ለመኖ",
+                  "answer_start": 194,
+                  "answer_end": 197,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ብርቱካን በዓለሙ ውስጥ ሙቅ አየር በሚገኝበት በሰፊ ይበቅላል፤ የብርቱካንም ጣዕም ከጣፋጭ እስከ ኮምጣጣ ድረስ ይለያል። ፍሬው በተለመደ ይላጣል ጥሬም ሆኖ ይበላል፤ አለዚያ ለጭማቂው ይጨመቃል። ወፍራምና መራራ ልጣጩ በተለመደ ወደ ቆሻሻ ይጣላል፤ ነገር ግን በክብደትና በሙቀት አማካኝነት ውሃውን በማስወግድ፣ ለመኖ ሊጠቅም ይችላል። ባንዳንድ የምግብ አሠራር ዘዴ ደግሞ፣ እንደ ጣዕም ወይም እንደ መከሸን ይጨመራል። የልጣጩ አፍአዊው ቆዳ በልዩ መሣርያ በቀጭን ይፋቃልና ይሄ ጣዕሙ ለወጥ የሚወደድ ቅመም ያስገኛል። ከልጣጩ በታች ያለው ነጭና ሥሥ ሽፋን ስለማይረባ ይጣላል። ደግሞ የብርቱካን ዘይት አስታጋሽ መዓዛ ስላለው በሕክምና ይጠቅማል።",
+          "document_id": 266669
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ፋሺሽት ጣልያን ሁለተኛ ዙር ኢትዮጵያን ለመውረር በመጣ ጊዜ ምን ያህል ተዋጊ አውሮፕላኖችን ተጠቅሟል?",
+              "id": 135260,
+              "answers": [
+                {
+                  "answer_id": 200962,
+                  "document_id": 266674,
+                  "question_id": 135260,
+                  "text": "160 ቦንብ ጣይ አውሮፕላኖች",
+                  "answer_start": 87,
+                  "answer_end": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ፋሺሽት ጣልያን ድጋሚ ኢትዮጵያን ሲወር የተጠቀመበት መርዛማ ኬሚካል ምን ይባላል?",
+              "id": 135262,
+              "answers": [
+                {
+                  "answer_id": 200964,
+                  "document_id": 266674,
+                  "question_id": 135262,
+                  "text": "ማስተርድ ጋዝ",
+                  "answer_start": 247,
+                  "answer_end": 255,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ፋሺሽት የተጠቀመበት ማስተርድ ጋዝ የኬሚካል መሳሪያ ምን ጉዳት ያስከትላል?",
+              "id": 135265,
+              "answers": [
+                {
+                  "answer_id": 200967,
+                  "document_id": 266674,
+                  "question_id": 135265,
+                  "text": "ህይወት ያለዉን ነገር ሁሉ የሚያጠፋ",
+                  "answer_start": 221,
+                  "answer_end": 243,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በሰርጎ ገቦች የተገደሉት ኢትዮጵያዊ ጀግና ማናቸው?",
+              "id": 135268,
+              "answers": [
+                {
+                  "answer_id": 200970,
+                  "document_id": 266674,
+                  "question_id": 135268,
+                  "text": "ራስ ደስታ ዳምጠው",
+                  "answer_start": 610,
+                  "answer_end": 621,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጣልያን ኢትዮጵያን ለመውረር ድጋሚ የመጣበት ዓመት መቼ ነው?",
+              "id": 135253,
+              "answers": [
+                {
+                  "answer_id": 200955,
+                  "document_id": 266674,
+                  "question_id": 135253,
+                  "text": "በ1928",
+                  "answer_start": 64,
+                  "answer_end": 69,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጣልያን ኢትዮጵያን ለመውረር ድጋሚ ሲመጣ ስንት ጦር ሠራዊት ነበረው?",
+              "id": 135255,
+              "answers": [
+                {
+                  "answer_id": 200957,
+                  "document_id": 266674,
+                  "question_id": 135255,
+                  "text": "300, 000",
+                  "answer_start": 73,
+                  "answer_end": 81,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ፋሽስት ቅዲስቲቱዋን ኢትዮጵያን ለማዋረድ ለመዝረፍና ለመግዛት ለሁለተኛ ጊዜ ከፍተኛ ዝግጅቱን አጠናቆ በ1928 ዓም 300, 000 ሰራዊት 160 ቦንብ ጣይ አውሮፕላኖች 450 ታንኮች 2000 የመጉዋጉዋዣ መኪናዎችን በማሰማራት ድንበር አልፎ ጦርነት በመክፈት ከገጠር እስከ ከተማ ህዝቡን ያለ እርህራሄ ጨፈጨፈ። በዚህ የጅምላ ጭፍጨፋ ላይ የመጀመሪያውን ህይወት ያለዉን ነገር ሁሉ የሚያጠፋውን “ማስተርድ ጋዝ” የሚባል ኬሚካል መሳሪያ በመጠቀም ታሪክ ይቅር የማይለው ወንጀል ፈጸመ። በዚያን ክፉ ቀን የነጻነትና የሀገር ትርጉም የገባቸው የቁርጥ ቀን ልጆች በየአካባቢያቸው ፋኖዎችን በመምራት የእብሪተኛዉን የፋሽ ስት ጦር መግቢያ መዉጫ በማሳጣት ኢትዮጵያ ዉስጥ በሰላም መኖር እንደማይችል ተስፋ አስቆርጠዉታል። ከነዚህ ነበልባል የቁርጥ ቀን የኢትዮጵያ ልጆች መካከል ጠላትን በተከታታይ ዝርክርኩን አዉጥተው ከደቡብ ያሳደዱትና በመጨረሻው ዉጊያ ላይ ኢትዮጵያዊ በሚመስሉ የትግሬ ስርጎ ገብ ባንዶች ቆሰለው የተያዙትና በአሰቃቂ ሁኔታ የተገደሉት ዉዱ የኢትዮጵያ የክፉ ቀን ልጅ ራስ ደስታ ዳምጠው ነበሩ። ራስ ደስታ ዳምጠዉን ያስያዛቸው የባንዳ ጦር መሪ ደግሞ የትግሬው ተክሉ መሸሻ የሚባል የጣሊያን ሎሌ ሲሆን የስብሃት ነጋ አጎት የናቱ ታላቅ ወንድም መሆኑ ተረጋግጦአል ተክሉ መሸሻ በጣሊያን ደጃዝማችነት ተሰጥቶት በደቡብ ኢትዮጵያ የኢጣልያ ባንዳ ጦር አዛዥ ሆኖ በአካባቢው ኢትዮጵያ ጦር አዛዥ የነበሩት ራስ ደስታ ዳምጠው ከበርካታ አስደናቂ ጀብዱ በሁዋላ ቆስለው በጉራጌ አካባቢ መስቃ ከተባለው ሥፍራ ተኝተው በስቃይ ላይ እያሉ ተክሉ የስለላ መረቡን ዘርግቶ እግር በግር ተከታትሎ በመያዝ ከግንድ ጋር አስሮ በጭካኔ ደብድቦ ከገደላቸው በኋላ ራሳቸውን ረግጦ በመቆም ፎተግራፍ በመነሳት ለጣልያኑ ጌታው ግዳይ ካቀረቡት እርካሽ የትግሬ ከሃዲዎች አን ዱ ነበር። የፋሽስት ጣሊያን ጦር ኢትዮጵያን ወሮ መናገሻ ከተማዋን አዲስ አበባን ለመያዝ   ሲገሰግስ ጀምሮ ሶስቱ ቆራጥ የኢትዮጵያ ሌጆች (የሸንቁጥ) ልጆች አበበ ሸንቁጥ ተሾመ ሸንቁጥና ጥላሁን ሸንቁጥ በመርሃቤቴ በጅሩና በዠማ ወንዝ አካባቢ በመንቀሳቀስ “ዱሩ ቤቴ” በማለት ብዙ የአካባቢውን ጀግኖች አስከትለው የጣሊያንን ሀይል በመመከትና ከአገር በማባረር ከፍተኛ ገድል ፈጽመዋል።",
+          "document_id": 266674
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በዓለም ጥንታዊ ከሚባሉት ሀገሮች አንዷ የሆነችው ማናት?",
+              "id": 135203,
+              "answers": [
+                {
+                  "answer_id": 200903,
+                  "document_id": 266671,
+                  "question_id": 135203,
+                  "text": "ኢትዮጵያ",
+                  "answer_start": 30,
+                  "answer_end": 35,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አምስት ሚልዮን ዓመታት ቆይታ ያለው የሰው ልጅ ቅሪተ አካል የተገኘበት ቦታ የት ነው?",
+              "id": 135204,
+              "answers": [
+                {
+                  "answer_id": 200904,
+                  "document_id": 266671,
+                  "question_id": 135204,
+                  "text": "በኢትዮጵያ አዋሽ ሸለቆ",
+                  "answer_start": 175,
+                  "answer_end": 189,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሉሲ የተባለችው የሰው ልጅ ቅሪተ አካል ከተገኘች ስንት ዓመት ይሆናታል?",
+              "id": 135206,
+              "answers": [
+                {
+                  "answer_id": 200906,
+                  "document_id": 266671,
+                  "question_id": 135206,
+                  "text": "3.2 ሚሊዮን አመት",
+                  "answer_start": 204,
+                  "answer_end": 216,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ወደ ንጉሥ ሰለሞን በመሄድ ጥያቄ ያቀረበችው ኢትዮጵያዊት ንግሥት ማን ናት?",
+              "id": 135208,
+              "answers": [
+                {
+                  "answer_id": 200908,
+                  "document_id": 266671,
+                  "question_id": 135208,
+                  "text": "ንግስት ሳባ",
+                  "answer_start": 424,
+                  "answer_end": 431,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የንግሥት ሳባ ቤተ መንግስት የት ይገኛል?",
+              "id": 135210,
+              "answers": [
+                {
+                  "answer_id": 200910,
+                  "document_id": 266671,
+                  "question_id": 135210,
+                  "text": "ሰሜን ኢትዮጵያ ውስጥ በአክሱም",
+                  "answer_start": 579,
+                  "answer_end": 598,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ንግስት ሳባ ወደ ንጉሥ ሰሎሞን ሄዳ ጥያቄ ስለማቅረቧ የሚያወሳው ታሪክ በየትኛው የመጽሐፍ ቅዱስ ክፍል ላይ ይገኛል?",
+              "id": 135213,
+              "answers": [
+                {
+                  "answer_id": 200913,
+                  "document_id": 266671,
+                  "question_id": 135213,
+                  "text": "ብሉይ ኪዳን",
+                  "answer_start": 411,
+                  "answer_end": 418,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ኢትዮጵያ በዓለም ዉስጥ ክሚገኙ ጥንታዊ አገሮች ኢትዮጵያ ቀዳሚ በመሆን ከሁሉም የበለጠ ረጅም እድሜ አስቆጥራለች፡፡ በግእዝ/ዓማርኛ እና በመጽሀፍ ቅዱስ ከተመዘገቡት ተጨባጭ መረጃዎች በተጨማሪ አምስት ሚሊዮን አመት የሚሆነውና በጣም ረጅም እድሜ ያስቆጠረው የሰው ቅሪት የተገኘው በኢትዮጵያ አዋሽ ሸለቆ አካባቢ ሲሆን ይህም፣ 3.2 ሚሊዮን አመት የሆነውን እዛው አካባቢ የተገኘውን የሉሲን (ድንቅነሽን) አጽም በእድሜ ይበልጣል፡፡ ግብጽን ሲገዛ የነበረው ሄሮደስ የሚባለው ንጉስ ከክርስቶስ ልደት በፊት በአምስተኛው ክፍለ ዘመን የነበረው ታሪክ ፀሀፊ የጥንቷን ኢትዮጵያ በጽሁፎቹ ላይ ይገልፃታል፡፡ መጽሐፍ ቅዱስ ላይም ብዙ ግዜ የምትወሳ ስትሖን በተለይም ብሉይ ኪዳን ላይም የንግስት ሳባ (መከዳ) ኢየሩሳሌም መሄድና ለንጉስ ሰለሞን ከባድ የሆኑ ጥያቄዎች ማንሳቷ ተጽፏል፡፡ ኢትዮጵያ ዛሬ ያላትን መልክ እንድትይዝ ያደረጋት ንጉስ ሚኒሊክ የንግስት ሳባና የንጉስ ሰለሞን ዘር ናቸው፡፡ የንግስት ሳባ ቤተ መንግስት ፍርስራሽ ሰሜን ኢትዮጵያ ውስጥ በአክሱም አካባቢ ይገኛል፡፡ ክርስትናን ኢትዮጵያዉያን ከመቀበላቸዉ በፊት (ኣስቅድመዉ)  የኦሪትን ህግ ሰለሚያዉቁ ኣመተ ዓለምን ወደታች እየቆጠሩ የጌታን መወለድ ይጠብቁ ሰለነበረ ክርስትናን ለመቀበል ኣላስቸገራቸዉም፡፡ ነገር ግን በሰባተኛው ክፍለ ዘመን በእስልምና መስፋፋት ምክንያት ኢትዮጵያ ከአውሮፖውያኑ ክርስትያን ርቃ ቆይታለች፡፡",
+          "document_id": 266671
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በምድር ስርዓት ፈለክ መሀል ላይ የምትገኘው ማናት?",
+              "id": 158239,
+              "answers": [
+                {
+                  "answer_id": 222878,
+                  "document_id": 266683,
+                  "question_id": 158239,
+                  "text": "ፀሓይ",
+                  "answer_start": 4,
+                  "answer_end": 7,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "መሬት በጸሐይ ዙሪያ የምታደርገው ዑደት ምን ያህል ጊዜ ይወስዳል?",
+              "id": 158241,
+              "answers": [
+                {
+                  "answer_id": 222880,
+                  "document_id": 266683,
+                  "question_id": 158241,
+                  "text": "አንድ ዓመት",
+                  "answer_start": 196,
+                  "answer_end": 204,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "መሬት በራሱ ዙሪያ የምታደርገው ሹረት ውጤቱ ምንድን ነው?",
+              "id": 158243,
+              "answers": [
+                {
+                  "answer_id": 222882,
+                  "document_id": 266683,
+                  "question_id": 158243,
+                  "text": "መዓልት (ቀን) እና ሌሊት ለሚያደርጉት መፈራረቅ",
+                  "answer_start": 371,
+                  "answer_end": 401,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የወቅቶች መፈራረቅ ምክንያቱ ምንድን ነው?",
+              "id": 158244,
+              "answers": [
+                {
+                  "answer_id": 222883,
+                  "document_id": 266683,
+                  "question_id": 158244,
+                  "text": "ምድር በፀሓይ ዙሪያ የምታደርገው ዙረት",
+                  "answer_start": 261,
+                  "answer_end": 285,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በስርዓተ-ፈለክ ውሥጥ ያሉ አካላት የብርሃን ምንጫቸው ማናት?",
+              "id": 158245,
+              "answers": [
+                {
+                  "answer_id": 222884,
+                  "document_id": 266683,
+                  "question_id": 158245,
+                  "text": "ፀሓይ",
+                  "answer_start": 412,
+                  "answer_end": 415,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "እጽዋት ካርቦን ዳይኦክሳይድ እና አልሚ ምግቦች የሚያስተጻምሩት በምን አማካኝነት ነው?",
+              "id": 158247,
+              "answers": [
+                {
+                  "answer_id": 222887,
+                  "document_id": 266683,
+                  "question_id": 158247,
+                  "text": "በፀሓይ ብርሃን",
+                  "answer_start": 590,
+                  "answer_end": 599,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ፀሐይ ፀሓይ በምድር ሥርዐተ-ፈለክ መኻል ያለች ኮከብ ናት። ምድር ሞላላ ቀለበት በሚመስል የዑደት ምሕዋር እየተጓዘች ፀሓይን ትዞራታለች። ሌሎች ሰማያዊ አካላትም፣ ፈለኮች፣ ፈለክ-አስተኔዎች፣ ጅራታም ከዋክብት እና ኅዋዊ ብናኞች በፀሓይ ዙሪያ ይዞራሉ። ምድር በፀሓይ ዙሪያ የምታደርገውን አንድ ዙር ጉዞ ለመጨረስ አንድ ዓመት ይፈጅባታል፤ ይህን ጉዞ ስታደርግም በገዛ ራሷ ዘንጎ ወይም ምሽዋር ዙሪያ እየሾረች ነው። ምድር በፀሓይ ዙሪያ የምታደርገው ዙረት ወቅቶች በዓመታዊ ዑደት እንዲለዋወጡ ከሚያደርጉት ምክንያቶች አንዱ ሲኾን፣ በራሷ ዘንጎ ዙሪያ የምታደርገው ሹረት ደግሞ በዕለታዊ ዑደት መዓልት (ቀን) እና ሌሊት ለሚያደርጉት መፈራረቅ ምክንያት ነው። ፀሓይ ለሥርዐተ-ፈለካችን በጣም ብሩህ የኾነ ብርሃን ትሰጣለች። ያለ ፀሓይ ብርሃን ሙቀትም ኾነ ሕይወት በምድር አይኖርም ነበር። ለምሳሌ አረንጓዴ ዕፅዋት ያለ ፀሓይ ብርሃን ሊኖሩ አይችሉም፤ ለህልውናቸው የሚያስፈልጓቸውን ካርቦን ዳይኦክሳይድ እና አልሚ ምግቦች ለማስተጻመር የሚችሉት በፀሓይ ብርሃን ብቻ ነውና። ከምድር ይልቅ ለፀሓይ ይበልጥ ቅርብ የኾኑ ፈለኮች ለከፍተኛ ጨረር እና ግለት የተጋለጡ በመኾናቸው በምድር ላይ ላለው ዐይነት ሕይወት ተስማሚ አይደሉም። ከምድር ጋር ሲነጻጸር ከፀሓይ በጣም ርቀው ያሉ ፈለኮችም ለሕይወት መኖር ምቹ ኹኔታዎች የሏቸውም፤ በቂ ብርሃን እና ሙቀት ካለማግኘታቸው የተነሣ።",
+          "document_id": 266683
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ስለፀሀይ ሳይንሳዊ መግለጫ ከሰጡ ጥንታዊ የግሪክ ፈላስፎች ቀዳሚው ማን ነው?",
+              "id": 275210,
+              "answers": [
+                {
+                  "answer_id": 273837,
+                  "document_id": 266685,
+                  "question_id": 275210,
+                  "text": "አናክሳጎራስ",
+                  "answer_start": 65,
+                  "answer_end": 72,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ስለፀሀይ ሳይንሳዊ መግለጫ ከሰጡ ፈላስፎች ቀዳሚው የሆነው አናክሳጎራስ የየት ሀገር ፈላስፋ ነበር?",
+              "id": 275211,
+              "answers": [
+                {
+                  "answer_id": 273838,
+                  "document_id": 266685,
+                  "question_id": 275211,
+                  "text": "ግሪካዊው",
+                  "answer_start": 54,
+                  "answer_end": 59,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ለመጀመሪያ ጊዜ ምድር ጸሓይን ትዞራለች እንጂ ፀሓይ መሬትን አትዞርም ብሎ ያስተማረው ማን ነበር?",
+              "id": 275213,
+              "answers": [
+                {
+                  "answer_id": 273840,
+                  "document_id": 266685,
+                  "question_id": 275213,
+                  "text": "ኒቆላዎስ ቆጰርኒቆስ",
+                  "answer_start": 291,
+                  "answer_end": 303,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አናክሳጎራስ ስለፀሀይ በሰጠው ሳይንሳዊ መግለጫ ምክንያት ከተፈረደበት የሞት ፍርድ በማን ዳነ?",
+              "id": 275212,
+              "answers": [
+                {
+                  "answer_id": 273839,
+                  "document_id": 266685,
+                  "question_id": 275212,
+                  "text": "በፔሪክልስ",
+                  "answer_start": 226,
+                  "answer_end": 232,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኒቆላዎስ ቆጰርኒቆስ ለመጀመሪያ ጊዜ ምድር ጸሓይን ትዞራለች እንጂ ፀሓይ መሬትን አትዞርም ብሎ ያስተማረው መቼ ነበር?",
+              "id": 275214,
+              "answers": [
+                {
+                  "answer_id": 273841,
+                  "document_id": 266685,
+                  "question_id": 275214,
+                  "text": "በ16ኛው ምእት",
+                  "answer_start": 309,
+                  "answer_end": 318,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኒቆላዎስ ቆጰርኒቆስ ስለፀሓይ በ16ኛው ምእት ምን ብሎ ነበር ያስተማረው?",
+              "id": 275215,
+              "answers": [
+                {
+                  "answer_id": 273842,
+                  "document_id": 266685,
+                  "question_id": 275215,
+                  "text": "ምድር ፀሓይን በቀለበትማ ምሕዋር ትዞራለች እንጂ፣ ፀሓይ ምድርን አትዞርም",
+                  "answer_start": 335,
+                  "answer_end": 381,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ17ኛ ምእት በቴሌስኮፕ የታገዘ የፀሓይ ምርምር ጀማሪ ማን ነበር?",
+              "id": 275216,
+              "answers": [
+                {
+                  "answer_id": 273843,
+                  "document_id": 266685,
+                  "question_id": 275216,
+                  "text": "ጋሊሌዮ",
+                  "answer_start": 410,
+                  "answer_end": 414,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጋሊሊዮ በ17ኛው መቶ ክፍለ ዘመን የፀሓይ ምርምር የጀመረው በምን እየታገዘ ነበር ?",
+              "id": 275219,
+              "answers": [
+                {
+                  "answer_id": 273846,
+                  "document_id": 266685,
+                  "question_id": 275219,
+                  "text": "በቴሌስኮፕ",
+                  "answer_start": 415,
+                  "answer_end": 421,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጋሊሊዮ በቴሌስኮፕ የታገዘ የፀሓይ ምርምር የጀመረው መች ነበር?",
+              "id": 275218,
+              "answers": [
+                {
+                  "answer_id": 273845,
+                  "document_id": 266685,
+                  "question_id": 275218,
+                  "text": "በ17ኛው ምእት",
+                  "answer_start": 400,
+                  "answer_end": 409,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ፕሪዝም በመጠቀም የፀሓይ ብርሃን የልዩ ልዩ ቀለማት ጥርቅም መሆኑን ያወቀው ማን ነበር?",
+              "id": 275220,
+              "answers": [
+                {
+                  "answer_id": 273847,
+                  "document_id": 266685,
+                  "question_id": 275220,
+                  "text": "አይዛክ ኒውተን",
+                  "answer_start": 450,
+                  "answer_end": 459,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አይዛክ ኒውተን በምን ነበር የፀሓይ ብርሃን የልዩ ልዩ ቀለማት ጥርቅም መሆኑን ያወቀው?",
+              "id": 275221,
+              "answers": [
+                {
+                  "answer_id": 273848,
+                  "document_id": 266685,
+                  "question_id": 275221,
+                  "text": "በፕሪዝም",
+                  "answer_start": 464,
+                  "answer_end": 469,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አይዛክ ኒውተን ፕሪዝም በመጠቀም ምን አሳየ?",
+              "id": 275223,
+              "answers": [
+                {
+                  "answer_id": 273850,
+                  "document_id": 266685,
+                  "question_id": 275223,
+                  "text": "የፀሓይ ብርሃን ልዩ ልዩ ቀለማት ካላቸው ብርሃናት የተጠናቀረ እንደኾነ",
+                  "answer_start": 476,
+                  "answer_end": 521,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የኢንፍራሬድ ጨረር  ግኝት ባለቤት ማን ነው?",
+              "id": 275224,
+              "answers": [
+                {
+                  "answer_id": 273851,
+                  "document_id": 266685,
+                  "question_id": 275224,
+                  "text": "ዊሊያም ኸርሽል",
+                  "answer_start": 536,
+                  "answer_end": 545,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዊሊያም ኸርሽል የኢንፍራሬድ ጨረር ግኝት ባለቤት የሆነው በስንተኛው መቶ ክፍለ ዘመን ነበር?",
+              "id": 275225,
+              "answers": [
+                {
+                  "answer_id": 273852,
+                  "document_id": 266685,
+                  "question_id": 275225,
+                  "text": "19ኛው ምእት",
+                  "answer_start": 527,
+                  "answer_end": 535,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ስለፀሓይ በስፔክትሮስኮፕ እጅግ ብዙ ጥናት የተጀመረበት ክፍለ ዘመን መች ነበር?",
+              "id": 275227,
+              "answers": [
+                {
+                  "answer_id": 273854,
+                  "document_id": 266685,
+                  "question_id": 275227,
+                  "text": "19ኛው ምእት",
+                  "answer_start": 527,
+                  "answer_end": 535,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዊሊያም ኸርሽል በ19ኛው መቶ ክፍለ ዘመን ያገኘው ግኝት ምን ነበር?",
+              "id": 275226,
+              "answers": [
+                {
+                  "answer_id": 273853,
+                  "document_id": 266685,
+                  "question_id": 275226,
+                  "text": "የኢንፍራሬድ ጨረር",
+                  "answer_start": 546,
+                  "answer_end": 557,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በሥርዓተ-ፀሓይ የፀሓይ ክብደት ምን ያህል እጅ ይሆናል?",
+              "id": 275229,
+              "answers": [
+                {
+                  "answer_id": 273856,
+                  "document_id": 266685,
+                  "question_id": 275229,
+                  "text": "99.86%",
+                  "answer_start": 773,
+                  "answer_end": 779,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ስለፀሓይ በ19ኛው ምእት በምን ዓይነት መሳሪያ ይደረግ የነበረው ጥናት መጥቆ የነበረው?",
+              "id": 275228,
+              "answers": [
+                {
+                  "answer_id": 273855,
+                  "document_id": 266685,
+                  "question_id": 275228,
+                  "text": "በስፔክትሮስኮፕ",
+                  "answer_start": 574,
+                  "answer_end": 583,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሓይ ክብደት ከጁፒተር ጋር ሲነጻጸር ስንት እጥፍ ይበልጣል?",
+              "id": 275230,
+              "answers": [
+                {
+                  "answer_id": 273857,
+                  "document_id": 266685,
+                  "question_id": 275230,
+                  "text": "1000",
+                  "answer_start": 825,
+                  "answer_end": 829,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሓይ ብርሃን መሬት ለመድረስ ምን ያህል ጊዜ ይወስድበታል?",
+              "id": 275232,
+              "answers": [
+                {
+                  "answer_id": 273859,
+                  "document_id": 266685,
+                  "question_id": 275232,
+                  "text": "8.5 ደቂቃ",
+                  "answer_start": 1005,
+                  "answer_end": 1012,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሓይ ክብደት ከመሬት ጋር ሲነጻጸር ስንት እጥፍ ይበልጣል?",
+              "id": 275231,
+              "answers": [
+                {
+                  "answer_id": 273858,
+                  "document_id": 266685,
+                  "question_id": 275231,
+                  "text": "1.3 ሚሊዮን",
+                  "answer_start": 856,
+                  "answer_end": 864,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሓይ ብርሃን ጨረር መሬት ላይ በምን ያህል ፍጥነት ይደርሳል?",
+              "id": 275233,
+              "answers": [
+                {
+                  "answer_id": 273860,
+                  "document_id": 266685,
+                  "question_id": 275233,
+                  "text": "8.5 ደቂቃ",
+                  "answer_start": 1005,
+                  "answer_end": 1012,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "በምዕራቡ ዓለም ውስጥ ስለ ፀሓይ ሳይንሳዊ መግለጫ ለመስጠት ከቻሉ ቀዳሚ ሰዎች አንዱ ግሪካዊው ፈላስፋ አናክሳጎራስ ነበር። ፀሓይ በእሳታዊ ነበልባል የምትንቀለቀል እጅግ ግዙፍ የብረት ኳስ እንጂ የሄሊዮስ ሰረገላ እንዳልነበረች በምክንያት የተደገፈ ትንተና አቀረበ። ይህንን እንደ ኑፋቄ የተቈጠረ ሐተታ በማስተማሩም ታሰረ፤ በሞት እንዲቀጣም ተፈርዶበት ነበር፤ በፔሪክልስ አማላጅነት እንዲፈታ ተፈቀደለት እንጂ። የባለሥልጣናት መዓት የወደቀበት ሌላው የሳይንስ ሊቅ ኒቆላዎስ ቆጰርኒቆስ ነበር። በ16ኛው ምእት ውስጥ የኖረው ቆጰርኒቆስ ምድር ፀሓይን በቀለበትማ ምሕዋር ትዞራለች እንጂ፣ ፀሓይ ምድርን አትዞርም የሚል ኀልዮ አቅርቦ ነበር። በ17ኛው ምእት ጋሊሌዮ በቴሌስኮፕ ለታገዘ የፀሓይ ጥናት ፈር-ቀዳጅ ሊቅ ኾነ። አይዛክ ኒውተን ደግሞ በፕሪዝም አማካይነት የፀሓይ ብርሃን ልዩ ልዩ ቀለማት ካላቸው ብርሃናት የተጠናቀረ እንደኾነ አሳየ። 19ኛው ምእት ዊሊያም ኸርሽል የኢንፍራሬድ ጨረር ግኝት ባለቤት የኾነበት፣ በስፔክትሮስኮፕ ስለ ፀሓይ የሚደረገው ጥናትም እጅግ የመጠቀበት ምእት ኾነ። ዛሬ በብዙ አገሮች ልማድ ፀሓይ እንደ ባህላዊ ምልክት ትታያለች። ለምሳሌ በሜክሲኮ ኪነ ጥበብ አበክራ የምትታይ ሞቲፍ በመባል ትታወቃለች። በኛ ሥርዐተ-ፀሓይ ዋናዋ ትልቅ አካል ራሷ ፀሓይ ናት። በመላው ሥርዐተ-ፀሓይ ውስጥ ከሚገኘው ክብደት 99.86% የፀሓይ ነው። ለምሳሌ ከታላቁ ፈለክ ከጁፒተር ሲነጻጸር የፀሐይ ክብደት 1000 ዕጥፍ ይበልጣል። የፀሓይ ክብደት ከምድር 1.3 ሚሊዮን ጊዜ ይበልጣል። በጣም ግዙፍ እና ከባድ የኾነችው ኮከብ ከምድር ያለችበት ርቀት በጣም የሚያስደንቅ ነው። በምድር እና በፀሓይ መካከል ያለው ርቀት የምድርን ዳያሜትር በ12,000 ጊዜ ይበልጣል። ብርሃን ይህን ርቀት ለመጓዝ 8.5 ደቂቃ ይፈጅበታል።",
+          "document_id": 266685
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ሁለትና ከዛ በላይ የሆኑ ኮምፒዩተሮችን እርስ በእርስ በማገናኘት የሚፈጠር ትስስር ምን ይባላል?",
+              "id": 272881,
+              "answers": [
+                {
+                  "answer_id": 270525,
+                  "document_id": 266733,
+                  "question_id": 272881,
+                  "text": "የኮምፒዩተር አውታር",
+                  "answer_start": 13,
+                  "answer_end": 25,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኮምፒዩተሮች አውታር ምን ማድረግ ይቻላል?",
+              "id": 272882,
+              "answers": [
+                {
+                  "answer_id": 270526,
+                  "document_id": 266733,
+                  "question_id": 272882,
+                  "text": "መረጃ መለዋወጥ",
+                  "answer_start": 96,
+                  "answer_end": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የኮምፒዩተሮች አውታር ስንፈጥር ኮምፒዩተሮቹን በምን በምን መንገድ ልናገናኛቸው እንችላለን?",
+              "id": 272883,
+              "answers": [
+                {
+                  "answer_id": 270527,
+                  "document_id": 266733,
+                  "question_id": 272883,
+                  "text": "በኤሌትሪክ ገመድ ፣ በገመድ የለሽ ግንኙነት ወይም በሞደም",
+                  "answer_start": 188,
+                  "answer_end": 224,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "የኮምፒዩተር አውታር የኮምፒዩተር አውታር (ኔትወርክ) ማለት ሁለት ወይም ከሁለት በላይ የሆኑ ኮምፒዩተሮችን ማገናኘት ነው። እነዚህ ኮምፒዩተሮች ሲገናኙ መረጃ መለዋወጥ ይቻላል። አውታሩ ውስጥ ያሉት ኮምፒዩተሮች በአንደ ክፍል ውስጥ ወይም በጣም በተራራቁ ሕንጻዎች ውስጥ ሊገኙ ይችላሉ። ኮምፒዩተሮቹ በኤሌትሪክ ገመድ ፣ በገመድ የለሽ ግንኙነት ወይም በሞደም ሊገናኙ ይችላሉ። አውታሩ ላይ ሌሎች የኮምፒዩተር መሣሪያዎችንም መግጠም ይቻላል። ለምሳሌ አንድ ፕሪንተር አውታር ውስጥ አገናኝቶ አውታሩ ውስጥ ከሚገኝ ማንኘውም ኮምፒዩተር ወደዛ ፕሪንተር ማተም ይቻላል። የአውታሩን ኮምፒዩተሮች ሁሉንም እኩል ሥልጣን መስጠት ይቻላል ወይም ለአንዳንድ ኮምፒዩተሮች የተለዩ ሥራዎች መሥራት እንዲችሉ ማድረግ ይቻላል። ሁለተኛው ዘዴ ክላየንት-ሰርቨር ይባላል። አብዛኛው ጊዜ ሰርቨሮቹ ሀይለኛና ትልቅ ሲሆኑ ክላየንቶቹ ደግሞ አነስተኛ ናቸው። ",
+          "document_id": 266733
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ቴምፕላርስ የተባለው ስርዓት መቼ ተመሰረተ?",
+              "id": 275283,
+              "answers": [
+                {
+                  "answer_id": 273910,
+                  "document_id": 266729,
+                  "question_id": 275283,
+                  "text": "በ1110 ዓ.ም.",
+                  "answer_start": 172,
+                  "answer_end": 182,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አንደኛው የመስቀል ጦርነት የተካሄደው መቼ ነበር?",
+              "id": 275284,
+              "answers": [
+                {
+                  "answer_id": 273911,
+                  "document_id": 266729,
+                  "question_id": 275284,
+                  "text": "በ1088 ዓ.ም.",
+                  "answer_start": 128,
+                  "answer_end": 138,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቴምፕላሮች የገዳማዊ ኑሮዋቸውን ማን በደነገገው ሕግ መሰረት ነው የሚመሩት?",
+              "id": 275285,
+              "answers": [
+                {
+                  "answer_id": 273912,
+                  "document_id": 266729,
+                  "question_id": 275285,
+                  "text": "ክላርቮው በርናርድ",
+                  "answer_start": 341,
+                  "answer_end": 352,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ክላርቮው በርናርድ የመሰረተው የገዳማውያን ሥርዓት ምን ይባላል?",
+              "id": 275286,
+              "answers": [
+                {
+                  "answer_id": 273913,
+                  "document_id": 266729,
+                  "question_id": 275286,
+                  "text": "የሲሰተርሲያን ስርዓት",
+                  "answer_start": 315,
+                  "answer_end": 328,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቴምፕላሮች ለገዳማዊ ኑሮዋቸው የሚከተሉት ሥርዓት ምን ይባላል?",
+              "id": 275287,
+              "answers": [
+                {
+                  "answer_id": 273914,
+                  "document_id": 266729,
+                  "question_id": 275287,
+                  "text": "የሲሰተርሲያን ስርዓት",
+                  "answer_start": 315,
+                  "answer_end": 328,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የሲሰተርሲያን ገዳማዊ ስርዓት መስራች ማነው?",
+              "id": 275288,
+              "answers": [
+                {
+                  "answer_id": 273915,
+                  "document_id": 266729,
+                  "question_id": 275288,
+                  "text": "ክላርቮው በርናርድ",
+                  "answer_start": 341,
+                  "answer_end": 352,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የቴምፕላርስ በሌላ ስማቸው ምን ተብለው ይታወቃሉ?",
+              "id": 275290,
+              "answers": [
+                {
+                  "answer_id": 273917,
+                  "document_id": 266729,
+                  "question_id": 275290,
+                  "text": "የክርሰቶስ እና የሰለሞን መቅደስ ምስኪን ወታደሮች",
+                  "answer_start": 26,
+                  "answer_end": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ቴምፕላርስ ቴምፕላር ወይም በሙሉ ስማቸው የክርሰቶስ እና የሰለሞን መቅደስ ምስኪን ወታደሮች የሚባሉት በጣም ታላቅ እና ሃይለኛ ከነበሩት ክርስቲያናዊ ወታደራዊ ስርአቶች ውስጥ ዋነኞቹ ናቸው። ይህ ስርዓት በ1088 ዓ.ም. ከተካሄደው አንደኛው የመስቀል ጦርነት በኋላ ማለትም በ1110 ዓ.ም. አዲስ የተቋቋመውን የእየሩሳሌም መንግስት ከእስላሞች ለመከላከልና ወደ ከአውሮፓ ወደ እየሩሳሌም የሚጎርፉትን ተሳላሚዎች ደህንነት ለመጠበቅ የተመሰረተ ነው። ቴምፕላሮች የተዋቀሩት በገዳማዊ ስርዓት ሲሆን ይኸውም የሲሰተርሲያን ስርዓት መስራች የነበረው የክላርቮው በርናርድ በዘረጋላቸው ህግጋት መሰረት ነው። ቴምፕላሮች ከብዙ መሳፍንት ጋር ግንኙነት ስለነበራቸው እና ጳጳሱም እነሱ ከሚቆጣጠሩዓቸው ቦታዎች ሁሉ ግብርና አስራት እንዲሰበስቡ ስለፈቀደላቸው በአጭር ጊዜ ውስጥ ዝነኛና ሃይለኛ ለመሆን ችለዋል። ቴምፕላሮቹ አራት ዋና ክፍሎች የነበሩአቸው ሲሆን እነዚሁም ዋነኞቹ ወታደሮች ወይም ናይትስ የሚባሉት ሙሉ የፈረሰኛ ትጥቅ የታጠቁ ከዝቅተኛ የህብረተሰቡ ክፍል የተውጣጡት ወይም ሰርጀንትስ በመባል የሚታወቁት፤ መለስተኛ የፈረሰኛ ትጥቅ የታጠቁ ገበሬዎች ዋነኛው ስራቸው የስርዓቱን ንብረት ማስተዳደር የነበረ፤ እንዲሁም ካህናት ስራቸው የስርዓቱን መንፈሳዊ ህይወት መከታተል የነበረ ናቸው።",
+          "document_id": 266729
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "የመጀመሪያው ፈላስፋ ማን ይባላል?",
+              "id": 275293,
+              "answers": [
+                {
+                  "answer_id": 273920,
+                  "document_id": 266731,
+                  "question_id": 275293,
+                  "text": "ታሊዝ",
+                  "answer_start": 287,
+                  "answer_end": 290,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ታሊዝ የተወለደበት ቦታ የቀድሞ ስም ማን ይባላል?",
+              "id": 275295,
+              "answers": [
+                {
+                  "answer_id": 273922,
+                  "document_id": 266731,
+                  "question_id": 275295,
+                  "text": "ማይሌጠስ",
+                  "answer_start": 402,
+                  "answer_end": 407,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ታሊዝ የፀሐይ ግርዶሽ እንደሚኖር የተናገረው መቼ ነበር?",
+              "id": 275294,
+              "answers": [
+                {
+                  "answer_id": 273921,
+                  "document_id": 266731,
+                  "question_id": 275294,
+                  "text": "በ593 ዓክልበ.",
+                  "answer_start": 338,
+                  "answer_end": 348,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ታሊዝ የተወለደበት ቦታ አሁን በየትኛው ሀገር ክልል ውስጥ ይገኛል?",
+              "id": 275296,
+              "answers": [
+                {
+                  "answer_id": 273923,
+                  "document_id": 266731,
+                  "question_id": 275296,
+                  "text": "ቱርክ",
+                  "answer_start": 430,
+                  "answer_end": 433,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ታሊዝ ዓለምና በውስጧ ያሉ ነገሮች ከምን እንደተፈጠሩ ነበር የሚያምነው?",
+              "id": 275297,
+              "answers": [
+                {
+                  "answer_id": 273924,
+                  "document_id": 266731,
+                  "question_id": 275297,
+                  "text": "ከውሃ ",
+                  "answer_start": 483,
+                  "answer_end": 487,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የዚህ ዓለም ጥንተ ፍጥረቱ ከአየር ነው ብሎ የሚያምን የነበረው ፈላስፋ ማነው?",
+              "id": 275298,
+              "answers": [
+                {
+                  "answer_id": 273925,
+                  "document_id": 266731,
+                  "question_id": 275298,
+                  "text": "አናክሲሜነስ",
+                  "answer_start": 586,
+                  "answer_end": 593,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዓለምና በውስጧ ያሉ ነገሮች ከውሃ እንደተፈጠሩ ያምን የነበረው ፈላስፋ ማን ነው?",
+              "id": 275300,
+              "answers": [
+                {
+                  "answer_id": 273927,
+                  "document_id": 266731,
+                  "question_id": 275300,
+                  "text": "ታሊዝ",
+                  "answer_start": 456,
+                  "answer_end": 459,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የዚህ ዓለም ጥንተ ፍጥረቱ ከእሳት እንደሆነ የሚያምን የነበረው ፈላስፋ ማነው?",
+              "id": 275299,
+              "answers": [
+                {
+                  "answer_id": 273926,
+                  "document_id": 266731,
+                  "question_id": 275299,
+                  "text": "ሄራቅሊጠስ",
+                  "answer_start": 618,
+                  "answer_end": 624,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአናክሲሜነስ አመለካከት የዚህ ዓለም ጥንተ መሰረት ምንድን ነው?",
+              "id": 275302,
+              "answers": [
+                {
+                  "answer_id": 273929,
+                  "document_id": 266731,
+                  "question_id": 275302,
+                  "text": "አየር",
+                  "answer_start": 607,
+                  "answer_end": 610,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሄራቅሊጠስ የዚህ ዓለም ጥንተ መሰረት ምንድን ነው ብሎ ነበር የሚያምነው?",
+              "id": 275301,
+              "answers": [
+                {
+                  "answer_id": 273928,
+                  "document_id": 266731,
+                  "question_id": 275301,
+                  "text": "እሳት",
+                  "answer_start": 625,
+                  "answer_end": 628,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ሌሎች የፍልስፍና ባህሎች ከምዕራባውያን ፍልስፍና በተለየ በነዚህ ጉዳዮች ላይ በዙም አላተኮሩም። ምንም እንኳን የሂንዱ ፍልስፍና በዚህ አንፃር ከምዕራባውያኑ ቢመሳሰለም እስከ 19ኛው ምዕት-አመት ድረስ በኮሪይኛ፣ በጃፓንኛ፣ እና በቻይንኛ ውስጥ \"ፍልስፍና\" የሚል ቃል ይገኝ አልነበረም። በተለይ የቻይና ፈላስፎች ከግሪኮቹ ለየት ያለ የምደባ ስርዓት ይከተሉ ነበር። የምዕራቡ አለም ፍልስፍና የሚጀምረው ከግሪኮች ሲሆን የመጀመሪያው ፈላስፋ ተብሎ የሚታወቀው ታሊዝ ነው። ይህ ሰው የኖረበትን ጊዜ ለማወቅ ብዙም አስቸጋሪ አይደለም። ይኸውም በ593 ዓክልበ. (ዓም) የፀሃይ ግርዶሽ እንደሚኖር በመተንበዩ ከዚህ ጊዜ የተወሰነ አመት ቀደመ ብሎ ማይሌጠስ በተባለችው የትንሹ እስያ (የአሁኑ ቱርክ) ክፍል እንደተወለደ የታወቀ ነው። ታሊዝ ዓለም እና በውስጡ ያሉ ነገሮች ሁሉ ከውሃ እንደተፈጠሩ ያምን ነበረ። ከሱ በኋላ የተነሱ የግሪክ ፈላስፎች የሱኑ መንገድ በመከተል ዓለም ከአንድ ወይም ከሌላ ነገረ እንደተፈጠረች አስተምረዋል። ለምሳሌ አናክሲሜነስ የዓለም ጥንተመሰረቷ አየር ነው ሲል፣ ሄራቅሊጠስ እሳት ነው ብሏል። አናክሲማንደር ከነዚህ ሁሉ ለየት በማለት የዓለም መሰረቷ ይህ ነው የማይባል «apeiron» ወይም የትየለሌ የሆነ ነገር ነው ይላል። የምእራቡን ዓለም ፍልስፍና እስክ 1900 ድረስ ቅርጽ እንዳስያዙ የሚነግርላቸው ፈላስፋዎች የሚከተሉት ናቸው፡ ሶቅራጥስ፣ አሪስጣጣሪስ፣ ፕላጦ፣ አክዊናስ፣ ኤራስመስ፣ ማኪአቬሌ፣ ቶማስ ሞር፣ ሞንታጝ፣ ግሮቲየስ፣ ዴካርት፣ ሆበስ፣ ስፒኖዛ፣ ሎክ፣ ሌብኒሽት፣ በርክሌ፣ ሑሜ፣ ቮልቴይ፣ ሩሶ፣ ካንት፣ ሺለር፣ ሄግል፣ ሾፐናዎር፣ ጆን ኦስቲን፣ ጄ.ኤስ. ሚል፣ ኮምቴ፣ ዳርዊን፣ ማርክስ፣ እንግልስ፣ ፍሬደሪሕ ኚሼ፣ ዱርካሂም የምስራቁ አለም ፍልስፍና መነሻ ኢትዮጲያ ናት፡፡እንደውም የመላው አለም፡፡ በተለይ ኮከባቸው ጀምኒ የሆኑት የሐበሻ ተወላጆች የኮከባቸውን ሀያልነት በመጠቀም ወደ አረቡ አለም በመገስገስ የምድራችንን የፍልስፍና መንገድ ቀይሠዋል፡፡",
+          "document_id": 266731
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በ516 ዓክልበ. በዴሞክራሲያዊ መንገድ የተሻሸለ ለአቴና ሕገ መንግሥት ያወጣው ማን ነበር?",
+              "id": 275322,
+              "answers": [
+                {
+                  "answer_id": 273949,
+                  "document_id": 266736,
+                  "question_id": 275322,
+                  "text": "ክሊስቴኔስ",
+                  "answer_start": 194,
+                  "answer_end": 200,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ክሊስቴኔስ በዴሞክራሲያዊ መንገድ የተሻሸለ ለአቴና ሕገ መንግሥት ያወጣው መች ነበር?",
+              "id": 275323,
+              "answers": [
+                {
+                  "answer_id": 273950,
+                  "document_id": 266736,
+                  "question_id": 275323,
+                  "text": "በ516 ዓክልበ.",
+                  "answer_start": 207,
+                  "answer_end": 217,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የግሪኩ ፈላስፋ አሪስጣጣሊስ መች ነበር ስለሕገ መንግሥት ሀሣብ ለይቶ ያወቀው?",
+              "id": 275324,
+              "answers": [
+                {
+                  "answer_id": 273951,
+                  "document_id": 266736,
+                  "question_id": 275324,
+                  "text": "በ350 ዓክልበ.",
+                  "answer_start": 276,
+                  "answer_end": 286,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አሪስጣጣሊስ የየት ሀገር ፈላስፋ ነው?",
+              "id": 275325,
+              "answers": [
+                {
+                  "answer_id": 273952,
+                  "document_id": 266736,
+                  "question_id": 275325,
+                  "text": "የግሪክ ፈላስፋ",
+                  "answer_start": 258,
+                  "answer_end": 267,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ350ዓክልበ. ስለ ሕገ መንግሥት ያወቀው ግሪካዊ ፈላስፋ ማን ነበር?",
+              "id": 275326,
+              "answers": [
+                {
+                  "answer_id": 273953,
+                  "document_id": 266736,
+                  "question_id": 275326,
+                  "text": "አሪስጣጣሊስ",
+                  "answer_start": 268,
+                  "answer_end": 275,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሮማውያን 12ቱ ሰንጠረዦች የተሰኘውን ሕጋቸውን መች ነበር ለመጀመሪያ ጊዜ ያወጡት?",
+              "id": 275327,
+              "answers": [
+                {
+                  "answer_id": 273954,
+                  "document_id": 266736,
+                  "question_id": 275327,
+                  "text": "በ457 ዓክልበ.",
+                  "answer_start": 533,
+                  "answer_end": 543,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ457 ዓክልበ. ሮማውያን ለመጀመሪያ ጊዜ ያወጡት ሕግ ምን በመባል ይጠራ ነበር?",
+              "id": 275328,
+              "answers": [
+                {
+                  "answer_id": 273955,
+                  "document_id": 266736,
+                  "question_id": 275328,
+                  "text": "12ቱ ሰንተረዦች",
+                  "answer_start": 501,
+                  "answer_end": 511,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "12ቱ ሰንተረዦች የተባለ ሕገ መንግስት በ457 ዓክልበ. ለመጀመሪያ ጊዜ ያዘጋጁት እነማን ነበሩ?",
+              "id": 275329,
+              "answers": [
+                {
+                  "answer_id": 273956,
+                  "document_id": 266736,
+                  "question_id": 275329,
+                  "text": "ሮማውያን",
+                  "answer_start": 488,
+                  "answer_end": 493,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ628 ዓክልበ. ማን የአቴና ሕግጋትን ጻፈ?",
+              "id": 275317,
+              "answers": [
+                {
+                  "answer_id": 273944,
+                  "document_id": 266736,
+                  "question_id": 275317,
+                  "text": "ድራኮ ",
+                  "answer_start": 12,
+                  "answer_end": 16,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ድራኮ የአቴና ሕግጋትን መች ጻፈ?",
+              "id": 275318,
+              "answers": [
+                {
+                  "answer_id": 273945,
+                  "document_id": 266736,
+                  "question_id": 275318,
+                  "text": "በ628 ዓክልበ",
+                  "answer_start": 0,
+                  "answer_end": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ድራኮ በ628 ዓክልበ. አቴናን በተመለከተ የጻፈው ምንድን ነው?",
+              "id": 275319,
+              "answers": [
+                {
+                  "answer_id": 273946,
+                  "document_id": 266736,
+                  "question_id": 275319,
+                  "text": "የአቴና ከተማ ሕግጋት",
+                  "answer_start": 25,
+                  "answer_end": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከመጀመሪያው ሕግ ቀጥሎ የአቴናው አለቃ ሶሎን አዲሱን ሕገ መንግሥት መች ፈጠረ?",
+              "id": 275321,
+              "answers": [
+                {
+                  "answer_id": 273948,
+                  "document_id": 266736,
+                  "question_id": 275321,
+                  "text": "በ600 ዓክልበ.",
+                  "answer_start": 85,
+                  "answer_end": 95,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከመጀመሪያው የአቴና ሕግ ቀጥሎ አዲስ ሕገ መንግሥት የፈጠረው የአቴና አለቃ ማን ነበር?",
+              "id": 275320,
+              "answers": [
+                {
+                  "answer_id": 273947,
+                  "document_id": 266736,
+                  "question_id": 275320,
+                  "text": "ሶሎን",
+                  "answer_start": 106,
+                  "answer_end": 109,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "በ628 ዓክልበ.፣ ድራኮ የሚባል ጸሃፊ የአቴና ከተማ ሕግጋት ጻፈ፤ ይህም ሕግ እጅግ ጨካኝ ሆኖ ይሙት በቃ ለማንኛውም ጥፋት ወሰነ።  በ600 ዓክልበ.፣ የአቴና አለቃ ሶሎን አዲስ ሕገ መንግሥት ፈጠረ።  የሰራተኞች ሸክም አቀለለ፣ ነገር ግን ባላባትነት በልደት ሳይሆን በንብረት ብዛት እንዲቈጠር አስደረገ። ክሊስቴኔስ እንደገና በ516 ዓክልበ. በዴሞክራሲያዊ መሠረት የተሻሸለ ለአቴና  ሕገ መንግሥት አወጣ። የግሪክ ፈላስፋ አሪስጣጣሊስ በ350 ዓክልበ. ግድም የሕገ መንግሥት ሀሣብ ለይቶ ዐወቀ። በጽሑፎቹ የአቴና፣ የስፓርታና የካርታግና ሕገ መንግሥቶች ያነጻጽራል። በመደምደሚያው የተሻለው ሕገ መንግሥት ከንጉሣዊ፣ ከመኳንንታዊና ከሕዝባዊ ወገኖች የተደባለቀ መሆኑን ገመተ። በሀሣቡ በመንግሥት የሚከፋፈሉ ዜጎች ከማይከፋፈሉ ከባርዮችና ዜጎች ካልሆኑ ሰዎች ልዩነት አደረገ። ሮማውያን መጀመርያ «12ቱ ሰንተረዦች» የተባለውን ሕገ መንግሥት ያወጡ በ457 ዓክልበ. ነበር። ከዚያ በኋላ አንዳንዴ የተለያዩ ሕጎችና ትእዛዛት ይጨምሩበት ነበር እንጂ እስከ መጽሐፈ ቴዎዶስዮስ ድረስ (430 ዓ.ም.) ሌላ ክምቹ ሕገ መንግሥት አልኖረም ነበር። በኋላም በምሥራቁ መንግሥት (ቢዛንታይን) በኩል መጽሐፈ ዩስጢኒያኖስ (526 ዓ.ም.) ለአውሮፓ ከፍ ያለ ተጽእኖ ነበረው። ይህም በምስራቁ ነገሥታት 3ኛ ሌዎን ኢሳውራዊ «ኤክሎጋ» (732 ዓ.ም.) እና በ1ኛ ባሲሌዎስ «ባሲሊካ» (870 ዓ.ም.) በተባሉት ሕገ ፍትሐን ተከተለ።",
+          "document_id": 266736
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ኮምፒዩተር ላይ የሚታዩ ነገሮችን ለማሳየት የሚጠቅመው ክፍል ምን ይባላል?",
+              "id": 275375,
+              "answers": [
+                {
+                  "answer_id": 274002,
+                  "document_id": 266748,
+                  "question_id": 275375,
+                  "text": "ሞኒተር",
+                  "answer_start": 505,
+                  "answer_end": 509,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኮምፒዩተር ውስጥ ያሉ የትኛውም አካላዊ ክፍሎች የሚሰኩበት ክፍል ምን ይባላል?",
+              "id": 275376,
+              "answers": [
+                {
+                  "answer_id": 274003,
+                  "document_id": 266748,
+                  "question_id": 275376,
+                  "text": "ማዘርቦርድ",
+                  "answer_start": 612,
+                  "answer_end": 618,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ማንኛውም በኮምፒዩተር ፕሮሰስ የሚያደረጉ ነገሮችን የሚከውን የኮምፒዩተሩ ክፍል ወይም አንጎል ምን ይባላል?",
+              "id": 275377,
+              "answers": [
+                {
+                  "answer_id": 274004,
+                  "document_id": 266748,
+                  "question_id": 275377,
+                  "text": "ሲፒዩ",
+                  "answer_start": 661,
+                  "answer_end": 664,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ማንኛውም በኮምፒዩተር ፕሮሰስ የሚያደረጉ ነገሮችን በጊዜያዊነት የሚያጠራቅም የኮምፒዩተሩ ክፍል ምን ይባላል?",
+              "id": 275378,
+              "answers": [
+                {
+                  "answer_id": 274005,
+                  "document_id": 266748,
+                  "question_id": 275378,
+                  "text": "ሜሞሪ",
+                  "answer_start": 740,
+                  "answer_end": 743,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኮምፒዩተር ውስጥ መረጃን በቋሚነት ለማጠራቀም የሚጠቅም የኮምፒዩተሩ ክፍል ምን ይባላል?",
+              "id": 275379,
+              "answers": [
+                {
+                  "answer_id": 274006,
+                  "document_id": 266748,
+                  "question_id": 275379,
+                  "text": "ሀርድ ዲስክ",
+                  "answer_start": 1210,
+                  "answer_end": 1217,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "መረጃን ፕሮሰስ ለማድረግ የምንጠቀምበት ኤሌክትሮኒክ መሳሪያ ምን ይባላል?",
+              "id": 275380,
+              "answers": [
+                {
+                  "answer_id": 274007,
+                  "document_id": 266748,
+                  "question_id": 275380,
+                  "text": "ኮምፕዩተር ",
+                  "answer_start": 7,
+                  "answer_end": 14,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ኮምፒዩተር ኮምፕዩተር ማለት ማንኛውንም ኢንፎርሜሽን ፕሮሰስ የሚያደርግ ማሽን ነው። ይህንም የሚያደርገው በተርታ የተቀመጡ ትዕዛዞች በመፈጸም ነው። ለብዙ ሰዎች ኮምፒዩተር ሲባል ዐዕምሯቸው ላይ የሚመጣው የግል (ፐርሰናል) ኮምፒዩተር ነው። ነገር ግን ኮምፒዩተር ሲባል በጣም ብዙ ነገሮችን ያጠቃልላል። ላፕቶፕ ፣ ዴስክቶፕ ፣ ማይክሮ-ኮምፒዩተር ፣ ሱፐር-ኮምፒዩተር ፣ ካልኩሌተር ፣ዲጂታል ካሜራ እና ሌሎችንም ያጠቃልላል። ቀድሞ አስሊ ማለት አንድ በሒሳባዊ ትዕዛዝ የተለያዩ የጥንት መሣሪያዎችን እየተጠቀመ ቁጥሮችን የሚያሰላ ሰው ነበር። እስከ 20ኛው ክፍለ-ዘመን ድረስ የተለያዩ ጠቃሚ መሣሪያዎች ተሰርተዋል። ከዛ በኋላ ትልልቅ ማሸኖች መሠራት ጀመሩ። እነዚህ ማሽኖች ከዛሬው ኮምፒዩተሮች(አስሊዎች) ጋር ሲወዳደሩ በጣም ትልቅና ቀርፋፋ ናቸው።  የኮምፕዩተር የውስጥ ክፍሎች የሚከተሉት ናቸው፡-  1.ሞኒተር - የምንሰራውን ነገር እንዲያሳየን፤ምስል፣ጽሑፍ፣ ቪዲዮ ወይም ማንኛውም ነገር ሊሆን ይችላል፡፡ ሞኒተር 14 ኢንች፣ 15 ኢንች፣ ወዘተ. እየተባለ ይገላጻል፡፡ 2.ማዘርቦርድ - እናት ሰሌዳ ሁሉም የኮምፕዩተር ክፍሎች(ዕቃዎች)የሚቀዳጁበት 3.ሲፒዩ - የኮምፕዩተሩ አእማሮ እንደማለት ነው፡፡ ይህ ሲባል ግን ሲፒዩን ከሰው አእምሮ ጋር አንድ ነው ማለት አይደለም፡፡ 4.ሜሞሪ - የምንሰራውን ስራ ወይም ፋይል በጊዚያዊነት አስቀምጠንበት የምንሰራበት፡፡ ሜሞሪበባይት (Bytes) ይለካል፡፡ ከ Bytes ፊት Kilo፣ ማለትም ኪሎባይት (kilobytes)([1,024 ባይቶች ወይም Bytes ማለት ነው፡፡ ] ፣ Mega[1,048,576 ባይቶች ወይም Bytes ] ፣ Giga [1,073,741,824 ባይቶች ወይም Bytes]፣ ወዘተ የሚሉትን ቃላት በመጠቀም ኪሎባይት(kilobyte)፣ ሜጋባይት (megabyte)፣ ጊጋባይት (gigabyte) እያልን የኮምፒዩተር ሜሞሪ መግለፅ እንገልጻለን፡፡ ለምሳሌ 10 MegaBytes ወይም ባጭሩ ሲጸፍ 10MB ይህ ማለት 10,485,760 Bytes ይሆናል ማለት ነው፡፡ 5.ኤክስፓንሽ ስሎት 6.የኤሌክትሪክ ሀይል ማቅረቢያ (power supply) 7.የሲዲ ማሰሪያ (cd drive) 8.ሀርድ ዲስክ (የምንሰራውን ወይም የምንጠቀምበትን ፋይል በቋሚነት ለማስቀመጥ) 9. መሎጊያ (ማውስ) 10.የፊደል ገበታ (ኪቦርድ) የመጀመሪያቹ ኮምፕዩተሮች የሚሠሩት በእንግሊዝኛ ፊደል ብቻ ነበር። ቀስ በቀስ ግን የተለያዩ ኣገሮች ሊቃውንት በየራሳቸው ፊደላት እንዲሠሩ ኣደረጉ። ኮምፕዩተር በእያንዳንዱ የግዕዝ ፊደል፣ ኣኃዝና ምልክት እንዲሠራ ለመጀመሪያ ጊዜ የፈጠረው ኢትዮጵያዊው ዶክተር ኣበራ ሞላ ነው። በቅርቡም አያንዳንዱ የግዕዝ ፊደል፣ ኣኃዝና ምልክት ዩኒኮድ የሚባል የዓለም ፊደላት መደብ ውስጥ መግባት ቀጥሏል። ",
+          "document_id": 266748
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በአፍሪካ የመጀመሪያው የቴሌቪዥን ስርጭት  የተደረገው መች ነው?",
+              "id": 275948,
+              "answers": [
+                {
+                  "answer_id": 274747,
+                  "document_id": 266754,
+                  "question_id": 275948,
+                  "text": "በ1952 ዓም",
+                  "answer_start": 284,
+                  "answer_end": 292,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ የቴሌቪዥን ስርጭት የተጀመረው መቼ ነው?",
+              "id": 275947,
+              "answers": [
+                {
+                  "answer_id": 274746,
+                  "document_id": 266754,
+                  "question_id": 275947,
+                  "text": "በ1956 ዓም",
+                  "answer_start": 385,
+                  "answer_end": 393,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የመጀመሪያው የቀለም ቴሌቪዥን ስርጭት ሙከራ የተደረገው መች ነው?",
+              "id": 275950,
+              "answers": [
+                {
+                  "answer_id": 274749,
+                  "document_id": 266754,
+                  "question_id": 275950,
+                  "text": "በግንቦት 26 ቀን 1920 (ጁላይ 3, 1928 እ.ኤ.አ.)",
+                  "answer_start": 495,
+                  "answer_end": 532,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካ የመጀመሪያው የቴሌቪዥን ስርጭት የተደረገው የት ነው?",
+              "id": 275949,
+              "answers": [
+                {
+                  "answer_id": 274748,
+                  "document_id": 266754,
+                  "question_id": 275949,
+                  "text": "በናይጄሪያና ደቡብ ሮዴዝያ (አሁን ዚምባብዌ) ",
+                  "answer_start": 294,
+                  "answer_end": 323,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጁላይ 3, 1928 እ.ኤ.አ. የመጀመሪያውን የቀለም ቴሌቪዥን ሙከራ ስርጭት ያደረገው ማነው?",
+              "id": 275951,
+              "answers": [
+                {
+                  "answer_id": 274750,
+                  "document_id": 266754,
+                  "question_id": 275951,
+                  "text": "ቤርድ ",
+                  "answer_start": 491,
+                  "answer_end": 495,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቤርድ ጁላይ 3, 1928 እ.ኤ.አ. ምን ያደረገበት ቀን ነው?",
+              "id": 275952,
+              "answers": [
+                {
+                  "answer_id": 274751,
+                  "document_id": 266754,
+                  "question_id": 275952,
+                  "text": "የከለር ቴሌቪዥን ስርጨት ሙከራ",
+                  "answer_start": 542,
+                  "answer_end": 561,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ የቀለም ቴሌቭዥን ስርጭት የተጀመረው ከመቼ ጀምሮ ነው?",
+              "id": 275953,
+              "answers": [
+                {
+                  "answer_id": 274752,
+                  "document_id": 266754,
+                  "question_id": 275953,
+                  "text": "ከ1976 ዓም",
+                  "answer_start": 1219,
+                  "answer_end": 1227,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በሶቭየት ኅብረት የቀለም ቴሌቭዥን ስርጭት የተጀመረው መቼ ነው?",
+              "id": 275955,
+              "answers": [
+                {
+                  "answer_id": 274756,
+                  "document_id": 266754,
+                  "question_id": 275955,
+                  "text": "በ1959",
+                  "answer_start": 1152,
+                  "answer_end": 1157,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጃፓን የቀለም ቴሌቭዥን ስርጭት የተጀመረው ከመቼ ጀምሮ ነው?",
+              "id": 275954,
+              "answers": [
+                {
+                  "answer_id": 274753,
+                  "document_id": 266754,
+                  "question_id": 275954,
+                  "text": "በ1952 ዓም",
+                  "answer_start": 1096,
+                  "answer_end": 1104,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኮትዲቯር የቀለም ቴሌቭዥን ስርጭት የተጀመረው መቼ ነው?",
+              "id": 275956,
+              "answers": [
+                {
+                  "answer_id": 274757,
+                  "document_id": 266754,
+                  "question_id": 275956,
+                  "text": "በ1962",
+                  "answer_start": 1166,
+                  "answer_end": 1171,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በዓለም የመጨረሻው ወደ ቀለም ቴሌቭዥን ስርጭት የገባው ሀገር ማነው?",
+              "id": 275958,
+              "answers": [
+                {
+                  "answer_id": 274761,
+                  "document_id": 266754,
+                  "question_id": 275958,
+                  "text": "ሮማኒያ",
+                  "answer_start": 1248,
+                  "answer_end": 1252,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሩማንያ የቀለም የቴሌቭዥን ስርጭት የተጀመረው መቼ ነው?",
+              "id": 275959,
+              "answers": [
+                {
+                  "answer_id": 274763,
+                  "document_id": 266754,
+                  "question_id": 275959,
+                  "text": "በ1977 ዓም",
+                  "answer_start": 1239,
+                  "answer_end": 1247,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "NBC የተባለው የአሜሪካ የቴሌቭዥን ስርጭት ድርጅት ከመች ጀምሮ በከፊል የቀለም ስርጭት ጀመረ?",
+              "id": 275960,
+              "answers": [
+                {
+                  "answer_id": 274768,
+                  "document_id": 266754,
+                  "question_id": 275960,
+                  "text": "በጥር ወር 1946 ዓም",
+                  "answer_start": 778,
+                  "answer_end": 792,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአውስትራሊያ የቀለም ቴሌቭዥን ስርጭት የተጀመረው መቼ ነው?",
+              "id": 275957,
+              "answers": [
+                {
+                  "answer_id": 274759,
+                  "document_id": 266754,
+                  "question_id": 275957,
+                  "text": "በ1967",
+                  "answer_start": 1181,
+                  "answer_end": 1186,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በየት ሀገር የተካሄደው የኦሎምፒክ ውድድር ነው በቴሌቭዥን ለመጀመሪያ ጊዜ የተሰራጨው?",
+              "id": 275961,
+              "answers": [
+                {
+                  "answer_id": 274770,
+                  "document_id": 266754,
+                  "question_id": 275961,
+                  "text": "በጀርመን",
+                  "answer_start": 52,
+                  "answer_end": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "መቼ የተካሄደው የኦሎምፒክ ውድድር ነው ለመጀመሪያ ጊዜ በቴሌቭዥን የተሰራጨው?",
+              "id": 276397,
+              "answers": [
+                {
+                  "answer_id": 274771,
+                  "document_id": 266754,
+                  "question_id": 276397,
+                  "text": "በ1936 እ.ኤ.አ.",
+                  "answer_start": 88,
+                  "answer_end": 100,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "በርግጥም የመጀመሪያው በሰፊው ተግባራዊ የሆነ የቴሌቭዥን ስርዓት ስራ ላይ የዋለው በጀርመን አገር ሲሆን ይኸውም በ1929 እ.ኤ.አ. ነው። በ1936 እ.ኤ.አ. (1928 ዓም) ጀርመን ሃገር ተደርጎ የነበረውን የኦሎምፒክ ውድድር በቴሌቭዥን ሊሰራጭ ቻለ፣ ህዝቡም ውድድሩን እቤቱ ሆኖ ቀጥታ ሲካሄድ ለማየት ቻለ። ከዚያ መጀመርያው ጥቁርና-ነጭ ፕሮግራሚንግ በዩናይትድ ኪንግደም 1928 ዓም፤ በአሜሪካ 1933 ዓም ተደረገ። በአፍሪካ መጀመርያው ጣቢያዎች በ1952 ዓም  በናይጄሪያና ደቡብ ሮዴዝያ (አሁን ዚምባብዌ) ተሰራጩ፣ በኢትዮጵያ የቴሌቪዥን ስርጭት አገልግሎት (ኢትዮጵያ ብሮድካስቲንግ ኮርፖሬሽን) የጀመረው በ1956 ዓም ሆነ። ሁለት አገራት - እነርሱም ቱቫሉና ኪሪባስ - ምንም የራሳቸውን ቴሌቪዥን አሁን አያሰራጩም፤ ሆኖም የሌላ አገር ስርጭት እዚያ ሊታይ ይችላል። ከዚያ ቤርድ በግንቦት 26 ቀን 1920 (ጁላይ 3, 1928 እ.ኤ.አ.) የመጀመሪያውን የከለር ቴሌቪዥን ስርጨት ሙከራ አደረገ። ነገር ግን ከለር ቴሌቪዥን ቢፈጠረም ለሚከተሉት ብዙ ዓመታት ስርጭት ባብዛኛው ጥቁርና ነጭ ብቻ ሆኖ ቀረ። ይሄው ቴክኖዎሎጂው በጣም ውድ፣ በጣም ከባድና በትክክል ያልተስተካከለ ስለ ሆነ ነው። በየጥቂቱ ከ1946 ዓም (1954 እ.ኤ.አ.) ጀምሮ አገራት ወደ ከለር ስርጭትና ከለሩን ማሳየት የሚችል ቴሌቪዥን ወደ መሸጥ ይዛወሩ ጀመር። በጥር ወር 1946 ዓም NBC የተባለው አሜሪካዊ ስርጭት ጣቢያ በከፊሉ ወደ ከለር ተሸጋገረ፤ ብዙ ሰዎች ግን ያንጊዜ ከለር ማሳያ ቴሌቪዥን ለመግዛት ገና አልቻሉም ነበር። ከ1955 እስከ 1959 ዓም ድረስ ሌሎቹ ትልልቅ አሜሪካዊ ጣቢያዎች ABC እና CBS ደግሞ ወደ ከለር ተዛወሩ፣ የከለርም ተቀባዮች ዋጋ እየተቀነሰ የሚይዩት ሕዝብ ቁጥር ደግሞ ከዚህ በኋላ እየተጨመረ ሄደ፤ ከረጅሙ ጥቁርና-ነጭ ዘመን ቀጥሎ ከለርም በኅብረተሠብ ያመጣው ለውጥ ለግዙፍነቱ በኋላ ኢንተርኔት እንደ ሆነ ያሕል ነው። ጃፓን በ1952 ዓም፣ ሜክሲኮ በ1955፤ ካናዳ በ1958፣ የአውሮፓ ኅብረትና የሶቪዬት ሕብረት በ1959፣ ኮት ዲቯር በ1962፣ አውስትራሊያ በ1967 ከለር ስርጭትን ጀመሩ። በኢትዮጵያም ከለር ስርጭት ከ1976 ዓም ጀምሮ ተገኝቷል። በ1977 ዓም ሮማኒያ ከጥቁርና-ነጭ ስርጭት ወደ ከለር ማሰራጨት የለወጠ በዓለም መጨረሻው ሃገር ሆነ።",
+          "document_id": 266754
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ኤስፔራንቶ የተሰኘውን ሰው ሰራሽ ቋንቋ ለህዝብ ያስተዋወቀው ማን ነው?",
+              "id": 278961,
+              "answers": [
+                {
+                  "answer_id": 274869,
+                  "document_id": 266759,
+                  "question_id": 278961,
+                  "text": "ሉድዊክ ሌይዛር ዛመንሆፍ",
+                  "answer_start": 120,
+                  "answer_end": 135,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሉድዊክ ሌይዛር ዛመንሆፍ ኤስፔራንቶ የተሰኘውን ዓለም አቀፋዊ ቋንቋ ያስተዋወቀው መቼ ነበር?",
+              "id": 278962,
+              "answers": [
+                {
+                  "answer_id": 274870,
+                  "document_id": 266759,
+                  "question_id": 278962,
+                  "text": "በ1887 እ.ኤ.አ.",
+                  "answer_start": 136,
+                  "answer_end": 148,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኤስፔራንቶ የተሰኘውን ዓለም አቀፋዊ ቋንቋ ያስተዋወቀው ሉድዊክ ሌይዛር ዛመንሆፍ የተወለደው የት ነው?",
+              "id": 278963,
+              "answers": [
+                {
+                  "answer_id": 274872,
+                  "document_id": 266759,
+                  "question_id": 278963,
+                  "text": "ፖሎኝ ",
+                  "answer_start": 89,
+                  "answer_end": 93,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኤስፔራንቶ የተሰኘውን ዓለም አቀፋዊ ቋንቋ ያስተዋወቀው ሉድዊክ ሌይዛር ዛመንሆፍ የተወለደው መቼ ነው?",
+              "id": 278964,
+              "answers": [
+                {
+                  "answer_id": 274873,
+                  "document_id": 266759,
+                  "question_id": 278964,
+                  "text": "በ1859 እ.ኤ.አ.",
+                  "answer_start": 70,
+                  "answer_end": 82,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኤስፔራንቶ የተሰኘውን ዓለም አቀፋዊ ቋንቋ በዓለም ምን ያህል ተናጋሪዎች አሉት?",
+              "id": 278966,
+              "answers": [
+                {
+                  "answer_id": 274875,
+                  "document_id": 266759,
+                  "question_id": 278966,
+                  "text": "ከ1,600,000 በላይ",
+                  "answer_start": 264,
+                  "answer_end": 278,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኤስፔራንቶ የተሰኘውን ዓለም አቀፋዊ ቋንቋ ያስተዋወቀው ሉድዊክ ሌይዛር ዛመንሆፍ ሙያው ምን ነበር?",
+              "id": 278965,
+              "answers": [
+                {
+                  "answer_id": 274874,
+                  "document_id": 266759,
+                  "question_id": 278965,
+                  "text": "የአይን ሀኪም",
+                  "answer_start": 106,
+                  "answer_end": 114,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ኤስፔራንቶ ኤስፔራንቶ (Esperanto) ከሁሉም አለማቀፋዊ ሠው ሰራሽ ቋንቋዎች እጅጉን የተስፋፋ ቋንቋ ነው። በ1859 እ.ኤ.አ. በዛሬይቷ ፖሎኝ የተወለደውና በሞያው የአይን ሀኪም የሆነው ሉድዊክ ሌይዛር ዛመንሆፍ በ1887 እ.ኤ.አ. ቋንቋውን ለህዝብ አሳወቀ። አላማው ኤስፔራንቶን በቀላሉ ሊማሩት የሚቻል፣ የጋራ የሆነና ለአለማቀፋዊ መግባባት የሚረዳ ግን ያሉትን ቋንቋዎች የማይተካ ቋንቋ ማድረግ ነበር። ኤስፔራንቶ ከ1,600,000 በላይ ተናጋሪዎች ቢኖሩትም የቋንቋው ደጋፊ ያልሆኑ እንግሊዝኛን ከመስፋፋቱ አንፃር ለአለማቀፋዊ ቋንቋነት በተሻለ ይመርጡታል።",
+          "document_id": 266759
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በዓለም ከሚገኙ ሰው ሰራሽ ሐይቆች ትልቁ የት ሀገር ይገኛል?",
+              "id": 280104,
+              "answers": [
+                {
+                  "answer_id": 276178,
+                  "document_id": 266765,
+                  "question_id": 280104,
+                  "text": "በጋና",
+                  "answer_start": 815,
+                  "answer_end": 818,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና የሚገኘው ትልቁ ሰው ሰራሽ ሐይቅ ምን ይባላል?",
+              "id": 280106,
+              "answers": [
+                {
+                  "answer_id": 276180,
+                  "document_id": 266765,
+                  "question_id": 280106,
+                  "text": "ቮልታ ሐይቅ",
+                  "answer_start": 806,
+                  "answer_end": 813,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካ ካሉ ሀገራት ጋና በየትኛው ውቅያኖስ ጠረፍ ላይ ይገኛል?",
+              "id": 280083,
+              "answers": [
+                {
+                  "answer_id": 276155,
+                  "document_id": 266765,
+                  "question_id": 280083,
+                  "text": "አትላንቲክ ",
+                  "answer_start": 12,
+                  "answer_end": 19,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቮልታ ሐይቅ የት ይገኛል?",
+              "id": 280108,
+              "answers": [
+                {
+                  "answer_id": 276182,
+                  "document_id": 266765,
+                  "question_id": 280108,
+                  "text": "በጋና",
+                  "answer_start": 815,
+                  "answer_end": 818,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጋና በየት አህጉር የሚገኝ ሀገር ነው?",
+              "id": 280085,
+              "answers": [
+                {
+                  "answer_id": 276157,
+                  "document_id": 266765,
+                  "question_id": 280085,
+                  "text": "በአፍሪካ ",
+                  "answer_start": 6,
+                  "answer_end": 12,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በዓለም ከሚገኙ ሰው ሰራሽ ሐይቆች ትልቁ የቱ ነው?",
+              "id": 280109,
+              "answers": [
+                {
+                  "answer_id": 276183,
+                  "document_id": 266765,
+                  "question_id": 280109,
+                  "text": "ቮልታ ሐይቅ",
+                  "answer_start": 806,
+                  "answer_end": 813,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቮልታ ሐይቅ ምን ዓይነት ሐይቅ ነው?",
+              "id": 280110,
+              "answers": [
+                {
+                  "answer_id": 276184,
+                  "document_id": 266765,
+                  "question_id": 280110,
+                  "text": "ሠው ሰራሽ ሐይቅ",
+                  "answer_start": 794,
+                  "answer_end": 804,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጋናውያን ብሔራዊ ቋንቋ ምንድን ነው?",
+              "id": 280086,
+              "answers": [
+                {
+                  "answer_id": 276158,
+                  "document_id": 266765,
+                  "question_id": 280086,
+                  "text": "እንግሊዝኛ",
+                  "answer_start": 73,
+                  "answer_end": 79,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቮልታ ሐይቅ በዓለም ካሉ ከሰው ሠራሽ ሐይቆች ሲነጻጸር መጠኑ እንዴት ነው?",
+              "id": 280112,
+              "answers": [
+                {
+                  "answer_id": 276186,
+                  "document_id": 266765,
+                  "question_id": 280112,
+                  "text": "ከሁሉ ትልቅ",
+                  "answer_start": 781,
+                  "answer_end": 788,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና ብሔራዊ ቋንቋ ባይሆንም በስፋት የሚነገረው ምንድን ነው?",
+              "id": 280090,
+              "answers": [
+                {
+                  "answer_id": 276162,
+                  "document_id": 266765,
+                  "question_id": 280090,
+                  "text": "ትዊኛ (አካንኛ) ",
+                  "answer_start": 104,
+                  "answer_end": 115,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና ምን ያህል ሕዝብ ይኖራል?",
+              "id": 280116,
+              "answers": [
+                {
+                  "answer_id": 276190,
+                  "document_id": 266765,
+                  "question_id": 280116,
+                  "text": "ከ24 ሚሊዮን ኗሪዎች በላይ",
+                  "answer_start": 38,
+                  "answer_end": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና የአሻንቲ መንግሥት የቆየው ከመቼ እስከ መቼ ነበር?",
+              "id": 280094,
+              "answers": [
+                {
+                  "answer_id": 276167,
+                  "document_id": 266765,
+                  "question_id": 280094,
+                  "text": "ከ1662 እስከ 1949 ዓም",
+                  "answer_start": 410,
+                  "answer_end": 427,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና የክርስቲያኖች ብዛት በመቶኛ ምን ያህል ነው?",
+              "id": 280097,
+              "answers": [
+                {
+                  "answer_id": 276170,
+                  "document_id": 266765,
+                  "question_id": 280097,
+                  "text": "70%",
+                  "answer_start": 653,
+                  "answer_end": 656,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና ከ1662 እስከ 1949 ዓም የቆየው መንግሥት ምን ተብሎ ይጠራ ነበር?",
+              "id": 280096,
+              "answers": [
+                {
+                  "answer_id": 276169,
+                  "document_id": 266765,
+                  "question_id": 280096,
+                  "text": "የአሻንቲ መንግሥት",
+                  "answer_start": 432,
+                  "answer_end": 443,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጋና የሙስሊሞች ብዛት በመቶኛ ምን ያህል ነው?",
+              "id": 280100,
+              "answers": [
+                {
+                  "answer_id": 276173,
+                  "document_id": 266765,
+                  "question_id": 280100,
+                  "text": "16% ",
+                  "answer_start": 690,
+                  "answer_end": 694,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጋና ዋና ምርቶች ምንድን ናቸው?",
+              "id": 280101,
+              "answers": [
+                {
+                  "answer_id": 276174,
+                  "document_id": 266765,
+                  "question_id": 280101,
+                  "text": "ካካዎ፣ ዘይት፣ አልማዝ",
+                  "answer_start": 756,
+                  "answer_end": 770,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ጋና ጋና በአፍሪካ አትላንቲክ ጠረፍ ላይ የተገኘ አገር ሲሆን ከ24 ሚሊዮን ኗሪዎች በላይ አሉት። የጋና ስራ ቋንቋ እንግሊዝኛ ሲሆን፣ ሌሎች ኗሪ ቋንቋዎች በተለይም ትዊኛ (አካንኛ) በሰፊ ይነገራሉ። የ«ጋና» ስያሜ በታሪክ የድሮ «ጋና መንግሥት» ወይም «ዋጋዱጉ መንግሥት» ለማክበር በ1949 ዓም ተመረጠ። እንዲያውም ያው መንግሥት እስከ 1068 ዓም ድረስ ከጋና ወደ ስሜን-ምዕራብ በአሁኑ ማሊ ይገኝ ነበር እንጂ የዛሬውን ጋና መቸም አልገዛም። «ጋና» በትክክል  የዋጋዱጉ መንግሥት አለቆች ማዕረግ ሆኖ ነበር። ዋጋዱጉ መንግሥት በ1068 ዓም ግድም ከወደቀ ቀጥሎ፣ የአካን ብሔሮች ከዚያው ፈልሰው በዛሬው ጋና  ሠፈሩና መጀመርያ ግዛቶችን መሠረቱ። ከ1662 እስከ 1949 ዓም ድረስ የአሻንቲ መንግሥት ባካባቢው ቆየ፤ በ1894 ዓም ይህ የብሪታንያ አሻንቲ ጥብቅ ግዛት ሆነ። ከ1949 ዓም አስቀድሞ የዩናይትድ ኪንግደም ጥገኛ ግዛት ሲሆን በወርቅ ሀብቱ ምክንያት «የወርቅ ጠረፍ ጥገኛ ግዛት» (ጎልድ ኮስት ፕሮቴክቶሬት) በመባል ይታወቅ ነበር። ከ1984 ዓም ጀምሮ ዴሞክራሲያዊ እና ፓርላሜንታዊ መንግሥት ኖሮታል። አብዛኞቹ ኗሪዎች (70%) በተለይ በደቡቡ ክርስቲያን ሲሆኑ፣ በተለይ በስሜኑ 16% የእስልምና ተከታዮች ናቸው። የተረፉትም የኗሪ አረመኔነትን እምነቶች ይከተላሉ። የጋና ዋና ምርቶች ካካዎ፣ ዘይት፣ አልማዝ ናቸው። በአለሙ ከሁሉ ትልቅ የሆነው ሠው ሰራሽ ሐይቅ፣ ቮልታ ሐይቅ፣ በጋና ይገኛል። እግር ኳስ ከሁሉ የተወደደው እስፖርት ነው። የጋና አበሳሰል በተለይ በኮቤ፣ ጐርጠብ፣ የስኳር ድንች፣ ባቄላ፣ በቆሎ፣ ኦቾሎኒ፣ ባሚያና ሩዝ ይሠራል።",
+          "document_id": 266765
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ስዋሂሊ በየት አካባቢ የሚነገር ቋንቋ ነው?",
+              "id": 280232,
+              "answers": [
+                {
+                  "answer_id": 276314,
+                  "document_id": 266769,
+                  "question_id": 280232,
+                  "text": "በምሥራቅ ፡ አፍሪቃ",
+                  "answer_start": 37,
+                  "answer_end": 49,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ስዋሂሊ የምን ቋንቋ ቤተሰብ ነው?",
+              "id": 280233,
+              "answers": [
+                {
+                  "answer_id": 276315,
+                  "document_id": 266769,
+                  "question_id": 280233,
+                  "text": "የባንቱ ",
+                  "answer_start": 60,
+                  "answer_end": 65,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የስዋሂሊ ቋንቋ የአፍ መፍቻቸው የሆኑ ምን ያህል ሕዝቦች አሉ?",
+              "id": 280234,
+              "answers": [
+                {
+                  "answer_id": 276316,
+                  "document_id": 266769,
+                  "question_id": 280234,
+                  "text": "፭ ፡ ሚሊዮን",
+                  "answer_start": 105,
+                  "answer_end": 113,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ስዋሂሊ ሁለተኛ ቋንቋቸው የሆኑ ምን ያህል ሕዝቦች አሉ?",
+              "id": 280235,
+              "answers": [
+                {
+                  "answer_id": 276317,
+                  "document_id": 266769,
+                  "question_id": 280235,
+                  "text": "፴ ፡ እስከ ፡ ፶ ፡ ሚሊዮን",
+                  "answer_start": 153,
+                  "answer_end": 171,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ስዋሂሊ የሚለው ቃል ምንጩ ከምን ቋንቋ ነው? ",
+              "id": 280236,
+              "answers": [
+                {
+                  "answer_id": 276318,
+                  "document_id": 266769,
+                  "question_id": 280236,
+                  "text": "ከዓረብኛ ",
+                  "answer_start": 223,
+                  "answer_end": 229,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ስዋሂሊ ስዋሂሊ ፡ (ወይም ፡ ኪሷሂሊ Kiswahili) ፡ በምሥራቅ ፡ አፍሪቃ ፡ የሚናገር ፡ የባንቱ ፡ ቋንቋዎች ፡ ቤተሠብ ፡ ቋንቋ ፡ ነው። የስዋሂሊ ፡ ሕዝብ (፭ ፡ ሚሊዮን ፡ ተናጋሪዎች) ፡ ልደት ፡ ቋንቋ ፡ ከመሆኑ ፡ በላይ ፡ ለ ፴ ፡ እስከ ፡ ፶ ፡ ሚሊዮን ፡ ሌሎች ፡ ሰዎች ፡ ሁለተኛ ፡ ቋንቋ ፡ ሆኗል። የስዋሂሊ ፡ ስም ፡ መነሻ ፡ ከዓረብኛ ፡ ቃል ፡ «ሰዋሂል» ፡ ነበር ፤ ይህም ፡ የ«ሳኸል» ፡ (ማለት ፡ ዳር) ፡ ብዙ ፡ ቁጥር ፡ ነው። ስለዚህ ፡ የ«ስዋሂሊ» ፡ ትርጉም ፡ የ(ባሕር) ፡ ዳረኞች ፡ ቋንቋ ፡ ሊሆን ፡ ይችላል። የቋንቋው ፡ ቤተሰብ ፡ ባንቱ ፡ ሲሆን ፡ ተናጋሪዎቹ ፡ መርከበኞችና ፡ ነጋዴዎች ፡ በመሆናቸው ፡ መጠን ፡ ከዓረብኛ ፣ ከፋርስ ፣ ከህንዲ ፣ እና ፡ ከቻይንኛ ፡ ቢሆንም ፡ ብዙ ፡ ቃሎች ፡ ተበድረዋል።",
+          "document_id": 266769
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በኢትዮጵያ በመጠኑ አንደኛ የሆነው ሐይቅ የቱ ነው?",
+              "id": 280400,
+              "answers": [
+                {
+                  "answer_id": 276485,
+                  "document_id": 266786,
+                  "question_id": 280400,
+                  "text": "ጣና ሐይቅ",
+                  "answer_start": 7,
+                  "answer_end": 13,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጣና ሐይቅ ከሚገኙ ደሴቶች የቀደምት ኢትዮጵያውን መሪዎች መቃብር የሚገኘው በየትኛው ነው?",
+              "id": 280407,
+              "answers": [
+                {
+                  "answer_id": 276492,
+                  "document_id": 266786,
+                  "question_id": 280407,
+                  "text": "በዳጋ ደሴት",
+                  "answer_start": 199,
+                  "answer_end": 206,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣና ሐይቅ ስፋት ምን ያህል ነው?",
+              "id": 280402,
+              "answers": [
+                {
+                  "answer_id": 276487,
+                  "document_id": 266786,
+                  "question_id": 280402,
+                  "text": "66 ኪ.ሜ.",
+                  "answer_start": 71,
+                  "answer_end": 78,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣና ሐይቅ ርዝመት ምን ያህል ነው?",
+              "id": 280401,
+              "answers": [
+                {
+                  "answer_id": 276486,
+                  "document_id": 266786,
+                  "question_id": 280401,
+                  "text": "84 ከ.ሜ.",
+                  "answer_start": 56,
+                  "answer_end": 63,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጣና ሐይቅ ምን ያህል ደሴቶች አሉ?",
+              "id": 280404,
+              "answers": [
+                {
+                  "answer_id": 276489,
+                  "document_id": 266786,
+                  "question_id": 280404,
+                  "text": "ከ35 በላይ",
+                  "answer_start": 118,
+                  "answer_end": 125,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣና ሐይቅ መጋቢ ወንዞች እነማን ናቸው?",
+              "id": 280409,
+              "answers": [
+                {
+                  "answer_id": 276494,
+                  "document_id": 266786,
+                  "question_id": 280409,
+                  "text": "ርብ፣ ጉማራ ወንዝ ና ትንሹ አባይ",
+                  "answer_start": 320,
+                  "answer_end": 341,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣና ሐይቅ ምን ያህል የወለል ስፋት አለው?",
+              "id": 280403,
+              "answers": [
+                {
+                  "answer_id": 276488,
+                  "document_id": 266786,
+                  "question_id": 280403,
+                  "text": "3,500 ካሬ ኪ.ሜ.",
+                  "answer_start": 92,
+                  "answer_end": 105,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ክርስትናን ለኢትዮጵያ ያስተዋወቀው አቡነ ሰላማ መቃብር የት ይገኛል?",
+              "id": 280408,
+              "answers": [
+                {
+                  "answer_id": 276493,
+                  "document_id": 266786,
+                  "question_id": 280408,
+                  "text": "በዳጋ ደሴት",
+                  "answer_start": 199,
+                  "answer_end": 206,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የጣና ሐይቅ ስንት መጋቢ ወንዞች አሉት?",
+              "id": 280410,
+              "answers": [
+                {
+                  "answer_id": 276495,
+                  "document_id": 266786,
+                  "question_id": 280410,
+                  "text": "3",
+                  "answer_start": 309,
+                  "answer_end": 310,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጣና ሐይቅ ከሚገኙ ደሴቶች ገዳማትና አብያተ ክርስቲያናት የሆኑት ምን ያህሉ ናቸው?",
+              "id": 280405,
+              "answers": [
+                {
+                  "answer_id": 276490,
+                  "document_id": 266786,
+                  "question_id": 280405,
+                  "text": "22ቱ ",
+                  "answer_start": 155,
+                  "answer_end": 159,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከጣና ሐይቅ በዓመት ምን ያል የዓሳ ምርት ይገኛል?",
+              "id": 280411,
+              "answers": [
+                {
+                  "answer_id": 276496,
+                  "document_id": 266786,
+                  "question_id": 280411,
+                  "text": "1,454 ቶን",
+                  "answer_start": 374,
+                  "answer_end": 382,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጣና ሐይቅ በዓመት ሊሰጠው ከሚችለው የዓሳ ምርት እየተመረተ የሚገኘው ምን ያህል እጁ ነው?",
+              "id": 280412,
+              "answers": [
+                {
+                  "answer_id": 276497,
+                  "document_id": 266786,
+                  "question_id": 280412,
+                  "text": "15 በመቶው",
+                  "answer_start": 442,
+                  "answer_end": 449,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በጣና ሐይቅ ከሚገኙ ደሴቶች 22ቱ ምንድን ናቸው?",
+              "id": 280406,
+              "answers": [
+                {
+                  "answer_id": 276491,
+                  "document_id": 266786,
+                  "question_id": 280406,
+                  "text": "ገዳማትና አብያተክርስቲያናት",
+                  "answer_start": 159,
+                  "answer_end": 176,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ጣና ሐይቅ ጣና ሐይቅ ቅዱሱ ሐይቅም ይባላል። ከኢትዮጵያ አንደኛ እና ትልቁ ሐይቅ ነው። 84 ከ.ሜ. ረጅም እና 66 ኪ.ሜ. ሰፊ ነው። ባጠቃላይ 3,500 ካሬ ኪ.ሜ. ይሸፍናል። በቁጥር ከ35 በላይ ደሴቶች በሐይቁ ላይ ይገኛሉ። ከነዚህ ውስጥም 22ቱ ገዳማትና አብያተክርስቲያናት ናቸው። ባንዳንዶቹ ላይም (ለምሳሌ በዳጋ ደሴት) የድሮ የኢትዮጵያ መሪዎች መቃብሮች ሲገኙ ኢትዮጵያ ውስጥ ክርስትናን ለመጀመሪያ ያስተዋወቀው አቡነ ሰላማ መቃብርም በዚሁ ሃይቅ ይገኛሉ። የጣና ሃይቅን የሚመግቡ 3ቱ ዋና ወንዞች ርብ፣ ጉማራ ወንዝ ና ትንሹ አባይ በመባል ይታወቃሉ። አሁን ባለው ይዞታ የጣና ሃይቅ 1,454 ቶን አሳ በአመት ይመረታል። ነገር ግን ይሄ የምርት ሃይቁ ያለምንም ችግር ሊያስተናግድው ከሚችለው 15 በመቶው ያህል ብቻ ነው።",
+          "document_id": 266786
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በ18ኛው ክፍለ ዘመን ከካይሮ እስከ ጣና ተጉዞ የአባይ ወንዝ መነሻ ጣና ሐይቅ ነው ያለው ማነው?",
+              "id": 280422,
+              "answers": [
+                {
+                  "answer_id": 276508,
+                  "document_id": 266788,
+                  "question_id": 280422,
+                  "text": "ጄምስ ብሩስ",
+                  "answer_start": 152,
+                  "answer_end": 159,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ18ኛው ክፍለ ዘመን ከካይሮ እስከ ጣና ተጉዞ የአባይ ወንዝ መነሻ ጣና ሐይቅ ነው ያለው ጄምስ ብሩስ የምን ሀገር ዜጋ ነው?",
+              "id": 280423,
+              "answers": [
+                {
+                  "answer_id": 276509,
+                  "document_id": 266788,
+                  "question_id": 280423,
+                  "text": "የስኮትላንድ ",
+                  "answer_start": 165,
+                  "answer_end": 173,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጄምስ ብሩስ ከካይሮ እስከ ጣና ተጉዞ የአባይ ወንዝ መነሻ ጣና ሐይቅ ነው ያለው መቼ ነው?",
+              "id": 280424,
+              "answers": [
+                {
+                  "answer_id": 276510,
+                  "document_id": 266788,
+                  "question_id": 280424,
+                  "text": "በ18ኛው ክፍለ ዘመን",
+                  "answer_start": 138,
+                  "answer_end": 151,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ጄምስ ብሩስ የአባይ ወንዝ መነሻ ጣና ሐይቅ ነው ያለው ከየት እስከ የት ተጉዞ ነው?",
+              "id": 280425,
+              "answers": [
+                {
+                  "answer_id": 276512,
+                  "document_id": 266788,
+                  "question_id": 280425,
+                  "text": "ከካይሮ እስከ ጣና",
+                  "answer_start": 178,
+                  "answer_end": 189,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ቡክሀርት ባልደክኼር የአባይን ምንጭ ከኢትዮጵያ ተራሮች ስር ማግኘቱን ለዓለም ያበሰረው መቼ ነበር?",
+              "id": 280426,
+              "answers": [
+                {
+                  "answer_id": 276513,
+                  "document_id": 266788,
+                  "question_id": 280426,
+                  "text": "በ1937",
+                  "answer_start": 424,
+                  "answer_end": 429,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ1937 የአባይን ምንጭ ከኢትዮጵያ ተራሮች ስር ማግኘቱን ለዓለም ያበሰረው የጀርመን ተወላጅ ማን ነበር?",
+              "id": 280427,
+              "answers": [
+                {
+                  "answer_id": 276514,
+                  "document_id": 266788,
+                  "question_id": 280427,
+                  "text": "ቡክሀርት ባልደክኼር",
+                  "answer_start": 430,
+                  "answer_end": 442,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአባይን ምንጭ ከኢትዮጵያ ተራሮች ስር ማግኘቱን ለዓለም ያበሰረው ቡክሀርት ባልደክኼር የምን ሀገር ተወላጅ ነው?",
+              "id": 280428,
+              "answers": [
+                {
+                  "answer_id": 276515,
+                  "document_id": 266788,
+                  "question_id": 280428,
+                  "text": "የጀርመን ተወላጅ",
+                  "answer_start": 448,
+                  "answer_end": 458,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "በ17ኛው ክፍለ ዘመን ፖርቱጋል ክርስትናን ለመታደግ ሚሲዮናውያንንና ወታደሮችን ወደ ኢትዮጵያ በላከችበት ወቅት ለመጀመሪያ ጊዜ ፓድሬ ፔሬዝ የተባለ ሚሲዮናዊ፣ ጢስ እሳትንና የላይኛውን አባይን ለማየቱ ምስክርነቱን ሰጠ። በ18ኛው ክፍለ ዘመን ጄምስ ብሩስ የተባለ የስኮትላንድ ተወላጅ ከካይሮ እስከ ጣና ተጉዞ ለመጀመሪያ ጊዜ የአባይ መነሾ ጣና ሐይቅ ነው በማለት አወጀ።እስከዚያ ጊዜ ድረስ ማንም የውጭ ዜጋ አባይ (Abay) ከጣና እንደሚነሳ አያውቅም ነበር። samuel bakerሳሙኤል ቤከር(1821-1893) ሪቻርድ በርተን(1821-1890)ጆን ሀኒንግ ስፔክ (1827-1864) የአባይን መነሻ ፈልገው ወደ ታንጋኒካ ሐይቅ አመሩ እንጂ አንዳቸውም ወደ ኢትዮጵያ አልመጡም። በ1937 ቡክሀርት ባልደክኼር፣የተባለ የጀርመን ተወላጅ፣ የአባይን ምንጭ ከኢትዮጵያ ተራሮች ስር ማግኘቱን ለአለም አበሰረ።ታሪካችን በነ ባልድክኬርና በብሩስ ሲፃፍ ስታሮቹ እነሱ ናቸው።የታሪካችን ሞተር የሚንቀሳቀሰው በነሱ ነው። ቢሆንም በ1937 ጀርመናዊው ቡርክኸርት ወደ ኢትዮጵያ ሳይመጣ ኢትዮጵያዊው አለቃ ኪዳነ ወልድ ክፍሌ “መፅሐፈ ሰዋሰው ወግስ፡ ወመዝገበ ቃላት ሐዲስ በሚለው በ1929 ባሳተሙት መፅሐፍ በገፅ 313 313“ ከአፍሪቃ ወንዞች ተለይተው፣ ነጭ ኒል፣ ጥቁር ኒል የሚመስሉ፤ በኦሪትም ግዮንና ኤፌሶን የሚባሉ ነጭ አባይና ጥቁር አባይ ናቸው ይባላል። እሊህም ኹለቱ ወንድማማቾች ወንዞች ከየምንጮቻቸው በኅይል ተነስተው፣ ግርማቸውን ለብሰው፣ተሰልፈው፣በየፊታቸው ያለውን ሐይቅ እንደመርከብ ሠንጥቀው አልፈው ሠራዊታቸውን ከፊትና ከኋላ አስከትለው እንደ ኹለት ንጉሥ ካርቱም ላይ ሲገናኙ ሁለትነታቸው ይቀርና፣ አንድ ወንዝ ብቻ ይሆናሉ፤ ከካርቱም ደግሞ እስካትባራ ወርደው ከተከዜ ጋር ይገጥማሉ።ከዚያ በኋላ ግን የሌላ ወንዝ ውኃ ሳይጨምሩ ባንድነት መላ ምድረ ግብፅን ከላይ እስከታች አጠጥተው አጥግበው አርክተው፣ አልፈው ተርፈው ወደ ሰሜን ጎርፈው ሜዲተራኒ ከሚባለው ከታላቁ ባሕር ይገባሉ።” በማለት መፃፋቸውን ሳንጠቅስ አናልፍም። በ1995 ዓ.ም ግሼ ሜዳ ላይ ከብቶች የሚጠብቅ 11 ዓመት ያልሞላው የውልሰው የተባለ እረኛ አገኘሁና “የአባይ ምንጭ የት ነው ብዬ ስጠይቀው” መሬት ቸክሎ የተደገፈውን በትር ከመሬቱ ላይ ነቅሎ ወደ ግልገል አባይ እያሳየኝ ከዚህ ነዋ አለኝ። አባባሉ ስንት ፈረንጆች የአባይን ምንጭ አገኘን ብለው የቦረቁበት ግኝት አይመስልም። “ እንዴት አወቅክ?” ስለው “ከብቶቼን የማጠጣ ከዚሁም አይደል? የከተማ ሰው አላዋቂ ነውሳ!” ብሎ ሸረደደኝ። በሆዴ ፈረንጆቹ የአባይን ምንጭ ከአንተ በፊት አገኘን እንደሚሉ ባወቅክ ስል፣ ውስጤን ያነበበ ይመስል፣ “ለፈረንጅ ሁሉ የአባይን ምንጭ እጃቸውን ጎትተን የምናሳይ እኛም አይዶለን እንዴ?” ብሎ አስደመመኝ።  ግልገል አባይ ጣና ገብቶ መውጣቱን ያጠኑት ፈረንጆች ካልነገሩት ይህ እረኛ በምን ያውቃል ብዬ በጥያቄ ላፋጥጠው፤ ግልገል አባይ ጣና ገብቶ አባይን ሆኖ መውጣቱን ማን ነገረህ? ስለው “ጣና” “ጣና ነገረኝ” ሲለኝ ያው የተለመደውን የጎጃምን ዘፈን “ነገረኝ ጣና ነገረኝ፡አባይ” የሚለውን ዘፈን ሊዘፍን መስሎኝ ነበር። ያ የጎጃም እረኛ “ ማስረጃህ ምንድነው?” ስለው በክረምት አባይ ሲደፈርስ ግልገል አባይ የደፈረሰ ውኃ ይዞ ጣና ይገባና ከጣና ተንሳፎ ሲወጣ ጥርት አርጎ ይታያል።” ብሎ እረኛው ጂኦሎጂስት አስገረመኝ።",
+          "document_id": 266788
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ባሕር ዳር ስንት የገጠር ቀበሌዎች አሏት?",
+              "id": 280399,
+              "answers": [
+                {
+                  "answer_id": 276484,
+                  "document_id": 266785,
+                  "question_id": 280399,
+                  "text": "4",
+                  "answer_start": 956,
+                  "answer_end": 957,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ከተማ ከባሕር ጠለል በምን ያህል ከፍታ ትገኛለች?",
+              "id": 280392,
+              "answers": [
+                {
+                  "answer_id": 276477,
+                  "document_id": 266785,
+                  "question_id": 280392,
+                  "text": "1700 ሜትር",
+                  "answer_start": 270,
+                  "answer_end": 278,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ከተማ ከጢስ አባይ በምን ያህል ርቀት ላይ ትገኛለች?",
+              "id": 280394,
+              "answers": [
+                {
+                  "answer_id": 276479,
+                  "document_id": 266785,
+                  "question_id": 280394,
+                  "text": "በ30 ኪሎሜትር",
+                  "answer_start": 360,
+                  "answer_end": 370,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ከተማ ከአዲስ አበባ በምን ያህል ርቀት ላይ ትገኛለች?",
+              "id": 280393,
+              "answers": [
+                {
+                  "answer_id": 276478,
+                  "document_id": 266785,
+                  "question_id": 280393,
+                  "text": "565 ኪ.ሜ",
+                  "answer_start": 315,
+                  "answer_end": 322,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር በኢትዮያ በየትኛው አቅጣጫ የምትገኝ ከተማ ናት?",
+              "id": 280388,
+              "answers": [
+                {
+                  "answer_id": 276473,
+                  "document_id": 266785,
+                  "question_id": 280388,
+                  "text": "በሰሜን-ምዕራብ",
+                  "answer_start": 35,
+                  "answer_end": 44,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የባሕር ዳር ከተማን ስያሜ ያወጡት ማናቸው?",
+              "id": 280395,
+              "answers": [
+                {
+                  "answer_id": 276480,
+                  "document_id": 266785,
+                  "question_id": 280395,
+                  "text": "አፄ ሠርጸ ድንግል",
+                  "answer_start": 701,
+                  "answer_end": 712,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር በኢትዮጵያ የየትኛው ክልል ዋና መዲና ናት?",
+              "id": 280389,
+              "answers": [
+                {
+                  "answer_id": 276474,
+                  "document_id": 266785,
+                  "question_id": 280389,
+                  "text": "የአማራ ክልል",
+                  "answer_start": 66,
+                  "answer_end": 74,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር በስንት ዓመተ ምሕረት ተመሰረተች?",
+              "id": 280396,
+              "answers": [
+                {
+                  "answer_id": 276481,
+                  "document_id": 266785,
+                  "question_id": 280396,
+                  "text": "በ1915 ዓ.ም",
+                  "answer_start": 832,
+                  "answer_end": 841,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ከተማ ከጣና ሐይቅ በየትኛው አቅጣጫ ትገኛለች?",
+              "id": 280390,
+              "answers": [
+                {
+                  "answer_id": 276475,
+                  "document_id": 266785,
+                  "question_id": 280390,
+                  "text": "ደቡባዊ ",
+                  "answer_start": 121,
+                  "answer_end": 126,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ስንት ክፍለ ከተሞች አሏት?",
+              "id": 280397,
+              "answers": [
+                {
+                  "answer_id": 276482,
+                  "document_id": 266785,
+                  "question_id": 280397,
+                  "text": "3",
+                  "answer_start": 904,
+                  "answer_end": 905,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ከተማ በሰሜናዊ ጫፍ የምትገናኘው ከየትኛው ሐይቅ ጋር ነው?",
+              "id": 280391,
+              "answers": [
+                {
+                  "answer_id": 276476,
+                  "document_id": 266785,
+                  "question_id": 280391,
+                  "text": "ከጣና ሐይቅ",
+                  "answer_start": 112,
+                  "answer_end": 120,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ባሕር ዳር ስንት የከተማ ቀበሌዎቸ አሏት?",
+              "id": 280398,
+              "answers": [
+                {
+                  "answer_id": 276483,
+                  "document_id": 266785,
+                  "question_id": 280398,
+                  "text": "9",
+                  "answer_start": 942,
+                  "answer_end": 943,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ባሕር-ዳር ባሕር-ዳር በድሮ ስሙ ባሕር ዳር ጊዮርጊስ  በሰሜን-ምዕራብ ኢትዮጵያ የምትገኝ ከተማ ስትሆን የአማራ ክልል ዋና ከተማ ናት። ከተማዋ በቀድሞው ጎጃም ክፍለ ሓገር ውስጥ ከጣና ሐይቅ ደቡባዊ ጫፍ ላይ ተቀምጣ ስትገኝ ባህር ዳር እንደ መቀሌና ደሴ የወረዳ ደረጃ ያላት ስፔሻል(ልዩ) ዞን ናት። በማዕከላዊ ስታትስቲክ ትመና የ167,261 ህዝብ ከነሱም መሃከል የ86,355 ወንዶችና የ80,906 ሴቶች መኖሪያ ከተማ ናት። 1700 ሜትር ከባሕር ወለል በላይ ትገኛለች። ባሕር-ዳር ከአዲስ አበባ 565 ኪ.ሜ ወደ ሰሜን-ሰሜን ምዕራብ ትገኛለች። ባህር ዳር ከጢስ አባይ በ30 ኪሎሜትር ስለምትርቅ ለጎብኚዎች አመቺ ቦታ ላይ ናት። ባህር ዳር የአንድ የአስፋልት ንጣፍ ያለው ኤርፖርት የሰፊ ገበያና የተለያዩ የመዝናኛ ቦታዎች እና ታሪካዊ እና ጥንታዊ ግዳማት መግኛ ቦታ ናት። ባሕርዳር  ከተማ  የምትገኘዉ  በሰሜን ምዕራብ ኢትዮጵያ ክፍል፣ በአማራ ብሔራዊ ክልላዊ መንግስት፣ በምዕራብ ጎጃም ዞን፣ ከአዲስ አበባ በ 565 ኪሜ  ርቀት ላይ ነው፡፡ አስትሮኖሚያዊ መገኛ ቦታዋ በ 11º 38’  በሰሜን ላቲቲውድ እና በ37º15’ ምስራቅ ሎንግቲውድ  ነው፡፡ በአፈ ታሪክ እንደሚነገረው የባሕር-ዳር ስያሜን ያወጡት አፄ ሠርጸ ድንግል ሲሆኑ እሳቸውም ይሕን ታቦት የት እናስቀምጥ ተብለው በተጠየቁ ጊዜ \"ከባሕሩ-ዳር\" አድርጉ የተባሉ ሰወች ለመንደሩ ባሕር-ዳር ብለው ስያሜ አወጡለት ይባላል። ባሕር-ዳር ከተማ የተቆረቆረችው በ1915 ዓ.ም ነው ፡፡  ባሕር-ዳር  በክልሉ ከሚገኙ የሪፎርም  ከተሞች አንድዋ ስትሆን፤  የከተማ አስተዳደር፣ 3 ሜትሮፖሊታን ክ/ከተማዎች፣  የከተማ አገልግሎት ጽ/ቤት፣ 9 የከተማ ቀበሌዎችና 4 የገጠር ቀበሌዎች  አሏት፡፡ ከተማዋ በ1998 ዓ.ም የተቀናጀ ልማት ፕላን አላት፡፡ የተቆረቆረችበትን ዓመት፣ የቆረቆሩትን ቀደምት ሠዎች፣ የሠፈሮችን ስሞች፣ ለባሕር-ዳር የተገጠሙትና የተዘፈኑ ታሪካዊ ግጥሞችና ስነ ቃሎች፣ ስለ ቅዱስ ጊዮርጊስ ከጎጆ ቤት ወደ አሁኑ ይዞታው አመጣጥ (ባሕር-ዳርን ስናስብ ጊዮርጊስን ሚካኤልን እና ገበያውን ከገበያው አካባቢ የነበረውን ፍርድ ቤት ነጣጥሎ ማየት አይቻልም የሚል አስተያየት ስላለ ነው)፣ ባሕር-ዳር እንደባሕር ዳርነቱ ከመቆርቆሩ በፊት በሚካኤል እና በሽመምብጥ ሠፈር አካባቢ ስለነበረው አሰፋፈር፣ ስለማዘጋጃቤቱ፣ ስለ አውቶቡስ ተራው፣ ስለ ድባነቄ ተራራ፣ እና ስለ መሳሉት፣ ስለፖሊቴክኒክ፣ ስለዓባይ ወንዝና ድልድዩ፣ ስለዓባይ ወንዝና ስለጣና ሐይቅ መገናኛ እና ስለሌሎችም ቁልፍ ነገሮችን ማቅረብ የሚችሉ አፈታሪኮች አሉ።",
+          "document_id": 266785
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "አባይ በመጽሐፍ ቅዱስ ውስጥ ምን ተብሎ ይጠራል?",
+              "id": 280414,
+              "answers": [
+                {
+                  "answer_id": 276499,
+                  "document_id": 266787,
+                  "question_id": 280414,
+                  "text": "ግዮን ",
+                  "answer_start": 153,
+                  "answer_end": 157,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አባይ ጣናን አቋርጦ ካለፈ ከምን ያህል ርቀት አባይ ፏፏቴ የሚፈጠረው?",
+              "id": 280416,
+              "answers": [
+                {
+                  "answer_id": 276501,
+                  "document_id": 266787,
+                  "question_id": 280416,
+                  "text": "አርባ ኪሎ ሜትር",
+                  "answer_start": 1101,
+                  "answer_end": 1111,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አባይ በመጽሐፍ ቅዱስ እንደተገለጸው ምንጩ ከየት ነው?",
+              "id": 280415,
+              "answers": [
+                {
+                  "answer_id": 276500,
+                  "document_id": 266787,
+                  "question_id": 280415,
+                  "text": "ከኤደን ገነት",
+                  "answer_start": 207,
+                  "answer_end": 215,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአባይ ፏፏቴ ላይ ውሃው ወደ ታች ምን ያህል ርቀት ይወረወራል?",
+              "id": 280417,
+              "answers": [
+                {
+                  "answer_id": 276502,
+                  "document_id": 266787,
+                  "question_id": 280417,
+                  "text": "37 ሜትር",
+                  "answer_start": 1136,
+                  "answer_end": 1142,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አባይ በኢትዮጵያ ምድር ሲጓዝ ምን ያህል ርቀት ይሸፍናል?",
+              "id": 280418,
+              "answers": [
+                {
+                  "answer_id": 276503,
+                  "document_id": 266787,
+                  "question_id": 280418,
+                  "text": "800 ኪሎ ሜትር",
+                  "answer_start": 1281,
+                  "answer_end": 1291,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአባይ ወንዝ ምንጭ ሀገር ማናት?",
+              "id": 280419,
+              "answers": [
+                {
+                  "answer_id": 276504,
+                  "document_id": 266787,
+                  "question_id": 280419,
+                  "text": "ኢትዮጵያ",
+                  "answer_start": 823,
+                  "answer_end": 828,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ ካሉ ወንዞች ትልቁ ወንዝ የቱ ነው?",
+              "id": 280413,
+              "answers": [
+                {
+                  "answer_id": 276498,
+                  "document_id": 266787,
+                  "question_id": 280413,
+                  "text": "አባይ ",
+                  "answer_start": 23,
+                  "answer_end": 27,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "አባይ ሀገሬው አባይ ብሎ ይጠራዋል፣ አባይ ማለት ታላቅ ማለት ነው። ከወንዞች ሁሉ አብይ ነው። የበኩር ልጅን አባይነህ ይሉታል ታላቅ ነህ ማለታቸው ነው። አባይ ከወንዞች ሁሉ ታላቁ ነው። የቀዬው ሰው አባይ ብሎ በአክብሮት ይጥራው እንጂ፣ ስሙ ግዮን ነው። ግዮን በመፅሐፍ ቅዱስ በዘፍጥረት ምዕራፍ ሁለት ቁጥር 10 እና 13 ላይ ከኤደን ገነት ከሚወጡት አራት ወንዞች አንዱ ሆኖ ተፅፏል። ይህ ወንዝ የኢትዮጵያን ምድር ይከብባል ሲልም ይናገራል። ግዮን የሚለው ቃል የግዕዝ ሲሆን በዕብራይስጥ ጊሖን፣በፅርዕ (ግብፅ) ጌዖን  ይባላል። ትርጓሜውም “ዘየሐውር፡ በኃይል፡ ወይርም በድምፀ ማዩ ዐቢይ ወግሩም ማለት ነው።” ወደ አማርኛ ሲገለበጥ “ የውሃውን ብዛት፣ የመልካውን(የወንዙን) ስፋት፣ያካሄዱን ኅይል፣ የጩኸቱን ግርማ፣ ፏፏቴውንና ተመማውን(አፈሳሰሱ)፣ ድምፁ እንደ ነጎድጓድ መሆኑን ያሳያል”። ባለፉት 6 ሚሊዮን ዓመታት በተለያዩ የመሬት ነውጦች ምክንያት የአባይ ሸለቆ ብዙ ጊዜ ተቀያይሯል። Eonile የተፈጠረው ከ5.4 ሚሊዮን ዓመት ገደማ የሜዲትራኒያን ባሕር ተኖ ኃይለኛ ዝናብ በመከሰቱ ምክንያት በወረደው ዝናብ ነው። ወደ ሕንድ ውቅያኖስ ይፈስ የነበረው አባይንኳ ከ 5 ሚሊዮን ዓመታት በፊት በተከሰተ የመሬት መናድ ምክንያት አቅጣጫውን ቀይሮ ወደሰሜን መፍሰስ ጀምሯል። የጣና ሐይቅን የፈጠረው እሳተ ገሞራም የዛሬ 2.6 ሚሊዮን ዓመት የተከሰተ ነበር። ከሕንድ ውቅያኖስ የሚነሳው እርጥበታማ አየር በኢትዮጵያ ተራራማ ክፍል ሲያልፍ የሙቀት መጠኑ እየቀዘቀዘ ይመጣል።  ጉም ምድርን እንደሚያጠጣ፣ ያም ከሕንድ ውቅያኖስ የነፈሰው እርጥበት አዘል አየር፣ ሳይዘንብ የግሸንን ተራራን ያጠጣል። ከግሸን ተራራ ስር፣  ከሰቀላ ወረዳ የፈለቀው ምንጭ በግሸን ሜዳ ላይ ግልገል አባይን ሆኖ ይፈሳል። ግልገል አባይ,  በግሸን ሜዳ ላይ ሮጦ ከጣና ሐይቅ ሲስርግ በጣና ተውጦ አይቀርም። በጣና ላይ ተንሳፎ፣ ወደ አባይ ሸጥ ይንደረደራል። አባይ ከጣና ወጥቶ አርባ ኪሎ ሜትር ከተጓዘ በኋላ የአባይ ፏፏቴጋ ሲደርስ 37 ሜትር ቁልቁል ቋጥኝ ላይ ይፈጠፈጥና ሽቅብ አየሩ ላይ ተበትኖ ዳግም ቁልቁል ይወርድና ጥልቀቱ 1200 ሜትር፣ ስፋቱ 24ኪ.ሜ ወደሆነው የአባይ ሸለቆ ውስጥ ይገባና በታላቁ የአባይ ገደላማ ሸለቆ፣ በእናቱ በኢትዮጵያ ሆድ ውስጥ 800 ኪሎ ሜትር ይጓዛል። ይህ ዑደት ላለፉት 5000 ዓመታት አልተለወጠም። በ460 ታሪክ ፀሐፊው ሔረዶቱስ አባይ ከሁለት ትላልቅ ተራሮች እንደሚፈልቅ ያምን ነበር። በኋላም ንጉሠ ነገሥት ኔሮ፣ አሽከሮቹ የአባይን ወንዝ እንዲከተሉ ትዕዛዝ ሰጥቷቸው መልዕክተኞቹ የሱዳን ከተማ የሆነችው ሲናር ሲቲ ከሚገኘው የሱድ ማጥ ደርሰው አባይ ከዛ ነው የሚመነጨው የሚል መልስ ይዘው ተመለሱ። ከአራተኛው እስከ አሥራ ሰባተኛው ክፍለ-ዘመን ድረስ የኢትዮጵያ ተራሮች የአባይ መፍልቂያ መሆናቸውን የገመተ የውጭ ዜጋ አልነበረም።",
+          "document_id": 266787
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "አፋር ክልል በኢትዮጵያ ክልል ስንት ተብሎ ይታወቃል?",
+              "id": 280567,
+              "answers": [
+                {
+                  "answer_id": 276669,
+                  "document_id": 266796,
+                  "question_id": 280567,
+                  "text": "ክልል 2",
+                  "answer_start": 19,
+                  "answer_end": 24,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአፋር ክልል ዋና ከተማ ማናት?",
+              "id": 280568,
+              "answers": [
+                {
+                  "answer_id": 276670,
+                  "document_id": 266796,
+                  "question_id": 280568,
+                  "text": "ሰመራ ",
+                  "answer_start": 76,
+                  "answer_end": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአፋር ክልል የቆዳ ስፋቱ ምን ያህል ነው?",
+              "id": 280570,
+              "answers": [
+                {
+                  "answer_id": 276672,
+                  "document_id": 266796,
+                  "question_id": 280570,
+                  "text": "96,707 ካሬ ኪ.ሜ.",
+                  "answer_start": 108,
+                  "answer_end": 122,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፋር ክልል በ1999 እ.ኤ.አ. በተደረገ ቆጠራ ምን ያህል ሰው ይኖራል?",
+              "id": 280576,
+              "answers": [
+                {
+                  "answer_id": 276678,
+                  "document_id": 266796,
+                  "question_id": 280576,
+                  "text": "1,188,000 ",
+                  "answer_start": 150,
+                  "answer_end": 160,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአፋር ክልል የበፊቷ ዋና መዲና ማን ነበረች?",
+              "id": 280569,
+              "answers": [
+                {
+                  "answer_id": 276671,
+                  "document_id": 266796,
+                  "question_id": 280569,
+                  "text": "አሳይታ ",
+                  "answer_start": 97,
+                  "answer_end": 102,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፋር በየት ሀገር የሚገኝ ክልል ነው?",
+              "id": 280566,
+              "answers": [
+                {
+                  "answer_id": 276668,
+                  "document_id": 266796,
+                  "question_id": 280566,
+                  "text": "በኢትዮጵያ ",
+                  "answer_start": 26,
+                  "answer_end": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሉሲ በአፋር ክልል የተገኘችው መቼ ነበር?",
+              "id": 280572,
+              "answers": [
+                {
+                  "answer_id": 276674,
+                  "document_id": 266796,
+                  "question_id": 280572,
+                  "text": "1967 (Nov. 24, 1974 እ.ኤ.አ.)",
+                  "answer_start": 199,
+                  "answer_end": 226,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሉሲ የተገኘችው በየት ክልል ነው?",
+              "id": 280573,
+              "answers": [
+                {
+                  "answer_id": 276675,
+                  "document_id": 266796,
+                  "question_id": 280573,
+                  "text": "በአፋር ",
+                  "answer_start": 183,
+                  "answer_end": 188,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፋር ክልል ውስጥ የተገኘችው ረጅም እድሜ ያስቆጠረችው የሰው ቅሪተ አካል ማን ትባላለች?",
+              "id": 280571,
+              "answers": [
+                {
+                  "answer_id": 276673,
+                  "document_id": 266796,
+                  "question_id": 280571,
+                  "text": "ሉሲ ",
+                  "answer_start": 176,
+                  "answer_end": 179,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፋር ክልል ከሉሲ በተጨማሪ አዲስ የተገኘችው የሰው ቅሪተ አካል መቼ ተገኘች?",
+              "id": 280574,
+              "answers": [
+                {
+                  "answer_id": 276676,
+                  "document_id": 266796,
+                  "question_id": 280574,
+                  "text": "በማርች 5, 2005",
+                  "answer_start": 237,
+                  "answer_end": 249,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፋር ክልል ከሉሲ በተጨማሪ አዲስ የተገኘችው የሰው ቅሪተ አካል መቼ ተገኘች?",
+              "id": 280575,
+              "answers": [
+                {
+                  "answer_id": 276677,
+                  "document_id": 266796,
+                  "question_id": 280575,
+                  "text": "3.8 ሚሊዮን ዓመት",
+                  "answer_start": 256,
+                  "answer_end": 269,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "አፋር (ክልል) አፋር ክልል (ክልል 2) በኢትዮጵያ ውስጥ ከሚገኙት ዘጠኝ ክልሎች አንዱ ነው። በአሁኑ ጊዜ ዋና ከተማው ሰመራ ሲሆን የቀድሞዋ ከተማ ግን አሳይታ ነበረች። 96,707 ካሬ ኪ.ሜ. ሲሸፍን በ1999 እ.ኤ.አ. የሕዝብ ብዛቱ 1,188,000 ነው። የድንቅ ነሽ ወይም ሉሲ አጽም በአፋር ክልል ውስጥ በ, 1967 (Nov. 24, 1974 እ.ኤ.አ.) ነው የተገኘው። በማርች 5, 2005 ደግሞ ሌላ 3.8 ሚሊዮን ዓመት የሚገመት አጽምም በዚሁ ክልል ተገኝቷል።",
+          "document_id": 266796
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ውክፔዲያ ምንድን ነው?",
+              "id": 131700,
+              "answers": [
+                {
+                  "answer_id": 196705,
+                  "document_id": 266661,
+                  "question_id": 131700,
+                  "text": "የዕውቀት ማከማቻ ድረ-ገጽ",
+                  "answer_start": 111,
+                  "answer_end": 127,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአማርኛ ውክፔዲያ መቼ መስራት ጀመረ?",
+              "id": 131699,
+              "answers": [
+                {
+                  "answer_id": 196700,
+                  "document_id": 266661,
+                  "question_id": 131699,
+                  "text": "ጥር 18፣ 1996 ዓ.ም. (27 January 2004 እ.ኤ.አ.) ",
+                  "answer_start": 25,
+                  "answer_end": 67,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "የአማርኛ ውክፔዲያ የአማርኛው ውክፔዲያ ጥር 18፣ 1996 ዓ.ም. (27 January 2004 እ.ኤ.አ.) ተጀመረ። አሁን  ገጽ ስራዎች በውስጡ ይገኛሉ። ውክፔዲያ ዓለም-ዓቀፍ የዕውቀት ማከማቻ ድረ-ገጽ ነው። ውክፔዲያ የጋራ ነው። ሁሉም ሰው በመዝገበ ዕውቀቱ እንዲሳተፍ ተፈቅዷል። አዳዲስ ተሳታፊዎች፣ የጀማሪዎች ማያያዣን በመጫን በፍጥነት ስለ ድረ-ገጹ መረጃ ማግኘት ይችላሉ።  አዲስ ጽሑፍ ለመጻፍ ወይንም ነባር ጽሑፍ ለማስተካከል ደፍሮ መሞከር ጥሩ ልምድ ነው። ከሌሎች ውክፔዲያዎች የተተረጎሙ ጽሑፎች እንዲያቀርቡ ይበረታታሉ። ለዚህ ተግባር እነዚህን መዝገበ ቃላት ማማከር ይችላሉ ። የሚያቀርቡት ጽሑፍ ያልተሟላ ወይንም ያልተጠናቀቀ ቢሆንም እንኳ መጨነቅ አያስፈልግም። ጅምር ጽሑፍ በተፈለገ ጊዜ ሊሻሻል ይችላልና።",
+          "document_id": 266661
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "የብርቱካን ፍሬ ለመጀመሪያ ጊዜ የተገኘው የት ነው?",
+              "id": 135154,
+              "answers": [
+                {
+                  "answer_id": 200854,
+                  "document_id": 266668,
+                  "question_id": 135154,
+                  "text": "በደቡብ-ምሥራቃዊ እስያ በህንደኬ፣ በቬትናም",
+                  "answer_start": 232,
+                  "answer_end": 259,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የብርቱካን ዛፍ ቁመቱ ስንት ሜትር ይሆናል?",
+              "id": 135153,
+              "answers": [
+                {
+                  "answer_id": 200853,
+                  "document_id": 266668,
+                  "question_id": 135153,
+                  "text": "10 ሜትር",
+                  "answer_start": 111,
+                  "answer_end": 117,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የብርቱካን ዛፍ ቅጠሎች ምን ያህል ስፋት አላቸው?",
+              "id": 135156,
+              "answers": [
+                {
+                  "answer_id": 200856,
+                  "document_id": 266668,
+                  "question_id": 135156,
+                  "text": "ከ4 እስከ 10 ሳንቲሜትር",
+                  "answer_start": 161,
+                  "answer_end": 177,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ብርቱካን ብርቱካን (ወይም ኦሬንጅ) ማለት የዛፍ አይነትም ሆነ በተለይ የዚሁ ዛፍ ፍሬ ማለት ነው። የሌሎች አትክልት ክልስ ሆኖ ከጥንት እንደ ለማ ይታሥባል። እርዝማኔው እስከ 10 ሜትር ድረስ ቢደርስም ዛፉ ትንሽ ይባላል፤ ቡቃያው እሾህ አለበትና ቅጠሎቹ ከ4 እስከ 10 ሳንቲሜትር ድረስ የሚዘረጉ እንደ ጥድም ወገን መቸም የማይረግፉ ናቸው። የፍሬው መጀመርያ ትውልድ በደቡብ-ምሥራቃዊ እስያ በህንደኬ፣ በቬትናም ወይም በደቡብ ቻይና ተገኘ። የብርቱካን እርሻ በብዙ አገሮች ምጣኔ ሀብት በጣም ታላቅ የንግድ ሥራ ነው። እዚህ ማለት በአሜሪካ፣ በሜዲቴራኔያን አገሮች፣ በሮማንያ፣ በደቡብ አፍሪካ፣ በቻይና፣ በአውስትራልያም ይከትታል።",
+          "document_id": 266668
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ዳግማዊ ሚኒሊክ ኢትዮጵያን ያስተዳደሩት ከመቼ እስከ መቼ ነበር?",
+              "id": 135226,
+              "answers": [
+                {
+                  "answer_id": 200928,
+                  "document_id": 266673,
+                  "question_id": 135226,
+                  "text": "ከ1881 እስከ 1905 ",
+                  "answer_start": 0,
+                  "answer_end": 15,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዳግማዊ ሚኒሊክ ኢትዮጵያን በሚያስተዳድሩበት ወቅት ከሰሩት አንዱ ተግባር ምን ነበር?",
+              "id": 135228,
+              "answers": [
+                {
+                  "answer_id": 200930,
+                  "document_id": 266673,
+                  "question_id": 135228,
+                  "text": "የአውሮፖ ሀይሎችን ጥቃት በመከላከል",
+                  "answer_start": 53,
+                  "answer_end": 75,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኢትዮጵያን ከ1881 እስከ 1905 ያስተዳደሩት ንጉሥ ማን ነበሩ?",
+              "id": 135227,
+              "answers": [
+                {
+                  "answer_id": 200929,
+                  "document_id": 266673,
+                  "question_id": 135227,
+                  "text": "ዳግማዊ አፄ ሚኒሊክ",
+                  "answer_start": 15,
+                  "answer_end": 27,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በንጉሥ ዳግማዊ ሚኒሊክ ዘመን ለኢትዮጵያ አስጊ የነበረችው የኤርትራ ገዢ ሀገር ማን ነበረች?",
+              "id": 135232,
+              "answers": [
+                {
+                  "answer_id": 200934,
+                  "document_id": 266673,
+                  "question_id": 135232,
+                  "text": "ጣልያን ",
+                  "answer_start": 108,
+                  "answer_end": 113,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በ1980 ኢትዮጵያ ጣልያንን ያሸነፈችበት ጦርነት ምን ይባላል?",
+              "id": 135236,
+              "answers": [
+                {
+                  "answer_id": 200938,
+                  "document_id": 266673,
+                  "question_id": 135236,
+                  "text": "የአድዋ ጦርነት",
+                  "answer_start": 258,
+                  "answer_end": 267,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የነጭ ወራሪ ጦርን በማሸነፍ ታሪክ የሰራችው ብቸኛ አፍሪካዊት ሀገር ማን ናት?",
+              "id": 135233,
+              "answers": [
+                {
+                  "answer_id": 200935,
+                  "document_id": 266673,
+                  "question_id": 135233,
+                  "text": "ኢትዮጵያ",
+                  "answer_start": 268,
+                  "answer_end": 273,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኢትዮጵያ ጣልያንን ያሸነፈችበት የአድዋ ጦርነት የተካሄደው መቼ ነበር?",
+              "id": 135237,
+              "answers": [
+                {
+                  "answer_id": 200939,
+                  "document_id": 266673,
+                  "question_id": 135237,
+                  "text": "በ1880",
+                  "answer_start": 230,
+                  "answer_end": 235,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኢትዮጵያ በአድዋ ጦርነት ያሸነፈችው ማንን ነበር?",
+              "id": 135238,
+              "answers": [
+                {
+                  "answer_id": 200940,
+                  "document_id": 266673,
+                  "question_id": 135238,
+                  "text": "ጣልያንን ",
+                  "answer_start": 274,
+                  "answer_end": 280,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኢትዮጵያ በአድዋ ጦርነት ጣልያንን ስታሸንፍ ንጉሡ ማን ነበሩ?",
+              "id": 135242,
+              "answers": [
+                {
+                  "answer_id": 200944,
+                  "document_id": 266673,
+                  "question_id": 135242,
+                  "text": "ዳግማዊ አፄ ሚኒሊክ",
+                  "answer_start": 332,
+                  "answer_end": 344,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የዳግማዊ ሚኒሊክ ልጅ ማን ይባላሉ?",
+              "id": 135246,
+              "answers": [
+                {
+                  "answer_id": 200948,
+                  "document_id": 266673,
+                  "question_id": 135246,
+                  "text": "እቴጌ ዘውዲቱ",
+                  "answer_start": 488,
+                  "answer_end": 496,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ዳግማዊ ሚኒሊክ በአድዋ ጦርነት በጣልያን ላይ የተጎናጸፉት ድል ለሌሎች ፋይዳው ምን ነበር?",
+              "id": 135244,
+              "answers": [
+                {
+                  "answer_id": 200946,
+                  "document_id": 266673,
+                  "question_id": 135244,
+                  "text": "በባርነት ቀንበር ተጠምደዉ ለሚማቅቁ የመላዉ ዓለም ህዝቦች ከፍተኛ ክብርና ተስፋ",
+                  "answer_start": 402,
+                  "answer_end": 452,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የእቴጌ ዘውዲቱ አባት ማናቸው?",
+              "id": 135249,
+              "answers": [
+                {
+                  "answer_id": 200951,
+                  "document_id": 266673,
+                  "question_id": 135249,
+                  "text": "ዳግማዊ ሚኒሊክ",
+                  "answer_start": 469,
+                  "answer_end": 478,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የዳግማዊ ሚኒሊክ ልጅ መቼ ሥልጣን ያዙ?",
+              "id": 135247,
+              "answers": [
+                {
+                  "answer_id": 200949,
+                  "document_id": 266673,
+                  "question_id": 135247,
+                  "text": "በ1908",
+                  "answer_start": 461,
+                  "answer_end": 467,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "እቴጌ ዘውዲቱ የአባታቸውን መንበር መቼ ያዙ?",
+              "id": 135250,
+              "answers": [
+                {
+                  "answer_id": 200952,
+                  "document_id": 266673,
+                  "question_id": 135250,
+                  "text": "በ1908 ",
+                  "answer_start": 462,
+                  "answer_end": 468,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ከ1881 እስከ 1905 ዳግማዊ አፄ ሚኒሊክ በአፍሪካ ይዞታቸውን እያሰፉ የነበሩትን የአውሮፖ ሀይሎችን ጥቃት በመከላከል ኢትዮጵያን በስርዓት አስተዳድረዋል፡፡ በዚያን ጊዜ ጣልያን ኤርትራን በከፊል ቅኝ ገዝታ የነበረችበትና በ1880ዎቹ አጋማሽ ላይ ደግሞ ሙሉ ለሙሉ ቅኝ ገዝታት የነበረችበት ጊዜ ስለነበር ከሌሎች አውሮፖ አገራት በበለጠ ለኢትዮጵያ አስጊ ነበረች፡፡ በ1880 ግን እስከዛሬ ድረስ ዝነኛ በሆነው የአድዋ ጦርነት ኢትዮጵያ ጣልያንን ድል በማድረግ በአፍሪካ የባእዳን ገዥ ሀይሎችን ያሸነፈች ብቸኛዋ ሀገር ሆናለች፡፡ ዳግማዊ አፄ ሚኒሊክ የቅኝ ገዥዎችን ወረራና መስፋፋት በመመከትና ድልን በመቀዳጀት ለኢትዮጵያዉያን ብቻ ሳይሆን በባርነት ቀንበር ተጠምደዉ ለሚማቅቁ የመላዉ ዓለም ህዝቦች ከፍተኛ ክብርና ተስፋን አጎናጥፈዋል በ1908 የዳግማዊ ሚኒሊክ ልጅ የሆኑትን እቴጌ ዘውዲቱ ስልጣን ያዙ ፡፡ የሳቸው የቅርብ የስጋ ዘመድ የነበሩት ራስ ተፈሪ መኮንንም ሞግዚት አስተዳደርና ወራሽ ሆነው ተሹመዋል፡፡ እቴጌ ዘውዲቱ በ1922 ሲሞቱ ተተኪያቸው ዐጼ ሀይለስላሴ ስልጣን ያዙ ፡፡ ነገር ግን በ1928 ዓ.ም የጣልያን ሀይሎች ኢትዮጵያን ለአጭር ጊዜ ወረው ሲቆጣጠሩ ግዛታቸው ተቋርጦ ነበር፡፡",
+          "document_id": 266673
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በኢትዮጵያ ስንት ብሔረሰቦች ይገኛሉ?",
+              "id": 135311,
+              "answers": [
+                {
+                  "answer_id": 201013,
+                  "document_id": 266677,
+                  "question_id": 135311,
+                  "text": "ከ ፹ (80) በላይ",
+                  "answer_start": 6,
+                  "answer_end": 18,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ ምን ምን ሃይማኖቶች በስፋት ይገኛሉ?",
+              "id": 135312,
+              "answers": [
+                {
+                  "answer_id": 201014,
+                  "document_id": 266677,
+                  "question_id": 135312,
+                  "text": "ክርስትና እና እስልምና",
+                  "answer_start": 207,
+                  "answer_end": 221,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ ስንት ቋንቋዎች ይነገራሉ?",
+              "id": 135313,
+              "answers": [
+                {
+                  "answer_id": 201015,
+                  "document_id": 266677,
+                  "question_id": 135313,
+                  "text": "ከ ፹ በላይ",
+                  "answer_start": 392,
+                  "answer_end": 399,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የኢትዮጵያ የስራ ቋንቋ ምንድን ነው?",
+              "id": 135314,
+              "answers": [
+                {
+                  "answer_id": 201016,
+                  "document_id": 266677,
+                  "question_id": 135314,
+                  "text": "አማርኛ",
+                  "answer_start": 484,
+                  "answer_end": 488,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አማርኛ የስራ ቋንቋ የሆነባት ሀገር ማን ናት?",
+              "id": 135315,
+              "answers": [
+                {
+                  "answer_id": 201018,
+                  "document_id": 266677,
+                  "question_id": 135315,
+                  "text": "ኢትዮጵያ",
+                  "answer_start": 0,
+                  "answer_end": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ የሚነገሩ ቋንቋዎች በስንት ይከፈላሉ?",
+              "id": 135322,
+              "answers": [
+                {
+                  "answer_id": 201025,
+                  "document_id": 266677,
+                  "question_id": 135322,
+                  "text": "ሁለት",
+                  "answer_start": 626,
+                  "answer_end": 629,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በኢትዮጵያ የሚነገሩ ቋንቋዎች በምን በምን መደብ ይከፈላሉ?",
+              "id": 135324,
+              "answers": [
+                {
+                  "answer_id": 201027,
+                  "document_id": 266677,
+                  "question_id": 135324,
+                  "text": "አፍሮ-ኤስያዊ እና ናይሎ ሳህራዊ",
+                  "answer_start": 600,
+                  "answer_end": 620,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኩሻዊ ቋንቋ በምን መደብ ይካተታል?",
+              "id": 135325,
+              "answers": [
+                {
+                  "answer_id": 201028,
+                  "document_id": 266677,
+                  "question_id": 135325,
+                  "text": "በአፍሮ-ኤስያዊ የቋንቋ ቤተሰብ ",
+                  "answer_start": 654,
+                  "answer_end": 674,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአፍሮ-ኤስያዊ ቋንቋ ቤተሰብ ንዑስ መደቦች እነማን ናቸው?",
+              "id": 135326,
+              "answers": [
+                {
+                  "answer_id": 201029,
+                  "document_id": 266677,
+                  "question_id": 135326,
+                  "text": "ኩሻዊ፣ ኦሞአዊ እና ሴማዊ",
+                  "answer_start": 679,
+                  "answer_end": 695,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኦሮሚኛና ሱማሊኛ ቋንቋ በምን መደብ ይካተታሉ?",
+              "id": 135328,
+              "answers": [
+                {
+                  "answer_id": 201031,
+                  "document_id": 266677,
+                  "question_id": 135328,
+                  "text": "ኩሻዊ",
+                  "answer_start": 714,
+                  "answer_end": 717,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አማርኛና ትግሪኛ ቋንቋ በምን መደብ ይካተታሉ?",
+              "id": 135329,
+              "answers": [
+                {
+                  "answer_id": 201032,
+                  "document_id": 266677,
+                  "question_id": 135329,
+                  "text": "ሴማዊ",
+                  "answer_start": 692,
+                  "answer_end": 695,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከአባይ-ሰሃራዊ የቋንቋ መደብ የሚካተቱ ቋንቋዎች ምሳሌ ስጥ?",
+              "id": 135331,
+              "answers": [
+                {
+                  "answer_id": 201034,
+                  "document_id": 266677,
+                  "question_id": 135331,
+                  "text": "በርታኛ ፣ ኩናማኛ ፣ ጉሙዝኛ ፣ ሙርሲኛ",
+                  "answer_start": 813,
+                  "answer_end": 838,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከአባይ-ሰሃራዊ የቋንቋ መደብ የሚካተቱ ቋንቋዎች እነማን ናቸው?",
+              "id": 135332,
+              "answers": [
+                {
+                  "answer_id": 201035,
+                  "document_id": 266677,
+                  "question_id": 135332,
+                  "text": "በርታኛ ፣ ኩናማኛ ፣ ጉሙዝኛ ፣ ሙርሲኛ",
+                  "answer_start": 813,
+                  "answer_end": 838,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኩሻዊ የቋንቋ መደብ ውስጥ የሚጠቃለሉ የኢትዮጵያ ቋንቋዎችን ዘርዝር?",
+              "id": 135334,
+              "answers": [
+                {
+                  "answer_id": 201037,
+                  "document_id": 266677,
+                  "question_id": 135334,
+                  "text": "አፋን ኦሮሞ ፣ ሶማልኛ ፣ አፋርኛ ፣ ሲዳምኛ ፣ ሃዲያኛ እና ከምባትኛ",
+                  "answer_start": 738,
+                  "answer_end": 782,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ኦሮሚኛ፣ ሶማልኛ፣ አፋርኛ፣ ሲዳምኛ፣ ሃዲያኛ እና ከምባትኛ የምን ቋንቋ ወገን ናቸው?",
+              "id": 135335,
+              "answers": [
+                {
+                  "answer_id": 201038,
+                  "document_id": 266677,
+                  "question_id": 135335,
+                  "text": "ኩሻዊ",
+                  "answer_start": 714,
+                  "answer_end": 717,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ኢትዮጵያ ከ ፹ (80) በላይ የሚሆኑ ብሔረሰቦች የሚገኙባት «የብሄረሰቦች ሙዚየም» ልትሰኝ የቻለች ሀገር ነች። ትልልቆቹ ብሄረሰቦች ፣ የአማራ ፣ እና የኦሮሞ የትግራይ እንደሁም የሶማሌ ሲሆኑ እነዚሁ ብሄረሰቦች ከጠቅላላው የሀገሪቷ ሕዝብ ቁጥር ከ 3/4ኛ በላይ የሚሆነውን ይይዛሉ። በሃይማኖት በኩልም ሁለቱ ትልልቅ ሃይማኖቶች ክርስትና እና እስልምና በስፋት የሚስተዋልባት አገር ናት። የክርስትና እምነት ተከታዮች ከ 55%-60 % ፣  እስልምና ከ35% እሰከ 40% እንዲሁም የፕሮቴስታንት እምነት ተከታዮች ወደ 5%-8% የሚሆነውን ይይዛሉ። በኢትዮጵያ ውስጥ ከ ፹ በላይ ብሔር ብሔረሰቦች የሚኖሩ ሲሆን በቋንቋም በኩል ከ ፹ በላይ የሚሆኑ ቋንቋዎች የሚነገሩባት ሀገር ናት። በአሁኑ ወቅት በአብዛኛው ኢትዮጵያውያን የሚነገሩት ቋንቋዎች አማርኛ እና ኦሮምኛ ሲሆኑ ፤ አማርኛ በተለያዩ የሀገሪቱ ክፍል ያሉ ነዋሪዎች የመማሪያ ፤ የመገበያያ እንዲሁም የስራ ቋንቋ ሆኖ የቆየ በመሆኑ በአሁኑ ወቅት የስራ ቋንቋ ነው። በኢትዮጵያ ውስጥ የሚነገሩት ቋንቋዎች አፍሮ-ኤስያዊ እና ናይሎ ሳህራዊ በሚባሉ ሁለት ዋና የቋንቋ ክፍሎች ሊካተቱ ይችላሉ። በአፍሮ-ኤስያዊ የቋንቋ ቤተሰብ ውስጥም ኩሻዊ፣ ኦሞአዊ እና ሴማዊ የሚባሉ ንዑስ ክፍሎች አሉ። ኩሻዊ ከሚባሉት ቋንቋዎች ዋና ዋናዎቹ አፋን ኦሮሞ ፣ ሶማልኛ ፣ አፋርኛ ፣ ሲዳምኛ ፣ ሃዲያኛ እና ከምባትኛ ሲሆኑ ከአባይ-ሰሃራዊ የቋንቋ ምድብ የሚካተቱት በርታኛ ፣ ኩናማኛ ፣ ጉሙዝኛ ፣ ሙርሲኛ እና የመሳሰሉት ናቸው።",
+          "document_id": 266677
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "በዓለም ሁለተኛ ትልቅ አህጉር ማን ነች?",
+              "id": 158187,
+              "answers": [
+                {
+                  "answer_id": 222826,
+                  "document_id": 266680,
+                  "question_id": 158187,
+                  "text": "አፍሪካ",
+                  "answer_start": 5,
+                  "answer_end": 9,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካ ምን ያህል ሕዝብ ይኖራል?",
+              "id": 158189,
+              "answers": [
+                {
+                  "answer_id": 222828,
+                  "document_id": 266680,
+                  "question_id": 158189,
+                  "text": "ከ869 ሚሊዮን በላይ",
+                  "answer_start": 40,
+                  "answer_end": 53,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካ ውስጥ ስንት ሀገሮች አሉ?",
+              "id": 158190,
+              "answers": [
+                {
+                  "answer_id": 222829,
+                  "document_id": 266680,
+                  "question_id": 158190,
+                  "text": "54",
+                  "answer_start": 82,
+                  "answer_end": 84,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካ በሕዝብ ብዛት አንደኛ ሀገር ማን ነች?",
+              "id": 158191,
+              "answers": [
+                {
+                  "answer_id": 222830,
+                  "document_id": 266680,
+                  "question_id": 158191,
+                  "text": "ናይጄሪያ",
+                  "answer_start": 112,
+                  "answer_end": 117,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በመልክአ ምድር አቀማመጥ አፍሪካንና አውሮፓን የሚለያቸው ባህር ምንድን ነው?",
+              "id": 158193,
+              "answers": [
+                {
+                  "answer_id": 222832,
+                  "document_id": 266680,
+                  "question_id": 158193,
+                  "text": "ሜዴቲራኒያን",
+                  "answer_start": 397,
+                  "answer_end": 404,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በመልክአ ምድር አቀማመጥ አፍሪካ ከአሜሪካ የሚለያት ባህር ምንድን ነው?",
+              "id": 158195,
+              "answers": [
+                {
+                  "answer_id": 222834,
+                  "document_id": 266680,
+                  "question_id": 158195,
+                  "text": "በአትላንቲክ ውቅያኖስ",
+                  "answer_start": 420,
+                  "answer_end": 433,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፍሪካን ከእስያ የሚለያት ባህር ምንድን ነው?",
+              "id": 158196,
+              "answers": [
+                {
+                  "answer_id": 222835,
+                  "document_id": 266680,
+                  "question_id": 158196,
+                  "text": "በኤርትራ ባሕር",
+                  "answer_start": 559,
+                  "answer_end": 568,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካና በእስያ አሕጉር መካከል ያለው መተላለፊያ ምን ይባላል?",
+              "id": 158198,
+              "answers": [
+                {
+                  "answer_id": 222837,
+                  "document_id": 266680,
+                  "question_id": 158198,
+                  "text": "ሱዝ ካናል",
+                  "answer_start": 595,
+                  "answer_end": 601,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በአፍሪካና በእስያ አሕጉር መካከል ያለው መተላለፊያ ሱዝ ካናልን ያሰራው ማነው?",
+              "id": 158199,
+              "answers": [
+                {
+                  "answer_id": 222838,
+                  "document_id": 266680,
+                  "question_id": 158199,
+                  "text": "ሙሴ ሌስፖስ",
+                  "answer_start": 629,
+                  "answer_end": 636,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ሙሴ ሌስፖስ ሱዝ ካናልን ለምን አሰራው?",
+              "id": 158200,
+              "answers": [
+                {
+                  "answer_id": 222839,
+                  "document_id": 266680,
+                  "question_id": 158200,
+                  "text": "መርከብ እንዲተላለፍ",
+                  "answer_start": 637,
+                  "answer_end": 649,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "አፍሪካ አፍሪካ (አፍሪቃ) ከዓለም ሁለተኛ ትልቅ አህጉር ነች። ከ869 ሚሊዮን በላይ ህዝብ በዚች አህጉር የሚኖር ሲሆን በጠቅላላ 54 ሀገሮች ይገኛሉ። ከእነዚህም ሀገሮች መሀል ናይጄሪያ በህዝብ ብዛት (127 ሚሊዮን) የመጀመሪያውን ደረጃ ስትይዝ፤ ግብፅና ኢትዮጵያ በ73 ሚሊዮን እና በ72 ሚሊዮን ህዝብ በሁለተኛና በሶስተኛ ደረጃ ይገኛሉ፡፡ በአሁኑ ወቅት የህዝብ ብዛት በከፍተኛ ሁኔታ መጨመር ከሌሎች የፖለቲካና ኢኮኖሚያዊ ሁኔታዎች ጋር በመደማመር ድህነትን በማባባስ ደረጃ ትልቅ ሚና ይጫወታል፡፡ ጂዎግራፊና ሕዝብ ከስድስቱ ዓለማት አንዱ አፍሪካ ነው። አፍሪካ ሰፊ ነው። የዓለምም አራተኛ ክፍል ይሆናል። ከኤውሮጳ የሚለየው በሜዴቲራኒያን ባሕር ነው። ከአሜሪካም በአትላንቲክ ውቅያኖስ ይለያል። ከኒው ዮርክም ቢሆን ወይም ከቦስቶን ከአሜሪካ የሚቀርበው ክፍል ሦስት ሺህ ማይል ይሆናል። ነገር ግን በጊብሮልታር (ጂብራልታር) በኩል የሆነ እንደ ሆነ ለኤውሮጳ በጣም ቅርብ ነው። ከእስያ በኤርትራ ባሕር ይለያያል። የሆነ ሆኖ እስያ ባንድ ወገን ሱዝ ካናል በሚባለው በኩል ከአፍሪካ ጋር ተጋጥሞአል። ሙሴ ሌስፖስ መርከብ እንዲተላለፍ ብሎ አስቆፍሮ ያስከፈተው በዚህ በኩል ነው። ",
+          "document_id": 266680
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "አክሱም በኢትዮጵያ በየትኛው ክልል ትገኛለች?",
+              "id": 272846,
+              "answers": [
+                {
+                  "answer_id": 270490,
+                  "document_id": 266720,
+                  "question_id": 272846,
+                  "text": "በትግራይ ",
+                  "answer_start": 21,
+                  "answer_end": 27,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአክሱም ስርወ መንግስት ቅሪት አካሎች በመያዟ በዩኔስኮ የቅርስ ቦታ ተብላ የተመዘገበችው መቼ ነው?",
+              "id": 272848,
+              "answers": [
+                {
+                  "answer_id": 270492,
+                  "document_id": 266720,
+                  "question_id": 272848,
+                  "text": "በ1980",
+                  "answer_start": 337,
+                  "answer_end": 342,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የአክሱም ስርወ መንግስት መቀመጫ የነበረችው የኢትዮጵያ ከተማ ማናት?",
+              "id": 272840,
+              "answers": [
+                {
+                  "answer_id": 270484,
+                  "document_id": 266720,
+                  "question_id": 272840,
+                  "text": "አክሱም ",
+                  "answer_start": 5,
+                  "answer_end": 10,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አክሱም በኢትዮጵያ በየት አቅጣጫ ትገኛለች?",
+              "id": 272844,
+              "answers": [
+                {
+                  "answer_id": 270488,
+                  "document_id": 266720,
+                  "question_id": 272844,
+                  "text": "በሰሜን ",
+                  "answer_start": 10,
+                  "answer_end": 15,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "አክሱም አክሱም በሰሜን ኢትዮጵያ በትግራይ ክ/ሃገር ከአድዋ ተራራዎች አጠገብ የምትገኝ ከተማ ነች። በክርስቶስ ልደት በፊት ተመስርቶ የነበረው የአክሱም ስርወ መንግስት ማእከል ነበረች የአክሱም ስርወ መንግስት በ12ኛው መቶ ክፍለ ዘመን አካባቢ እየተዳከመ ሲመጣ የማእከላዊው መንግስት ወደ ደቡብ ተንቀሳቀሰ። ሰባ አምስት በመቶ የሚሆነው የከተማው ነዋሪ የኦርቶዶክስ ሃይማኖት ተከታይ ነው። የተቀሩት ነዋሪዎች የሱኒ እስልምና ተከታዮች ናቸው። ባላቸው ታሪካዊ ተፈላጊነት ከተማ ውስጥ የሚገኙት የአክሱም ስርወ መንግስት ቅሪቶች UNESCO በ1980 የአለም ቅርስ ቦታ ተብለው ተሰይመዋል ። አክሱም በኢትዮጵያ የ ትግራይ ክልል ከተማ ሲሆን በማዕከላዊ ዞንና በላዕላይ ማይጨው ወረዳ ይገኛል። ",
+          "document_id": 266720
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "ላሊበላ በኢትዮጵያ በየትኛው ክልል ይገኛል?",
+              "id": 272572,
+              "answers": [
+                {
+                  "answer_id": 270123,
+                  "document_id": 266718,
+                  "question_id": 272572,
+                  "text": "በአማራ ክልል",
+                  "answer_start": 18,
+                  "answer_end": 26,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ላሊበላ ከባህር ጠለል በምን ያህል ከፍታ ላይ ትገኛለች?",
+              "id": 272573,
+              "answers": [
+                {
+                  "answer_id": 270124,
+                  "document_id": 266718,
+                  "question_id": 272573,
+                  "text": "2,500 ሜትር",
+                  "answer_start": 94,
+                  "answer_end": 103,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የላሊበላ ከተማን ታዋቂ ያደረጋት ምንድን ነው?",
+              "id": 272818,
+              "answers": [
+                {
+                  "answer_id": 270462,
+                  "document_id": 266718,
+                  "question_id": 272818,
+                  "text": "በ13ኛው መቶ ክፍለዘመን የተሰሩ 11 አብያተ-ክርስቲያናት",
+                  "answer_start": 374,
+                  "answer_end": 422,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "ላሊበላ ላሊበላ በኢትዮጵያ፣ በአማራ ክልል በቀድሞው የወሎ ክፍለ ሃገር የምትገኝ ከተማ ነች። በ ላይ የምትገኘው የላሊበላ ከተማ ከባህር ጠለል በላይ 2,500 ሜትር ከፍታ ያላት ስትሆን የህዝቡም ብዛት ወደ 11,152 ነው። 1 ላሊበላ ኢትዮጵያ ውስጥ ካሉት ቅዱሳን ከተማዎች መካከል ከአክሱም ቀጥላ በሁለተኛነት ደረጃ የምትገኝ ከተማ ስትሆን፣ ለአብዛኞቹ የክርስትና እምነት ተከታዮች እንደ ዋና የእምነት ማእከል በመሆን ታገለግላለች። የላሊበላ ነዋሪዎች በአብዛኛው የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተክርስቲያን እምነት ተከታዮች ናቸው። የላሊበላን ከተማ በዋነኛነት ታዋቂ ያረጉዋት ከክ.ል. በኋላ በ13ኛው መቶ ክፍለዘመን እንደ ተሰሩ የሚነገርላቸው 11 አብያተ-ክርስቲያናት ናቸው። በኢትዮጵያ ትውፊት መሰረት እነዚህ አብያተ-ክርስቲያናት በንጉሥ ላሊበላ ዘመን በቅዱሳን መላዕክት እረዳትነት እንደተሰሩ የሚታመን ሲሆን ግርሃም ሃንኮክ የተባለው እንግሊዛዊ ፀሃፊ ግን እኤአ በ1993 ዓ.ም ባሳተመውና The Sign and the Seal በተባለው መጽሃፉ አብያተ-ክርስቲያናቱን በማነፁ ሥራ ላይ ቴምፕላርስ የሚባሉት የመስቀል ጦረኞች ተካፍለዋል ሲል አትቷል ነገር ግን ማረጋገጫ አልነበረውም።  እነዚሀ አብያተ-ክርስቲያናት ውስጥ አርባ ትንንሽ ቤተክርስቲያኖች አሉ።",
+          "document_id": 266718
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "የፀሀይ ቅርጽ ምን ይመስላል?",
+              "id": 275200,
+              "answers": [
+                {
+                  "answer_id": 273827,
+                  "document_id": 266684,
+                  "question_id": 275200,
+                  "text": "ለፍጹም ሉል የቀረበ",
+                  "answer_start": 9,
+                  "answer_end": 21,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሀይ ዋልታዎቿን የሚያገናኘው ዲያሜትር እርዝመት ከወገቧ ዲያሜትር በምን ያህል መጠን ያንሳል?",
+              "id": 275201,
+              "answers": [
+                {
+                  "answer_id": 273828,
+                  "document_id": 266684,
+                  "question_id": 275201,
+                  "text": "በ10 ኪሎ ሜትር",
+                  "answer_start": 70,
+                  "answer_end": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሀይ  የሚታየው ገጽ ስኂን ምን ያህል ነው?",
+              "id": 275202,
+              "answers": [
+                {
+                  "answer_id": 273829,
+                  "document_id": 266684,
+                  "question_id": 275202,
+                  "text": "6,000 ኬ (ኬልቪን)",
+                  "answer_start": 199,
+                  "answer_end": 213,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በሥነ ፈለክ ተመራማሪዎች ግምት የፀሀይ እድሜ ስንት ነው?",
+              "id": 275203,
+              "answers": [
+                {
+                  "answer_id": 273830,
+                  "document_id": 266684,
+                  "question_id": 275203,
+                  "text": "4.6 ቢሊዮን ዓመት",
+                  "answer_start": 299,
+                  "answer_end": 311,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሀይ የመጠነ ቁስ ጥንቅር ነገሮች መካከል 25% ያህሉ ምንድን ነው?",
+              "id": 275205,
+              "answers": [
+                {
+                  "answer_id": 273832,
+                  "document_id": 266684,
+                  "question_id": 275205,
+                  "text": "ሂሊየም",
+                  "answer_start": 390,
+                  "answer_end": 394,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሀይ የመጠነ ቁስ ጥንቅር ነገሮች መካከል 74% ያህሉ ምንድን ነው?",
+              "id": 275204,
+              "answers": [
+                {
+                  "answer_id": 273831,
+                  "document_id": 266684,
+                  "question_id": 275204,
+                  "text": "ሃይድሮጂን",
+                  "answer_start": 378,
+                  "answer_end": 384,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከፀሀይ የመጠነ ቁስ ጥንቅር ነገሮች መካከል የሃይድሮጂን መጠን ምን ያህል ነው?",
+              "id": 275207,
+              "answers": [
+                {
+                  "answer_id": 273834,
+                  "document_id": 266684,
+                  "question_id": 275207,
+                  "text": "74%",
+                  "answer_start": 374,
+                  "answer_end": 377,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የፀሀይ የመጠነ ቁስ ጥንቅር ነገሮች መካከል 1% ያህሉ ምንድን ነው?",
+              "id": 275206,
+              "answers": [
+                {
+                  "answer_id": 273833,
+                  "document_id": 266684,
+                  "question_id": 275206,
+                  "text": "የብረቴ ንጥረ-ነገሮች ጥርቅም",
+                  "answer_start": 426,
+                  "answer_end": 444,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከፀሀይ የመጠነ ቁስ ጥንቅር ነገሮች መካከል የሂሊየም መጠን ምን ያህል ነው?",
+              "id": 275208,
+              "answers": [
+                {
+                  "answer_id": 273835,
+                  "document_id": 266684,
+                  "question_id": 275208,
+                  "text": "25%",
+                  "answer_start": 386,
+                  "answer_end": 389,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "ከፀሀይ የመጠነ ቁስ ጥንቅሮች መካከል የብረቴ ንጥረ-ነገሮች ጥርቅም መጠን ምን ያህል ነው?",
+              "id": 275209,
+              "answers": [
+                {
+                  "answer_id": 273836,
+                  "document_id": 266684,
+                  "question_id": 275209,
+                  "text": "1% ",
+                  "answer_start": 404,
+                  "answer_end": 407,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "የፀሓይ አካል ለፍጹም ሉል የቀረበ ቅርጽ አለው፤ ዋልታዎቿን የሚያገናኘው ዳያሜትር ከወገቧ ዳያሜትር የሚያንሰው በ10 ኪሎ ሜትር ብቻ ነውና። ኮከባችን ፀሓይ በሥነ ፈለክ ሊቃውንት እጅግ ብዙ ጥናት ተደርጎባታል። ኾኖም ኮከቢቱን በተመለከተ ብዙ ጥያቄዎች ገና አልተመለሱም። ለምሳሌ በገሃድ የሚታየው የፀሓይ ገጽ ስኂን 6,000 ኬ (ኬልቪን) ኾኖ ሳለ፣ የዳርቻ ከባቢ አየሯ ስኂን ከሚሊዮን ኬ በላይ እንዴት ሊኾን እንደቻለ አይታወቅም። የፀሓይ ዕድሜ በአንዳንድ ሊቃውንት እሳቤ 4.6 ቢሊዮን ዓመት ገደማ ነውና በዕድሜ እኩሌታዋ ላይ የምትገኝ ኮከብ ተደርጋ ትታያለች። የኮከቢቱ መጠነ-ቁስ ጥንቅር 74% ሃይድሮጂን፣ 25% ሂሊየም ሲኾን፣ ቀሪው 1% ደግሞ ክብደት ያላቸው ርዝራዥ የብረቴ ንጥረ-ነገሮች ጥርቅም ነው። ስለ ፀሓይ የሰው ልጅ ቀዳሚ መሠረታዊ ግንዛቤ ብርሃን-ሰጭ ሰማያዊ ጻሕል መኾኗን፣ ደግሞም ከአድማስ በላይ እና በታች በመኾን ለመዓልትና ሌሊት መኖር ምክንያት መኾኗን መረዳት ነበር። በብዙ የቅድመ-ታሪክ እና የጥንት ዘመን ባህሎች ፀሓይ እንደ ብርሃናዊ አምላክ ወይም እንደ ዲበ-ተፈጥሯዊ ክሥተት ትታይ ነበር። የፀሓይ አምልኮ ለምሳሌ የ-ኢንካ (ደቡብ አሜሪካ) እና አዝቴክ (የዛሬዋ ሜክሲኮ) ጥንታዊ ሥልጣኔዎች ዐይነተኛ ገጽታ ነበር። ከፀሓያዊ ክሥትቶች ጋር የተያያዙ ብዙ ጥንታዊ ሐውልቶች ተገንብተው እንደነበር ለማሰብ የሐጋይ ሶልስቲስን ለማስታወቅ የተገነቡትን የድንጋይ ሜጋሊት በምሳሌነት መጥቀስ ይቻላል። ከችንክር ከዋክብት አንጻር ስትታይ ፀሓይ የግርዶሽ መስመርን ተከትላ በዞዲያክ ውስጥ በዓመት አንድ ዑደት የምታደርግ ትመስላለች። ስለዚህ በጥንት የግሪክ የሥነ-ከዋክብት ሊቃውንት ዘንድ ፀሓይ ታዋቂ ከነበሩ ሰባት ፈለኮች እንደ አንዱ ትቈጠር ነበር። በአንዳንድ ቋንቋዎች ሰባቱ የሳምንት ዕለታት በነዚህ ፈለኮች ይጠራሉ።",
+          "document_id": 266684
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "አፈወርቅ ተክሌ መች ተወለዱ?",
+              "id": 282058,
+              "answers": [
+                {
+                  "answer_id": 277341,
+                  "document_id": 452156,
+                  "question_id": 282058,
+                  "text": "ጥቅምት ፲፫ ቀን ፲፱፻፳፭ ዓ/ም",
+                  "answer_start": 135,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "በስሌድ የኪነጥበብ ማዕከል ከአፈወርቅ ተክሌ ጋር የገቡት ሌላኛው አፍሪቃዊ ማን ነበሩ?",
+              "id": 282065,
+              "answers": [
+                {
+                  "answer_id": 277348,
+                  "document_id": 452156,
+                  "question_id": 282065,
+                  "text": "ኢብራሂም ኤል ሳላሂ",
+                  "answer_start": 1069,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፈወርቅ ተክሌ በስንት ዓመተ ምህረት ነበር ለከፍተኛ ት/ት ተመርጠው ወደ እንግሊዝ ሀገር የተላኩት?",
+              "id": 282066,
+              "answers": [
+                {
+                  "answer_id": 277349,
+                  "document_id": 452156,
+                  "question_id": 282066,
+                  "text": "በ፲፱፻፵ ዓ/ም",
+                  "answer_start": 537,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፈወርቅ ተክሌ ፲፱፻፵ ዓ.ም ለከፍተኛ ት/ት ተመርጠው የተላኩት ወዴት ነው?",
+              "id": 282067,
+              "answers": [
+                {
+                  "answer_id": 277350,
+                  "document_id": 452156,
+                  "question_id": 282067,
+                  "text": "እንግሊዝ ",
+                  "answer_start": 592,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፈወርቅ ተክሌ ፲፱፻፵ ዓ.ም ለከፍተኛ ት/ት ተመርጠው ወደ እንግሊዝ ሀገር የተላኩት ምን ትምህርት እንዲያጠኑ ነበር?",
+              "id": 282068,
+              "answers": [
+                {
+                  "answer_id": 277351,
+                  "document_id": 452156,
+                  "question_id": 282068,
+                  "text": "የምሕንድስና",
+                  "answer_start": 565,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የተከበሩ አቶ አፈወርቅ ተክሌ የት ተወለዱ?",
+              "id": 282059,
+              "answers": [
+                {
+                  "answer_id": 277342,
+                  "document_id": 452156,
+                  "question_id": 282059,
+                  "text": "አንኮበር",
+                  "answer_start": 126,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የተከበሩ አቶ አፈወርቅ ተክሌ አባታቸው ማን ናቸው?",
+              "id": 282060,
+              "answers": [
+                {
+                  "answer_id": 277343,
+                  "document_id": 452156,
+                  "question_id": 282060,
+                  "text": "አቶ ተክሌ  ማሞ",
+                  "answer_start": 163,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፈወርቅ ተክሌ ለከፍተኛ ትምህርት በስንት አመታቸው ተመረጡ?",
+              "id": 282061,
+              "answers": [
+                {
+                  "answer_id": 277344,
+                  "document_id": 452156,
+                  "question_id": 282061,
+                  "text": "በአሥራ አምስት ዓመታቸው",
+                  "answer_start": 520,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የተከበሩ አቶ አፈወርቅ ተክሌ እናታቸው ማን ይባላሉ?",
+              "id": 282062,
+              "answers": [
+                {
+                  "answer_id": 277345,
+                  "document_id": 452156,
+                  "question_id": 282062,
+                  "text": "ከወይዘሮ ፈለቀች የማታወርቅ",
+                  "answer_start": 184,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "አፈወርቅ ተክሌ የምህንድስና ትምህርታቸውን ትተው ኪነጥበብ ለማጥናት ለመጀመሪያ ጊዜ የገቡበት ትምህርት ቤት ምን ይባላል?",
+              "id": 282063,
+              "answers": [
+                {
+                  "answer_id": 277346,
+                  "document_id": 452156,
+                  "question_id": 282063,
+                  "text": "በሎንዶን የኪነ ጥበብ ማእከላዊ ትምሕርት ቤት",
+                  "answer_start": 903,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "የኪነጥበብ ትምህርታቸው የበለጠ ለማዳበር የለንደን ዩኒቨርሲቲ ምን ማዕከል የመጀመሪያ አፍሪቃዊ ተማሪ ሆነው ገቡ?",
+              "id": 282064,
+              "answers": [
+                {
+                  "answer_id": 277347,
+                  "document_id": 452156,
+                  "question_id": 282064,
+                  "text": "የስሌድ ኪነ ጥበብ ማዕከል",
+                  "answer_start": 1002,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "አፈወርቅ ተክሌ የዓለም ሊቀ ሊቃውንት፣ የኪነ ጥበብ ምሑር የተከበሩ ሰዓሊ አፈወርቅ ተክሌ በዓለም የታወቁና የተከበሩት ኢትዮጵያዊ  ሰዓሊ አፈወርቅ ተክሌ በሰሜን ሸዋ በምትገኘው የሸዋ ነገሥታት ከተማ አንኮበር ላይ ጥቅምት ፲፫ ቀን ፲፱፻፳፭ ዓ/ም ከአባታቸው አቶ ተክሌ  ማሞ እና ከእናታቸው ከወይዘሮ ፈለቀች የማታወርቅ ተወለዱ። ገና በጨቅላ ዕድሜያቸው ፋሺስት ኢጣልያ ኢትዮጵያን በግፍ ሲወራት፣ የልጅነት ትዝታቸውም ይሄው የግፍ ወረራ እና ጦርነት የሚያስከትለው የሰው፣ የንብረት እና የባህል ጥፋት ፤ ከነጻነትም በኋላ ዐቢዩ ሥራ በወረራ የተበላሸችውን ሀገራቸውን እንደገና መገንባት እንደሆነ ነው። ለዚህም የሀገር ግንባታ አስፈላጊውን እውቀት መሸመት የፈለጉት በ ማዕድን ምሕንድስና ዘርፍ ነበር። ወላጆቻቸውና ዘመድ አዝማዶች ግን የኪነ ጥበብ ስጦታቸውን በቤታቸውና በከተማው ዙሪያ በሚስሏቸው ስዕሎች ተገንዝበውት ነበር። ገና በአሥራ አምስት ዓመታቸው በ፲፱፻፵ ዓ/ም ለከፍተኛ ትምህርት ተመርጠው የምሕንድስና ትምህርታቸውን ለመከታተል ወደ እንግሊዝ አገር ይላካሉ። አፈወርቅ ተክሌ በእንግሊዝ አገር የአዳሪ ተማሪ ቤትን ኑሮ ሲያስታውሱ የባዕድ ባህላት፣ የአየር ለውጥ እና የተለመደው የተማሪ ቤት ዝንጠላ እንዳስቸገራቸው ያወሳሉ። ቢሆንም ትምሕርታቸውን በትጋት ሲከታተሉ ቆዩ። በተለይም በሒሣብ፣ በኬሚስትሪ እና በታሪክ ትምሕርቶች ጥሩ ውጤት በማምጣት ሰለጠኑ። ነገር ግን አስተማሪዎቻቸው የተፈጥሮ ስጦታቸው ኪነ ጥበብ እንደሆነ ለመገንዘብ ብዙ ጊዜም አልወሰደባቸውም። በነሱም አበረታችነት በእዚህ ስጦታቸው ላይ የበለጠ ለማተኮር ወስነው በሎንዶን የኪነ ጥበብ ማእከላዊ ትምሕርት ቤት ተመዝግበው ገቡ እዚህ ትምህርት ቤት ጥምሕርታቸውን ሲያጠናቅቁ ለከፍተኛ ጥናት በስመ ጥሩው የሎንዶን ዩኒቨርሲቲ የስሌድ ኪነ ጥበብ ማዕከል የመጀመሪያው አፍሪቃዊ ተማሪ (ከተከተሏቸው አፍሪቃውያን አንዱ የሱዳን ተወላጁ  ኢብራሂም ኤል ሳላሂ ናቸው) በመሆን ገቡ። እዚህ በስዕል፣ ቅርጽ እና በአርክቴክቸር ጥናቶች ላይ አተኩረው ተመረቁ። ትምሕርታቸውን አጠናቀው ወደ ኢትዮጵያ ሲመለሱ፣ በየጥቅላይ ግዛቶቹ እየተዘዋወሩ፣ በየቦታው እስከ ሦስት ወራት በመቀመጥ የኢትዮጵያን ታሪክ እና የብሔረሰቦቿን ባህልና ወግ በሚገባ አጥንተዋል።",
+          "document_id": 452156
+        }
+      ]
+    }
+  ],
+  "version": "2.0"
+}
