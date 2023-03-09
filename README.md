@@ -4,6 +4,7 @@ Question Answering (QA) returns concise answers or answer lists from natural lan
 ## Dataset
 In Amharic, interrogative sentences can be formulated using information-seeking pronouns like “ምን” (what), “መቼ” (when), “ማን” (who), “የት” (where), “የትኛው” (which), etc. and prepositional interrogative phrases like “ለምን” [ለ-ምን] (why), “በምን” [በ-ምን] (by what), etc. Besides, a verb phrase could be used to pose questions (Getahun 2013; Baye 2009). As shown bellow, the AmQA dataset contains context, question, and answer triplets. The contexts are articles collected from Amharic [Wikipedia](https://am.wikipedia.org/wiki/ዋናው_ገጽ) dump file. The question-answer pairs are created by crowdsourcing and annotated using the [Haystack QA annotation tool](https://www.deepset.ai/annotation-tool-for-labeling-datasets). 2628 question and answer pairs are created from 378 documents.
 The whole [AmQA dataset](AmQA_Dataset.json) can be found here. We also split the datset into [train](train_data.json), [dev](dev_data.json), and [test](test_data.json) with a size of 1728, 600, and 300 respectively.
+
 ```json
   {
    "paragraphs": [
@@ -64,8 +65,9 @@ The whole [AmQA dataset](AmQA_Dataset.json) can be found here. We also split the
       ]
     }
 ```
-
 ## Baseline Model
 Since the AmQA dataset contains a set of contexts along with question-answer pairs, it can be considered aas a reading comprehension (RC) task. That is, given a question Q and a context, the goal of the model is to identify a word or group of consecutive words that answer question Q. Hence, based on this assumption we have set a baseline value for the AmQA using XLM-R (Cross-Lingual Language Model-RoBERTa) based QA model. On the other hand, since retriever-reader-based QA models first retrieve relevant passages, then read top-ranked passages and try to predict the start and end positions of the answer. So, we have implemented a retriever-reader (RR) QA model using the [Farm Haystack](https://haystack.deepset.ai) open-source framework. For the retriever part, we have used BM25 and [XLM-R<sub>Large</sub>](https://huggingface.co/deepset/xlm-roberta-large-squad2) is used as a reader. The experimental result is shown in the figure given below.
 
 <img width="518" alt="Screenshot 2022-11-29 at 13 18 01" src="https://user-images.githubusercontent.com/58974800/223388047-cbece715-05bf-4de4-b545-55063a26c354.png">
+
+### The full paper can be found [here](https://arxiv.org/abs/2303.03290).
