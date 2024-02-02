@@ -71,3 +71,4 @@ Since the AmQA dataset contains a set of contexts along with question-answer pai
 <img width="518" alt="Screenshot 2022-11-29 at 13 18 01" src="https://user-images.githubusercontent.com/58974800/223388047-cbece715-05bf-4de4-b545-55063a26c354.png">
 
 ### The full paper can be found [here](https://arxiv.org/abs/2303.03290).
+#### The dataset is also availaible on Hugging Face [here](https://huggingface.co/datasets/dagim/amharic-qa).
