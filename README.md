@@ -75,3 +75,23 @@ On the other hand, retriever-reader-based QA models first retrieve relevant pass
 
 ### The full paper can be found [here](https://aclanthology.org/2024.rail-1.14.pdf).
 #### The dataset is also available on Hugging Face [here](https://huggingface.co/datasets/dagim/amharic-qa).
+##### Cite Us
+```bibtex
+@inproceedings{taffa-etal-2024-low,
+    title = "Low Resource Question Answering: An {A}mharic Benchmarking Dataset",
+    author = "Taffa, Tilahun Abedissa  and
+      Usbeck, Ricardo  and
+      Assabie, Yaregal",
+    editor = "Mabuya, Rooweither  and
+      Matfunjwa, Muzi  and
+      Setaka, Mmasibidi  and
+      van Zaanen, Menno",
+    booktitle = "Proceedings of the Fifth Workshop on Resources for African Indigenous Languages @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.rail-1.14",
+    pages = "124--132"
+}
+```
