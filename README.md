@@ -1,4 +1,4 @@
-# Low Resource Question Answering: An Amharic Benchmarking Dataset
+# [Low Resource Question Answering: An Amharic Benchmarking Dataset](https://aclanthology.org/2024.rail-1.14) (Taffa et al., 2024)
 Question Answering (QA) systems return concise answers or answer lists based on natural language text, which uses a given context document. Many resources go into curating QA datasets to advance the development of robust QA  models. There is a surge in QA datasets for languages such as English; this is different for low-resource languages like Amharic. Indeed, there is no published or publicly available Amharic QA dataset. Hence, to foster further research in low-resource QA, we present the first publicly available benchmarking **Amh**aric **Qu**estion **A**nswering **D**ataset (Amh-QuAD). We crowdsource 2,628 question-answer pairs from over 378 Amharic Wikipedia articles. Using the training set, we fine-tune an XLM-R-based language model and introduce a new reader model. Leveraging our newly fine-tuned reader run a baseline model to spark open-domain Amharic QA research interest. The best-performing baseline QA achieves an F-score of 80.3 and 81.34 in retriever-reader and reading comprehension settings.
 ## Dataset
 In Amharic, interrogative sentences can be formulated using information-seeking pronouns like “ምን” (what), “መቼ” (when), “ማን” (who), “የት” (where), “የትኛው” (which), etc. and prepositional interrogative phrases like “ለምን” [ለ-ምን] (why), “በምን” [በ-ምን] (by what), etc. Besides, a verb phrase could be used to pose questions (Getahun 2013; Baye 2009). As shown below, the AmQA dataset contains context, question, and answer triplets. The contexts are articles collected from Amharic [Wikipedia](https://am.wikipedia.org/wiki/ዋናው_ገጽ) dump file. The question-answer pairs are created by crowdsourcing and annotated using the [Haystack QA annotation tool](https://www.deepset.ai/annotation-tool-for-labeling-datasets). 2628 question and answer pairs are created from 378 documents.
@@ -82,10 +82,6 @@ On the other hand, retriever-reader-based QA models first retrieve relevant pass
     author = "Taffa, Tilahun Abedissa  and
       Usbeck, Ricardo  and
       Assabie, Yaregal",
-    editor = "Mabuya, Rooweither  and
-      Matfunjwa, Muzi  and
-      Setaka, Mmasibidi  and
-      van Zaanen, Menno",
     booktitle = "Proceedings of the Fifth Workshop on Resources for African Indigenous Languages @ LREC-COLING 2024",
     month = may,
     year = "2024",
