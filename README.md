@@ -75,6 +75,7 @@ On the other hand, retriever-reader-based QA models first retrieve relevant pass
 
 ### The full paper can be found [here](https://aclanthology.org/2024.rail-1.14.pdf).
 #### The dataset is also available on Hugging Face [here](https://huggingface.co/datasets/dagim/amharic-qa).
+#### N.B. This work previously released in Arxiv entitled [AmQA: Amharic Question Answering Dataset](https://arxiv.org/pdf/2303.03290).
 ##### Cite Us
 ```bibtex
 @inproceedings{taffa-etal-2024-low,
